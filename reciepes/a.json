@@ -2,7 +2,7 @@
   "id": "a",
   "title": { "en": "Chicken Curry", "fr": "Curry de poulet" },
   "time": 35,
-  "image": "https://blitech.github.io/reciepes/images/chicken-curry.jpg",
+  "image": "https://blitech.github.io/reciepes/images/a.jpg",
   "tags": ["spicy", "quick", "winter"],
   "ingredients": [
     { "name": { "en": "chicken breast", "fr": "blanc de poulet" }, "quantity": 400, "unit": "g" },

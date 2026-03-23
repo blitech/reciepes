@@ -2,7 +2,7 @@
   "id": "b",
   "title": { "en": "Spaghetti Carbonara", "fr": "Spaghetti Carbonara" },
   "time": 20,
-  "image": "https://blitech.github.io/reciepes/images/spaghetti-carbonara.jpg",
+  "image": "https://blitech.github.io/reciepes/images/b.jpg",
   "tags": ["italian", "quick", "comfort"],
   "ingredients": [
     { "name": { "en": "spaghetti", "fr": "spaghetti" }, "quantity": 200, "unit": "g" },

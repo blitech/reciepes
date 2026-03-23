@@ -2,7 +2,7 @@
   "id": "e",
   "title": { "en": "Greek Salad", "fr": "Salade grecque" },
   "time": 10,
-  "image": "https://blitech.github.io/reciepes/images/greek-salad.jpg",
+  "image": "https://blitech.github.io/reciepes/images/e.jpg",
   "tags": ["fresh", "summer", "vegetarian"],
   "ingredients": [
     { "name": { "en": "tomato", "fr": "tomate" }, "quantity": 4, "unit": "" },

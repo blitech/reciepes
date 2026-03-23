@@ -2,7 +2,7 @@
   "id": "c",
   "title": { "en": "Vegetable Stir Fry", "fr": "Wok de légumes" },
   "time": 15,
-  "image": "https://blitech.github.io/reciepes/images/vegetable-stir-fry.jpg",
+  "image": "https://blitech.github.io/reciepes/images/c.jpg",
   "tags": ["vegan", "quick", "healthy"],
   "ingredients": [
     { "name": { "en": "broccoli", "fr": "brocoli" }, "quantity": 200, "unit": "g" },

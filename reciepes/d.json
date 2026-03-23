@@ -2,7 +2,7 @@
   "id": "d",
   "title": { "en": "Chocolate Cake", "fr": "Gâteau au chocolat" },
   "time": 60,
-  "image": "https://blitech.github.io/reciepes/images/chocolate-cake.jpg",
+  "image": "https://blitech.github.io/reciepes/images/d.jpg",
   "tags": ["dessert", "sweet", "weekend"],
   "ingredients": [
     { "name": { "en": "dark chocolate", "fr": "chocolat noir" }, "quantity": 200, "unit": "g" },
