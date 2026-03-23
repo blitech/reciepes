@@ -1,10 +1,42 @@
 [
   {
     "id": "a",
-    "t": "chicken curry",
-    "img": "https://.../chicken.jpg",
+    "t": "Chicken Curry",
+    "img": "https://blitech.github.io/reciepes/images/a.jpg",
     "m": 35,
     "tg": ["spicy", "quick", "winter"],
     "ig": ["chicken", "rice", "onion"]
+  },
+  {
+    "id": "b",
+    "t": "Spaghetti Carbonara",
+    "img": "https://blitech.github.io/reciepes/images/b.jpg",
+    "m": 20,
+    "tg": ["italian", "quick", "comfort"],
+    "ig": ["pasta", "bacon", "egg"]
+  },
+  {
+    "id": "c",
+    "t": "Vegetable Stir Fry",
+    "img": "https://blitech.github.io/reciepes/images/c.jpg",
+    "m": 15,
+    "tg": ["vegan", "quick", "healthy"],
+    "ig": ["broccoli", "carrot", "soy sauce"]
+  },
+  {
+    "id": "d",
+    "t": "Chocolate Cake",
+    "img": "https://blitech.github.io/reciepes/images/d.jpg",
+    "m": 60,
+    "tg": ["dessert", "sweet", "weekend"],
+    "ig": ["chocolate", "flour", "egg"]
+  },
+  {
+    "id": "e",
+    "t": "Greek Salad",
+    "img": "https://blitech.github.io/reciepes/images/e.jpg",
+    "m": 10,
+    "tg": ["fresh", "summer", "vegetarian"],
+    "ig": ["tomato", "cucumber", "feta"]
   }
 ]

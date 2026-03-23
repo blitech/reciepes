@@ -1,0 +1,19 @@
+{
+  "id": "c",
+  "title": { "en": "Vegetable Stir Fry", "fr": "Wok de légumes" },
+  "time": 15,
+  "image": "https://blitech.github.io/reciepes/images/vegetable-stir-fry.jpg",
+  "tags": ["vegan", "quick", "healthy"],
+  "ingredients": [
+    { "name": { "en": "broccoli", "fr": "brocoli" }, "quantity": 200, "unit": "g" },
+    { "name": { "en": "carrot", "fr": "carotte" }, "quantity": 2, "unit": "" },
+    { "name": { "en": "bell pepper", "fr": "poivron" }, "quantity": 1, "unit": "" },
+    { "name": { "en": "soy sauce", "fr": "sauce soja" }, "quantity": 3, "unit": "tbsp" },
+    { "name": { "en": "garlic", "fr": "ail" }, "quantity": 2, "unit": "cloves" }
+  ],
+  "steps": [
+    { "order": 1, "text": { "en": "Cut all vegetables into bite-size pieces.", "fr": "Couper tous les légumes en morceaux." } },
+    { "order": 2, "text": { "en": "Stir-fry garlic 30 seconds, then add vegetables.", "fr": "Faire revenir l'ail 30 secondes, puis ajouter les légumes." } },
+    { "order": 3, "text": { "en": "Stir-fry 8-10 minutes, add soy sauce at the end.", "fr": "Faire sauter 8-10 minutes, ajouter la sauce soja à la fin." } }
+  ]
+}

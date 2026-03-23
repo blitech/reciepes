@@ -1,0 +1,20 @@
+{
+  "id": "b",
+  "title": { "en": "Spaghetti Carbonara", "fr": "Spaghetti Carbonara" },
+  "time": 20,
+  "image": "https://blitech.github.io/reciepes/images/spaghetti-carbonara.jpg",
+  "tags": ["italian", "quick", "comfort"],
+  "ingredients": [
+    { "name": { "en": "spaghetti", "fr": "spaghetti" }, "quantity": 200, "unit": "g" },
+    { "name": { "en": "pancetta or bacon", "fr": "pancetta ou bacon" }, "quantity": 150, "unit": "g" },
+    { "name": { "en": "egg", "fr": "œuf" }, "quantity": 2, "unit": "" },
+    { "name": { "en": "parmesan", "fr": "parmesan" }, "quantity": 50, "unit": "g" },
+    { "name": { "en": "black pepper", "fr": "poivre noir" }, "quantity": 1, "unit": "tsp" }
+  ],
+  "steps": [
+    { "order": 1, "text": { "en": "Cook spaghetti in salted water.", "fr": "Cuire les spaghetti dans de l'eau salée." } },
+    { "order": 2, "text": { "en": "Fry pancetta until crispy.", "fr": "Faire frire la pancetta jusqu'à ce qu'elle soit croustillante." } },
+    { "order": 3, "text": { "en": "Mix eggs, parmesan and pepper.", "fr": "Mélanger les œufs, le parmesan et le poivre." } },
+    { "order": 4, "text": { "en": "Drain pasta, mix quickly with pancetta and egg mixture off the heat.", "fr": "Égoutter les pâtes, mélanger rapidement avec la pancetta et la préparation aux œufs hors du feu." } }
+  ]
+}

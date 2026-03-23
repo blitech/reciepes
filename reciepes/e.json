@@ -1,0 +1,21 @@
+{
+  "id": "e",
+  "title": { "en": "Greek Salad", "fr": "Salade grecque" },
+  "time": 10,
+  "image": "https://blitech.github.io/reciepes/images/greek-salad.jpg",
+  "tags": ["fresh", "summer", "vegetarian"],
+  "ingredients": [
+    { "name": { "en": "tomato", "fr": "tomate" }, "quantity": 4, "unit": "" },
+    { "name": { "en": "cucumber", "fr": "concombre" }, "quantity": 1, "unit": "" },
+    { "name": { "en": "red onion", "fr": "oignon rouge" }, "quantity": 0.5, "unit": "" },
+    { "name": { "en": "feta cheese", "fr": "feta" }, "quantity": 150, "unit": "g" },
+    { "name": { "en": "kalamata olives", "fr": "olives kalamata" }, "quantity": 100, "unit": "g" },
+    { "name": { "en": "olive oil", "fr": "huile d'olive" }, "quantity": 3, "unit": "tbsp" }
+  ],
+  "steps": [
+    { "order": 1, "text": { "en": "Cut tomatoes and cucumber into chunks.", "fr": "Couper les tomates et le concombre en morceaux." } },
+    { "order": 2, "text": { "en": "Slice onion thinly.", "fr": "Émincer l'oignon finement." } },
+    { "order": 3, "text": { "en": "Combine everything in a bowl, add olives and feta.", "fr": "Mélanger le tout dans un saladier, ajouter olives et feta." } },
+    { "order": 4, "text": { "en": "Drizzle with olive oil and oregano.", "fr": "Arroser d'huile d'olive et saupoudrer d'origan." } }
+  ]
+}

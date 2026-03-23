@@ -1,0 +1,20 @@
+{
+  "id": "d",
+  "title": { "en": "Chocolate Cake", "fr": "Gâteau au chocolat" },
+  "time": 60,
+  "image": "https://blitech.github.io/reciepes/images/chocolate-cake.jpg",
+  "tags": ["dessert", "sweet", "weekend"],
+  "ingredients": [
+    { "name": { "en": "dark chocolate", "fr": "chocolat noir" }, "quantity": 200, "unit": "g" },
+    { "name": { "en": "butter", "fr": "beurre" }, "quantity": 150, "unit": "g" },
+    { "name": { "en": "sugar", "fr": "sucre" }, "quantity": 150, "unit": "g" },
+    { "name": { "en": "egg", "fr": "œuf" }, "quantity": 4, "unit": "" },
+    { "name": { "en": "flour", "fr": "farine" }, "quantity": 100, "unit": "g" }
+  ],
+  "steps": [
+    { "order": 1, "text": { "en": "Melt chocolate and butter together.", "fr": "Faire fondre le chocolat et le beurre ensemble." } },
+    { "order": 2, "text": { "en": "Whisk eggs and sugar until pale.", "fr": "Battre les œufs et le sucre jusqu'à ce que le mélange blanchisse." } },
+    { "order": 3, "text": { "en": "Combine mixtures, fold in flour.", "fr": "Mélanger les deux préparations, incorporer la farine." } },
+    { "order": 4, "text": { "en": "Bake at 180°C for 25-30 minutes.", "fr": "Cuire au four à 180°C pendant 25-30 minutes." } }
+  ]
+}
