@@ -1,0 +1,29 @@
+{
+  "id": "a",
+  "title": {
+    "en": "Chicken Curry",
+    "fr": "Curry de poulet"
+  },
+  "time": 35,
+  "image": "https://.../chicken.jpg",
+  "tags": ["spicy", "quick", "winter"],
+  "ingredients": [
+    {
+      "name": {
+        "en": "chicken",
+        "fr": "poulet"
+      },
+      "quantity": 200,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Cut the chicken",
+        "fr": "Couper le poulet"
+      }
+    }
+  ]
+}
