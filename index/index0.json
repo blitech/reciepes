@@ -1,0 +1,10 @@
+[
+  {
+    "id": "a",
+    "t": "chicken curry",
+    "img": "https://.../chicken.jpg",
+    "m": 35,
+    "tg": ["spicy", "quick", "winter"],
+    "ig": ["chicken", "rice", "onion"]
+  }
+]
