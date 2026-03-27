@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Fish and Chips",
+    "fr": "Fish and Chips",
+    "de": "Fish and Chips",
+    "es": "Fish and Chips"
+  },
+  "time": 30,
+  "tags": [
+    "british",
+    "fish",
+    "fried",
+    "classic"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "white fish fillets",
+        "fr": "filets de poisson blanc",
+        "de": "weißes Fischfilet",
+        "es": "filetes de pescado blanco"
+      },
+      "quantity": 4,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "potatoes",
+        "fr": "pommes de terre",
+        "de": "Kartoffeln",
+        "es": "patatas"
+      },
+      "quantity": 4,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "flour",
+        "fr": "farine",
+        "de": "Mehl",
+        "es": "harina"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "beer",
+        "fr": "bière",
+        "de": "Bier",
+        "es": "cerveza"
+      },
+      "quantity": 150,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "oil",
+        "fr": "huile",
+        "de": "Öl",
+        "es": "aceite"
+      },
+      "quantity": 1,
+      "unit": "liter"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Make a beer batter with flour and beer.",
+        "fr": "Préparer une pâte à la bière avec de la farine et de la bière.",
+        "de": "Bierteig aus Mehl und Bier herstellen.",
+        "es": "Preparar un rebozado de cerveza con harina y cerveza."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Dip fish in batter and fry.",
+        "fr": "Tremper le poisson dans la pâte et frire.",
+        "de": "Fisch in Teig tauchen und frittieren.",
+        "es": "Pasar el pescado por el rebozado y freír."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Fry potatoes until crispy.",
+        "fr": "Frire les pommes de terre jusqu'à ce qu'elles soient croustillantes.",
+        "de": "Kartoffeln knusprig frittieren.",
+        "es": "Freír las patatas hasta que estén crujientes."
+      }
+    }
+  ],
+  "id": "at",
+  "image": "https://blitech.github.io/reciepes/images/at.jpg"
+}

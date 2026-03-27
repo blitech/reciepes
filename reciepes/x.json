@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Moussaka",
+    "fr": "Moussaka",
+    "de": "Moussaka",
+    "es": "Moussaka"
+  },
+  "time": 90,
+  "tags": [
+    "greek",
+    "eggplant",
+    "meat"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Eggplant",
+        "fr": "Aubergine",
+        "de": "Aubergine",
+        "es": "Berenjena"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "Minced beef",
+        "fr": "Bœuf haché",
+        "de": "Rinderhackfleisch",
+        "es": "Carne molida"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Bechamel sauce",
+        "fr": "Béchamel",
+        "de": "Béchamelsauce",
+        "es": "Salsa bechamel"
+      },
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "Potato",
+        "fr": "Pomme de terre",
+        "de": "Kartoffel",
+        "es": "Papa"
+      },
+      "quantity": 2,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Fry slices of eggplant and potato.",
+        "fr": "Frire des tranches d'aubergine et de pomme de terre."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Cook meat with tomato and spices.",
+        "fr": "Cuire la viande avec de la tomate et des épices."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Layer vegetables and meat, top with bechamel.",
+        "fr": "Superposer les légumes et la viande, couvrir de béchamel."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Bake until golden brown.",
+        "fr": "Cuire au four jusqu'à ce que ce soit bien doré."
+      }
+    }
+  ],
+  "id": "x",
+  "image": "https://blitech.github.io/reciepes/images/x.jpg"
+}

@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Tom Yum Goong",
+    "fr": "Tom Yum Goong",
+    "de": "Tom Yum Goong",
+    "es": "Tom Yum Goong"
+  },
+  "time": 30,
+  "tags": [
+    "thai",
+    "soup",
+    "shrimp",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "shrimp",
+        "fr": "crevettes",
+        "de": "Garnelen",
+        "es": "camarones"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "lemongrass",
+        "fr": "citronnelle",
+        "de": "Zitronengras",
+        "es": "hierba limón"
+      },
+      "quantity": 2,
+      "unit": "stalks"
+    },
+    {
+      "name": {
+        "en": "galangal",
+        "fr": "galanga",
+        "de": "Galgant",
+        "es": "galanga"
+      },
+      "quantity": 3,
+      "unit": "slices"
+    },
+    {
+      "name": {
+        "en": "lime leaves",
+        "fr": "feuilles de combava",
+        "de": "Limettenblätter",
+        "es": "hojas de lima"
+      },
+      "quantity": 4,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "chili paste",
+        "fr": "pâte de piment",
+        "de": "Chilipaste",
+        "es": "pasta de chile"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Boil herbs in water or broth.",
+        "fr": "Faire bouillir les herbes dans l'eau ou le bouillon.",
+        "de": "Kräuter in Wasser oder Brühe kochen.",
+        "es": "Hervir las hierbas en agua o caldo."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add shrimp and mushrooms.",
+        "fr": "Ajouter les crevettes et les champignons.",
+        "de": "Garnelen und Pilze hinzufügen.",
+        "es": "Añadir camarones y champiñones."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Season with lime juice and fish sauce.",
+        "fr": "Assaisonner avec du jus de citron vert et de la sauce poisson.",
+        "de": "Mit Limettensaft und Fischsauce abschmecken.",
+        "es": "Sazonar con jugo de lima y salsa de pescado."
+      }
+    }
+  ],
+  "id": "ap",
+  "image": "https://blitech.github.io/reciepes/images/ap.jpg"
+}

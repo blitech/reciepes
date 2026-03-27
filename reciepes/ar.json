@@ -1,17 +1,16 @@
 {
-  "id": "e",
   "title": {
-    "en": "Crêpes",
+    "en": "Crepes",
     "fr": "Crêpes",
     "de": "Crêpes",
     "es": "Crepes"
   },
-  "time": 30,
-  "image": "https://blitech.github.io/reciepes/images/e.jpg",
+  "time": 20,
   "tags": [
     "french",
-    "sweet",
-    "dessert"
+    "dessert",
+    "breakfast",
+    "sweet"
   ],
   "ingredients": [
     {
@@ -69,38 +68,31 @@
     {
       "order": 1,
       "text": {
-        "en": "Whisk flour, eggs, and sugar together.",
-        "fr": "Fouetter la farine, les oeufs et le sucre.",
-        "de": "Mehl, Eier und Zucker verquirlen.",
-        "es": "Batir la harina, los huevos y el azúcar."
+        "en": "Whisk ingredients into a smooth batter.",
+        "fr": "Mélanger les ingrédients pour obtenir une pâte lisse.",
+        "de": "Zutaten zu einem glatten Teig verrühren.",
+        "es": "Mezclar los ingredientes hasta obtener una masa suave."
       }
     },
     {
       "order": 2,
       "text": {
-        "en": "Gradually add milk until smooth.",
-        "fr": "Ajouter progressivement le lait jusqu'à l'obtention d'un mélange lisse.",
-        "de": "Nach und nach Milch hinzufügen, bis die Masse glatt ist.",
-        "es": "Añadir gradualmente la leche hasta que esté suave."
+        "en": "Pour thin layers onto a hot pan.",
+        "fr": "Verser des couches fines sur une poêle chaude.",
+        "de": "Dünne Schichten in eine heiße Pfanne gießen.",
+        "es": "Verter capas finas en una sartén caliente."
       }
     },
     {
       "order": 3,
       "text": {
-        "en": "Stir in melted butter.",
-        "fr": "Incorporer le beurre fondu.",
-        "de": "Geschmolzene Butter einrühren.",
-        "es": "Incorporar la mantequilla derretida."
-      }
-    },
-    {
-      "order": 4,
-      "text": {
-        "en": "Cook thin pancakes in a hot pan.",
-        "fr": "Cuire des crêpes fines dans une poêle chaude.",
-        "de": "Dünne Crêpes in einer heißen Pfanne backen.",
-        "es": "Cocinar crepes finos en una sartén caliente."
+        "en": "Cook both sides and fill.",
+        "fr": "Cuire des deux côtés et garnir.",
+        "de": "Beidseitig backen und füllen.",
+        "es": "Cocinar por ambos lados y rellenar."
       }
     }
-  ]
+  ],
+  "id": "ar",
+  "image": "https://blitech.github.io/reciepes/images/ar.jpg"
 }

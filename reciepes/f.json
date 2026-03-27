@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Margherita Pizza",
+    "fr": "Pizza Margherita",
+    "de": "Pizza Margherita",
+    "es": "Pizza Margherita"
+  },
+  "time": 45,
+  "tags": [
+    "italian",
+    "vegetarian",
+    "pizza"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Pizza dough",
+        "fr": "Pâte à pizza",
+        "de": "Pizzateig",
+        "es": "Masa de pizza"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "Tomato sauce",
+        "fr": "Sauce tomate",
+        "de": "Tomatensauce",
+        "es": "Salsa de tomate"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Mozzarella cheese",
+        "fr": "Mozzarella",
+        "de": "Mozzarella",
+        "es": "Queso mozzarella"
+      },
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Fresh basil",
+        "fr": "Basilic frais",
+        "de": "Frisches Basilikum",
+        "es": "Albahaca fresca"
+      },
+      "quantity": 10,
+      "unit": "leaves"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Preheat oven to 250°C.",
+        "fr": "Préchauffer le four à 250°C."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Spread tomato sauce on the dough.",
+        "fr": "Étaler la sauce tomate sur la pâte."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Add mozzarella and bake for 10 minutes.",
+        "fr": "Ajouter la mozzarella et cuire pendant 10 minutes."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Garnish with fresh basil.",
+        "fr": "Garnir de basilic frais."
+      }
+    }
+  ],
+  "id": "f",
+  "image": "https://blitech.github.io/reciepes/images/f.jpg"
+}

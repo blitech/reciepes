@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Classic Burger",
+    "fr": "Burger classique",
+    "de": "Klassischer Burger",
+    "es": "Hamburguesa clásica"
+  },
+  "time": 25,
+  "tags": [
+    "american",
+    "beef",
+    "fast-food"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Burger bun",
+        "fr": "Pain à burger",
+        "de": "Burgerbrötchen",
+        "es": "Pan de hamburguesa"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "Beef patty",
+        "fr": "Steak de bœuf",
+        "de": "Rindfleisch-Patty",
+        "es": "Carne de hamburguesa"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "Tomato slice",
+        "fr": "Tranche de tomate",
+        "de": "Tomatenscheibe",
+        "es": "Rodaja de tomate"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "Onion ring",
+        "fr": "Rondelle d'oignon",
+        "de": "Zwiebelring",
+        "es": "Aro de cebolla"
+      },
+      "quantity": 3,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Grill the beef patty to desired doneness.",
+        "fr": "Griller le steak de bœuf à la cuisson désirée."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Toast the burger bun.",
+        "fr": "Griller le pain à burger."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Assemble the burger with patty and vegetables.",
+        "fr": "Assembler le burger avec le steak et les légumes."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Add sauce of your choice.",
+        "fr": "Ajouter la sauce de votre choix."
+      }
+    }
+  ],
+  "id": "l",
+  "image": "https://blitech.github.io/reciepes/images/l.jpg"
+}

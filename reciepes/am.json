@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Clam Chowder",
+    "fr": "Chaudrée de palourdes",
+    "de": "Clam Chowder",
+    "es": "Crema de almejas"
+  },
+  "time": 40,
+  "tags": [
+    "american",
+    "soup",
+    "seafood",
+    "creamy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "clams",
+        "fr": "palourdes",
+        "de": "Muscheln",
+        "es": "almejas"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "potatoes",
+        "fr": "pommes de terre",
+        "de": "Kartoffeln",
+        "es": "patatas"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "bacon",
+        "fr": "bacon",
+        "de": "Speck",
+        "es": "bacon"
+      },
+      "quantity": 3,
+      "unit": "strips"
+    },
+    {
+      "name": {
+        "en": "heavy cream",
+        "fr": "crème liquide",
+        "de": "Sahne",
+        "es": "nata para cocinar"
+      },
+      "quantity": 200,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 1,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Cook bacon and sauté onion.",
+        "fr": "Cuire le bacon et faire revenir l'oignon.",
+        "de": "Speck braten und Zwiebel anbraten.",
+        "es": "Cocinar el bacon y sofreír la cebolla."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add potatoes, clam juice, and simmer.",
+        "fr": "Ajouter les pommes de terre, le jus de palourdes et laisser mijoter.",
+        "de": "Kartoffeln und Muschelsaft hinzufügen und köcheln lassen.",
+        "es": "Añadir patatas, jugo de almejas y cocinar a fuego lento."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Stir in clams and cream.",
+        "fr": "Ajouter les palourdes et la crème.",
+        "de": "Muscheln und Sahne unterrühren.",
+        "es": "Añadir las almejas y la nata."
+      }
+    }
+  ],
+  "id": "am",
+  "image": "https://blitech.github.io/reciepes/images/am.jpg"
+}

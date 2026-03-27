@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Laksa",
+    "fr": "Laksa",
+    "de": "Laksa",
+    "es": "Laksa"
+  },
+  "time": 45,
+  "tags": [
+    "malaysian",
+    "soup",
+    "spicy",
+    "noodles"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "rice noodles",
+        "fr": "nouilles de riz",
+        "de": "Reisnudeln",
+        "es": "fideos de arroz"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "shrimp",
+        "fr": "crevettes",
+        "de": "Garnelen",
+        "es": "camarones"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "coconut milk",
+        "fr": "lait de coco",
+        "de": "Kokosmilch",
+        "es": "leche de coco"
+      },
+      "quantity": 400,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "laksa paste",
+        "fr": "pâte de laksa",
+        "de": "Laksa-Paste",
+        "es": "pasta laksa"
+      },
+      "quantity": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "tofu puffs",
+        "fr": "tofu frit",
+        "de": "Tofutaschen",
+        "es": "tofu frito"
+      },
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Fry laksa paste, add coconut milk and broth.",
+        "fr": "Faire revenir la pâte laksa, ajouter le lait de coco et le bouillon.",
+        "de": "Laksa-Paste anbraten, Kokosmilch und Brühe hinzufügen.",
+        "es": "Freír la pasta laksa, añadir leche de coco y caldo."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add shrimp and tofu; simmer.",
+        "fr": "Ajouter les crevettes et le tofu; laisser mijoter.",
+        "de": "Garnelen und Tofu hinzufügen; köcheln lassen.",
+        "es": "Añadir camarones y tofu; cocinar a fuego lento."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Pour over cooked noodles.",
+        "fr": "Verser sur les nouilles cuites.",
+        "de": "Über die gekochten Nudeln gießen.",
+        "es": "Verter sobre los fideos cocidos."
+      }
+    }
+  ],
+  "id": "ag",
+  "image": "https://blitech.github.io/reciepes/images/ag.jpg"
+}

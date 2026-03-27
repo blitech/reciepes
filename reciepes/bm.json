@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Panzanella",
+    "fr": "Panzanella",
+    "de": "Panzanella",
+    "es": "Panzanella"
+  },
+  "time": 20,
+  "tags": [
+    "italian",
+    "salad",
+    "fresh",
+    "vegetarian"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "stale bread",
+        "fr": "pain rassis",
+        "de": "altbackenes Brot",
+        "es": "pan duro"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "tomatoes",
+        "fr": "tomates",
+        "de": "Tomaten",
+        "es": "tomates"
+      },
+      "quantity": 3,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "cucumber",
+        "fr": "concombre",
+        "de": "Gurke",
+        "es": "pepino"
+      },
+      "quantity": 0.5,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "red onion",
+        "fr": "oignon rouge",
+        "de": "rote Zwiebel",
+        "es": "cebolla roja"
+      },
+      "quantity": 0.5,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "basil",
+        "fr": "basilic",
+        "de": "Basilikum",
+        "es": "albahaca"
+      },
+      "quantity": 1,
+      "unit": "handful"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Soak bread in water and squeeze dry.",
+        "fr": "Tremper le pain dans l'eau et l'essorer.",
+        "de": "Brot in Wasser einweichen und ausdrücken.",
+        "es": "Remojar el pan en agua y escurrir."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Mix with chopped vegetables.",
+        "fr": "Mélanger avec les légumes coupés.",
+        "de": "Mit geschnittenem Gemüse mischen.",
+        "es": "Mezclar con las verduras troceadas."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Dress with olive oil and vinegar.",
+        "fr": "Assaisonner avec de l'huile d'olive et du vinaigre.",
+        "de": "Mit Olivenöl und Essig anrichten.",
+        "es": "Aliñar con aceite de oliva y vinagre."
+      }
+    }
+  ],
+  "id": "bm",
+  "image": "https://blitech.github.io/reciepes/images/bm.jpg"
+}

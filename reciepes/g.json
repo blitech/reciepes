@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Beef Tacos",
+    "fr": "Tacos au bœuf",
+    "de": "Rindfleisch-Tacos",
+    "es": "Tacos de carne"
+  },
+  "time": 30,
+  "tags": [
+    "mexican",
+    "beef",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Ground beef",
+        "fr": "Bœuf haché",
+        "de": "Rinderhackfleisch",
+        "es": "Carne molida"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Taco shells",
+        "fr": "Coquilles à tacos",
+        "de": "Taco-Schalen",
+        "es": "Tortillas de taco"
+      },
+      "quantity": 8,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "Lettuce",
+        "fr": "Laitue",
+        "de": "Salat",
+        "es": "Lechuga"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Cheddar cheese",
+        "fr": "Cheddar",
+        "de": "Cheddar",
+        "es": "Queso cheddar"
+      },
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Cook the ground beef in a pan.",
+        "fr": "Cuire le bœuf haché dans une poêle."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add taco seasoning and a little water.",
+        "fr": "Ajouter l'assaisonnement pour tacos et un peu d'eau."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Warm the taco shells in the oven.",
+        "fr": "Chauffer les coquilles à tacos au four."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Fill shells with beef, lettuce, and cheese.",
+        "fr": "Remplir les coquilles de bœuf, de laitue et de fromage."
+      }
+    }
+  ],
+  "id": "g",
+  "image": "https://blitech.github.io/reciepes/images/g.jpg"
+}

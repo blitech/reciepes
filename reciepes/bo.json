@@ -1,0 +1,22 @@
+{
+  "id": "bo",
+  "title": { "en": "Pancakes", "fr": "Pancakes" },
+  "time": 20,
+  "image": "https://blitech.github.io/reciepes/images/bo.jpg",
+  "tags": ["american", "breakfast", "sweet", "quick"],
+  "ingredients": [
+    { "name": { "en": "flour", "fr": "farine" }, "quantity": 200, "unit": "g" },
+    { "name": { "en": "milk", "fr": "lait" }, "quantity": 250, "unit": "ml" },
+    { "name": { "en": "egg", "fr": "oeuf" }, "quantity": 1, "unit": "" },
+    { "name": { "en": "sugar", "fr": "sucre" }, "quantity": 2, "unit": "tbsp" },
+    { "name": { "en": "butter", "fr": "beurre" }, "quantity": 50, "unit": "g" },
+    { "name": { "en": "baking powder", "fr": "levure chimique" }, "quantity": 1, "unit": "tsp" }
+  ],
+  "steps": [
+    { "order": 1, "text": { "en": "Mix flour, sugar, and baking powder in a bowl.", "fr": "Mélanger la farine, le sucre et la levure dans un bol." } },
+    { "order": 2, "text": { "en": "Whisk in milk, egg, and melted butter until smooth.", "fr": "Ajouter le lait, l'œuf et le beurre fondu en fouettant jusqu'à lissage." } },
+    { "order": 3, "text": { "en": "Heat a non-stick pan over medium heat.", "fr": "Chauffer une poêle antiadhésive à feu moyen." } },
+    { "order": 4, "text": { "en": "Pour small amounts of batter and cook until bubbles form on top.", "fr": "Verser de petites quantités de pâte et cuire jusqu'à formation de bulles." } },
+    { "order": 5, "text": { "en": "Flip and cook until golden brown.", "fr": "Retourner et cuire jusqu'à ce qu'ils soient dorés." } }
+  ]
+}

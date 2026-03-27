@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Paella",
+    "fr": "Paella",
+    "de": "Paella",
+    "es": "Paella"
+  },
+  "time": 90,
+  "tags": [
+    "spanish",
+    "seafood",
+    "rice"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Rice",
+        "fr": "Riz",
+        "de": "Reis",
+        "es": "Arroz"
+      },
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Saffron",
+        "fr": "Safran",
+        "de": "Safran",
+        "es": "Azafrán"
+      },
+      "quantity": 1,
+      "unit": "pinch"
+    },
+    {
+      "name": {
+        "en": "Mussels",
+        "fr": "Moules",
+        "de": "Muscheln",
+        "es": "Mejillones"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Chorizo",
+        "fr": "Chorizo",
+        "de": "Chorizo",
+        "es": "Chorizo"
+      },
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Sauté chorizo and chicken pieces.",
+        "fr": "Faire sauter le chorizo et les morceaux de poulet."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add rice and saffron-infused broth.",
+        "fr": "Ajouter le riz et le bouillon infusé au safran."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Arrange seafood on top and simmer.",
+        "fr": "Disposer les fruits de mer sur le dessus et laisser mijoter."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Cook until rice is tender and liquid absorbed.",
+        "fr": "Cuire jusqu'à ce que le riz soit tendre et le liquide absorbé."
+      }
+    }
+  ],
+  "id": "o",
+  "image": "https://blitech.github.io/reciepes/images/o.jpg"
+}

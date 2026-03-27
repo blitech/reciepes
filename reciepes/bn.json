@@ -1,0 +1,22 @@
+{
+  "id": "bn",
+  "title": { "en": "Quiche Lorraine", "fr": "Quiche Lorraine" },
+  "time": 45,
+  "image": "https://blitech.github.io/reciepes/images/bn.jpg",
+  "tags": ["french", "savory", "classic", "bacon"],
+  "ingredients": [
+    { "name": { "en": "pie crust", "fr": "pâte à tarte" }, "quantity": 1, "unit": "" },
+    { "name": { "en": "bacon", "fr": "bacon" }, "quantity": 200, "unit": "g" },
+    { "name": { "en": "eggs", "fr": "oeufs" }, "quantity": 3, "unit": "" },
+    { "name": { "en": "heavy cream", "fr": "crème liquide" }, "quantity": 200, "unit": "ml" },
+    { "name": { "en": "gruyere cheese", "fr": "gruyère" }, "quantity": 100, "unit": "g" }
+  ],
+  "steps": [
+    { "order": 1, "text": { "en": "Preheat oven to 180°C.", "fr": "Préchauffer le four à 180°C." } },
+    { "order": 2, "text": { "en": "Place pie crust in a tart pan and prick with a fork.", "fr": "Placer la pâte dans un moule et la piquer avec une fourchette." } },
+    { "order": 3, "text": { "en": "Cook bacon in a pan until crispy.", "fr": "Faire cuire le bacon à la poêle jusqu'à ce qu'il soit croustillant." } },
+    { "order": 4, "text": { "en": "Whisk eggs and cream together, season with salt, pepper, and nutmeg.", "fr": "Battre les œufs et la crème, assaisonner avec sel, poivre et muscade." } },
+    { "order": 5, "text": { "en": "Spread bacon and cheese on the crust, then pour the egg mixture.", "fr": "Répartir le bacon et le fromage sur la pâte, puis verser le mélange d'œufs." } },
+    { "order": 6, "text": { "en": "Bake for 30-35 minutes.", "fr": "Cuire au four pendant 30-35 minutes." } }
+  ]
+}

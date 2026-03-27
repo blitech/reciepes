@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Bulgogi",
+    "fr": "Bulgogi",
+    "de": "Bulgogi",
+    "es": "Bulgogi"
+  },
+  "time": 40,
+  "tags": [
+    "korean",
+    "meat",
+    "beef",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "beef",
+        "fr": "boeuf",
+        "de": "Rindfleisch",
+        "es": "ternera"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "soy sauce",
+        "fr": "sauce soja",
+        "de": "Sojasauce",
+        "es": "salsa de soja"
+      },
+      "quantity": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "sesame oil",
+        "fr": "huile de sésame",
+        "de": "Sesamöl",
+        "es": "aceite de sésame"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "sugar",
+        "fr": "sucre",
+        "de": "Zucker",
+        "es": "azúcar"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "garlic",
+        "fr": "ail",
+        "de": "Knoblauch",
+        "es": "ajo"
+      },
+      "quantity": 2,
+      "unit": "cloves"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Marinate beef in sauce and spices.",
+        "fr": "Mariner le boeuf dans la sauce et les épices.",
+        "de": "Rindfleisch in Sauce und Gewürzen marinieren.",
+        "es": "Marinar la ternera en salsa y especias."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Stir fry at high heat.",
+        "fr": "Sauter à feu vif.",
+        "de": "Bei starker Hitze anbraten.",
+        "es": "Saltear a fuego alto."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Serve with rice and lettuce.",
+        "fr": "Servir avec du riz et de la laitue.",
+        "de": "Mit Reis und Kopfsalat servieren.",
+        "es": "Servir con arroz y lechuga."
+      }
+    }
+  ],
+  "id": "bf",
+  "image": "https://blitech.github.io/reciepes/images/bf.jpg"
+}

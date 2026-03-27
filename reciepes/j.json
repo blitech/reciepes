@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Ratatouille",
+    "fr": "Ratatouille",
+    "de": "Ratatouille",
+    "es": "Ratatouille"
+  },
+  "time": 75,
+  "tags": [
+    "french",
+    "vegetarian",
+    "vegetables"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Eggplant",
+        "fr": "Aubergine",
+        "de": "Aubergine",
+        "es": "Berenjena"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "Zucchini",
+        "fr": "Courgette",
+        "de": "Zucchini",
+        "es": "Calabacín"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "Bell pepper",
+        "fr": "Poivron",
+        "de": "Paprika",
+        "es": "Pimiento"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "Tomatoes",
+        "fr": "Tomates",
+        "de": "Tomaten",
+        "es": "Tomates"
+      },
+      "quantity": 4,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Dice all vegetables into small cubes.",
+        "fr": "Couper tous les légumes en petits dés."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Sauté each vegetable separately in olive oil.",
+        "fr": "Faire sauter chaque légume séparément dans de l'huile d'olive."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Combine all vegetables and simmer with herbs.",
+        "fr": "Mélanger tous les légumes et laisser mijoter avec des herbes."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Cook until vegetables are tender.",
+        "fr": "Cuire jusqu'à ce que les légumes soient tendres."
+      }
+    }
+  ],
+  "id": "j",
+  "image": "https://blitech.github.io/reciepes/images/j.jpg"
+}

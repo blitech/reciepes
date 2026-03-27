@@ -1,19 +1,96 @@
 {
   "id": "c",
-  "title": { "en": "Vegetable Stir Fry", "fr": "Wok de légumes" },
-  "time": 15,
+  "title": {
+    "en": "Escargots de Bourgogne",
+    "fr": "Escargots de Bourgogne",
+    "de": "Schnecken nach Burgunder Art",
+    "es": "Caracoles a la borgoñesa"
+  },
+  "time": 20,
   "image": "https://blitech.github.io/reciepes/images/c.jpg",
-  "tags": ["vegan", "quick", "healthy"],
+  "tags": [
+    "french",
+    "appetizer",
+    "classic"
+  ],
   "ingredients": [
-    { "name": { "en": "broccoli", "fr": "brocoli" }, "quantity": 200, "unit": "g" },
-    { "name": { "en": "carrot", "fr": "carotte" }, "quantity": 2, "unit": "" },
-    { "name": { "en": "bell pepper", "fr": "poivron" }, "quantity": 1, "unit": "" },
-    { "name": { "en": "soy sauce", "fr": "sauce soja" }, "quantity": 3, "unit": "tbsp" },
-    { "name": { "en": "garlic", "fr": "ail" }, "quantity": 2, "unit": "cloves" }
+    {
+      "name": {
+        "en": "snails",
+        "fr": "escargots",
+        "de": "Schnecken",
+        "es": "caracoles"
+      },
+      "quantity": 24,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "butter",
+        "fr": "beurre",
+        "de": "Butter",
+        "es": "mantequilla"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "garlic",
+        "fr": "ail",
+        "de": "Knoblauch",
+        "es": "ajo"
+      },
+      "quantity": 4,
+      "unit": "cloves"
+    },
+    {
+      "name": {
+        "en": "parsley",
+        "fr": "persil",
+        "de": "Petersilie",
+        "es": "perejil"
+      },
+      "quantity": 1,
+      "unit": "bunch"
+    }
   ],
   "steps": [
-    { "order": 1, "text": { "en": "Cut all vegetables into bite-size pieces.", "fr": "Couper tous les légumes en morceaux." } },
-    { "order": 2, "text": { "en": "Stir-fry garlic 30 seconds, then add vegetables.", "fr": "Faire revenir l'ail 30 secondes, puis ajouter les légumes." } },
-    { "order": 3, "text": { "en": "Stir-fry 8-10 minutes, add soy sauce at the end.", "fr": "Faire sauter 8-10 minutes, ajouter la sauce soja à la fin." } }
+    {
+      "order": 1,
+      "text": {
+        "en": "Mix softened butter with minced garlic and parsley.",
+        "fr": "Mélanger le beurre ramolli avec l'ail haché et le persil.",
+        "de": "Weiche Butter mit gehacktem Knoblauch und Petersilie mischen.",
+        "es": "Mezclar la mantequilla ablandada con el ajo picado y el perejil."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Place one snail in each shell or dish compartment.",
+        "fr": "Placer un escargot dans chaque coquille ou compartiment du plat.",
+        "de": "In jedes Gehäuse oder jede Vertiefung eine Schnecke setzen.",
+        "es": "Colocar un caracol en cada concha o compartimento del plato."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Fill with the garlic butter.",
+        "fr": "Remplir avec le beurre d'ail.",
+        "de": "Mit der Knoblauchbutter füllen.",
+        "es": "Rellenar con la mantequilla de ajo."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Bake at 200°C for 10 minutes.",
+        "fr": "Cuire au four à 200°C pendant 10 minutes.",
+        "de": "Bei 200°C für 10 Minuten backen.",
+        "es": "Hornear a 200°C durante 10 minutos."
+      }
+    }
   ]
 }

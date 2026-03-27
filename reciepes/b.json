@@ -1,20 +1,116 @@
 {
   "id": "b",
-  "title": { "en": "Spaghetti Carbonara", "fr": "Spaghetti Carbonara" },
-  "time": 20,
+  "title": {
+    "en": "Coq au Vin",
+    "fr": "Coq au Vin",
+    "de": "Coq au Vin",
+    "es": "Coq au Vin"
+  },
+  "time": 90,
   "image": "https://blitech.github.io/reciepes/images/b.jpg",
-  "tags": ["italian", "quick", "comfort"],
+  "tags": [
+    "french",
+    "classic",
+    "wine"
+  ],
   "ingredients": [
-    { "name": { "en": "spaghetti", "fr": "spaghetti" }, "quantity": 200, "unit": "g" },
-    { "name": { "en": "pancetta or bacon", "fr": "pancetta ou bacon" }, "quantity": 150, "unit": "g" },
-    { "name": { "en": "egg", "fr": "œuf" }, "quantity": 2, "unit": "" },
-    { "name": { "en": "parmesan", "fr": "parmesan" }, "quantity": 50, "unit": "g" },
-    { "name": { "en": "black pepper", "fr": "poivre noir" }, "quantity": 1, "unit": "tsp" }
+    {
+      "name": {
+        "en": "chicken",
+        "fr": "poulet",
+        "de": "Hähnchen",
+        "es": "pollo"
+      },
+      "quantity": 1,
+      "unit": "whole"
+    },
+    {
+      "name": {
+        "en": "red wine",
+        "fr": "vin rouge",
+        "de": "Rotwein",
+        "es": "vino tinto"
+      },
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "bacon",
+        "fr": "bacon",
+        "de": "Speck",
+        "es": "bacon"
+      },
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "mushrooms",
+        "fr": "champignons",
+        "de": "Pilze",
+        "es": "champiñones"
+      },
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "garlic",
+        "fr": "ail",
+        "de": "Knoblauch",
+        "es": "ajo"
+      },
+      "quantity": 2,
+      "unit": "cloves"
+    }
   ],
   "steps": [
-    { "order": 1, "text": { "en": "Cook spaghetti in salted water.", "fr": "Cuire les spaghetti dans de l'eau salée." } },
-    { "order": 2, "text": { "en": "Fry pancetta until crispy.", "fr": "Faire frire la pancetta jusqu'à ce qu'elle soit croustillante." } },
-    { "order": 3, "text": { "en": "Mix eggs, parmesan and pepper.", "fr": "Mélanger les œufs, le parmesan et le poivre." } },
-    { "order": 4, "text": { "en": "Drain pasta, mix quickly with pancetta and egg mixture off the heat.", "fr": "Égoutter les pâtes, mélanger rapidement avec la pancetta et la préparation aux œufs hors du feu." } }
+    {
+      "order": 1,
+      "text": {
+        "en": "Brown the chicken and bacon in a large pot.",
+        "fr": "Faire dorer le poulet et le bacon dans une grande cocotte.",
+        "de": "Hähnchen und Speck in einem großen Topf anbräunen.",
+        "es": "Dorar el pollo y el bacon en una olla grande."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add onions, garlic, and mushrooms.",
+        "fr": "Ajouter les oignons, l'ail et les champignons.",
+        "de": "Zwiebeln, Knoblauch und Pilze hinzufügen.",
+        "es": "Añadir las cebollas, el ajo y los champiñones."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Pour in the wine and simmer for 1 hour.",
+        "fr": "Verser le vin et laisser mijoter pendant 1 heure.",
+        "de": "Den Wein eingießen und 1 Stunde köcheln lassen.",
+        "es": "Verter el vino y cocinar a fuego lento durante 1 hora."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Serve hot with potatoes.",
+        "fr": "Servir chaud avec des pommes de terre.",
+        "de": "Heiß mit Kartoffeln servieren.",
+        "es": "Servir caliente con patatas."
+      }
+    }
   ]
 }

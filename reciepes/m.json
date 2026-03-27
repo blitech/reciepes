@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Falafel",
+    "fr": "Falafel",
+    "de": "Falafel",
+    "es": "Falafel"
+  },
+  "time": 45,
+  "tags": [
+    "middle-eastern",
+    "vegetarian",
+    "chickpeas"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Chickpeas",
+        "fr": "Pois chiches",
+        "de": "Kichererbsen",
+        "es": "Garbanzos"
+      },
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Parsley",
+        "fr": "Persil",
+        "de": "Petersilie",
+        "es": "Perejil"
+      },
+      "quantity": 1,
+      "unit": "bunch"
+    },
+    {
+      "name": {
+        "en": "Garlic",
+        "fr": "Ail",
+        "de": "Knoblauch",
+        "es": "Ajo"
+      },
+      "quantity": 3,
+      "unit": "cloves"
+    },
+    {
+      "name": {
+        "en": "Cumin",
+        "fr": "Cumin",
+        "de": "Kreuzkümmel",
+        "es": "Comino"
+      },
+      "quantity": 1,
+      "unit": "tsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Blend chickpeas, herbs, and spices.",
+        "fr": "Mixer les pois chiches, les herbes et les épices."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Form mixture into small balls.",
+        "fr": "Former de petites boules avec le mélange."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Deep fry until golden brown.",
+        "fr": "Faire frire jusqu'à ce qu'elles soient bien dorées."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Serve in pita bread with tahini.",
+        "fr": "Servir dans du pain pita avec du tahini."
+      }
+    }
+  ],
+  "id": "m",
+  "image": "https://blitech.github.io/reciepes/images/m.jpg"
+}

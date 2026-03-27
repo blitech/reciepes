@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Eggs Benedict",
+    "fr": "Oeufs Bénédicte",
+    "de": "Eier Benedict",
+    "es": "Huevos Benedict"
+  },
+  "time": 25,
+  "tags": [
+    "american",
+    "breakfast",
+    "eggs",
+    "classic"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "eggs",
+        "fr": "oeufs",
+        "de": "Eier",
+        "es": "huevos"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "english muffin",
+        "fr": "muffin anglais",
+        "de": "English Muffin",
+        "es": "muffin inglés"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "canadian bacon",
+        "fr": "bacon canadien",
+        "de": "Kasseler",
+        "es": "lomo"
+      },
+      "quantity": 2,
+      "unit": "slices"
+    },
+    {
+      "name": {
+        "en": "hollandaise sauce",
+        "fr": "sauce hollandaise",
+        "de": "Sauce Hollandaise",
+        "es": "salsa holandesa"
+      },
+      "quantity": 100,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "butter",
+        "fr": "beurre",
+        "de": "Butter",
+        "es": "mantequilla"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Poach eggs.",
+        "fr": "Pocher les oeufs.",
+        "de": "Eier pochieren.",
+        "es": "Pochar los huevos."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Toast muffin and brown bacon.",
+        "fr": "Toaster le muffin et faire dorer le bacon.",
+        "de": "Muffin toasten und Speck anbraten.",
+        "es": "Tostar el muffin y dorar el lomo."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Assemble and top with hollandaise.",
+        "fr": "Assembler et napper de sauce hollandaise.",
+        "de": "Zusammensetzen und mit Sauce Hollandaise übergießen.",
+        "es": "Montar y cubrir con salsa holandesa."
+      }
+    }
+  ],
+  "id": "ay",
+  "image": "https://blitech.github.io/reciepes/images/ay.jpg"
+}

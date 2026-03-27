@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Peking Duck",
+    "fr": "Canard laqué",
+    "de": "Pekingente",
+    "es": "Pato laqueado"
+  },
+  "time": 180,
+  "tags": [
+    "chinese",
+    "meat",
+    "celebration",
+    "classic"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "whole duck",
+        "fr": "canard entier",
+        "de": "ganze Ente",
+        "es": "pato entero"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "honey",
+        "fr": "miel",
+        "de": "Honig",
+        "es": "miel"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "five spice powder",
+        "fr": "cinq épices",
+        "de": "Fünf-Gewürze-Pulver",
+        "es": "cinco especias"
+      },
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": {
+        "en": "soy sauce",
+        "fr": "sauce soja",
+        "de": "Sojasauce",
+        "es": "salsa de soja"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "hoisin sauce",
+        "fr": "sauce hoisin",
+        "de": "Hoisin-Sauce",
+        "es": "salsa hoisin"
+      },
+      "quantity": 1,
+      "unit": "cup"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Glaze duck with honey and spices.",
+        "fr": "Laquer le canard avec du miel et des épices.",
+        "de": "Ente mit Honig und Gewürzen glasieren.",
+        "es": "Glasear el pato con miel y especias."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Roast until skin is crispy.",
+        "fr": "Rôtir jusqu'à ce que la peau soit croustillante.",
+        "de": "Braten, bis die Haut knusprig ist.",
+        "es": "Asar hasta que la piel esté crujiente."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Serve with pancakes and hoisin sauce.",
+        "fr": "Servir avec des crêpes et de la sauce hoisin.",
+        "de": "Mit Pfannkuchen und Hoisin-Sauce servieren.",
+        "es": "Servir con panqueques y salsa hoisin."
+      }
+    }
+  ],
+  "id": "aq",
+  "image": "https://blitech.github.io/reciepes/images/aq.jpg"
+}

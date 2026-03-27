@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Tiramisu",
+    "fr": "Tiramisu",
+    "de": "Tiramisu",
+    "es": "Tiramisú"
+  },
+  "time": 30,
+  "tags": [
+    "italian",
+    "dessert",
+    "coffee",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "mascarpone",
+        "fr": "mascarpone",
+        "de": "Mascarpone",
+        "es": "mascarpone"
+      },
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "ladyfingers",
+        "fr": "biscuits à la cuillère",
+        "de": "Löffelbiskuits",
+        "es": "bizcochos de soletilla"
+      },
+      "quantity": 20,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "coffee",
+        "fr": "café",
+        "de": "Kaffee",
+        "es": "café"
+      },
+      "quantity": 1,
+      "unit": "cup"
+    },
+    {
+      "name": {
+        "en": "eggs",
+        "fr": "oeufs",
+        "de": "Eier",
+        "es": "huevos"
+      },
+      "quantity": 3,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "cocoa powder",
+        "fr": "cacao en poudre",
+        "de": "Kakaopulver",
+        "es": "cacao en polvo"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Whisk egg yolks with sugar and mascarpone.",
+        "fr": "Fouetter les jaunes d'oeufs avec le sucre et le mascarpone.",
+        "de": "Eigelb mit Zucker und Mascarpone schaumig schlagen.",
+        "es": "Batir las yemas de huevo con azúcar y mascarpone."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Dip ladyfingers in coffee and layer.",
+        "fr": "Tremper les biscuits dans le café et alterner les couches.",
+        "de": "Löffelbiskuits in Kaffee tauchen und schichten.",
+        "es": "Mojar los bizcochos en café y alternar capas."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Dust with cocoa and chill.",
+        "fr": "Saupoudrer de cacao et réserver au frais.",
+        "de": "Mit Kakao bestäuben und kühlen.",
+        "es": "Espolvorear con cacao y enfriar."
+      }
+    }
+  ],
+  "id": "ab",
+  "image": "https://blitech.github.io/reciepes/images/ab.jpg"
+}

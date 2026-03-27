@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Shakshuka",
+    "fr": "Chakchouka",
+    "de": "Schakschuka",
+    "es": "Shakshuka"
+  },
+  "time": 25,
+  "tags": [
+    "middle-eastern",
+    "breakfast",
+    "eggs",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "eggs",
+        "fr": "oeufs",
+        "de": "Eier",
+        "es": "huevos"
+      },
+      "quantity": 4,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "tomatoes",
+        "fr": "tomates",
+        "de": "Tomaten",
+        "es": "tomates"
+      },
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "bell pepper",
+        "fr": "poivron",
+        "de": "Paprika",
+        "es": "pimiento"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "cumin",
+        "fr": "cumin",
+        "de": "Kreuzkümmel",
+        "es": "comino"
+      },
+      "quantity": 1,
+      "unit": "tsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Sauté onion and pepper, add tomatoes and spices.",
+        "fr": "Faire revenir l'oignon et le poivron, ajouter les tomates et les épices.",
+        "de": "Zwiebel und Paprika anbraten, Tomaten und Gewürze hinzufügen.",
+        "es": "Sofreír cebolla y pimiento, añadir tomates y especias."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Make wells and crack eggs into them.",
+        "fr": "Faire des puits et y casser les oeufs.",
+        "de": "Vertiefungen machen und Eier hineinschlagen.",
+        "es": "Hacer huecos y cascar los huevos en ellos."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Cover and cook until whites are set.",
+        "fr": "Couvrir et cuire jusqu'à ce que les blancs soient pris.",
+        "de": "Abdecken und kochen, bis das Eiweiß fest ist.",
+        "es": "Tapar y cocinar hasta que las claras cuajen."
+      }
+    }
+  ],
+  "id": "ae",
+  "image": "https://blitech.github.io/reciepes/images/ae.jpg"
+}

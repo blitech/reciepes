@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Wiener Schnitzel",
+    "fr": "Schnitzel viennois",
+    "de": "Wiener Schnitzel",
+    "es": "Wiener Schnitzel"
+  },
+  "time": 30,
+  "tags": [
+    "austrian",
+    "meat",
+    "classic",
+    "fried"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "veal cutlets",
+        "fr": "escalopes de veau",
+        "de": "Kalbsschnitzel",
+        "es": "escalopes de ternera"
+      },
+      "quantity": 4,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "flour",
+        "fr": "farine",
+        "de": "Mehl",
+        "es": "harina"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "eggs",
+        "fr": "oeufs",
+        "de": "Eier",
+        "es": "huevos"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "breadcrumbs",
+        "fr": "chapelure",
+        "de": "Paniermehl",
+        "es": "pan rallado"
+      },
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "lemon",
+        "fr": "citron",
+        "de": "Zitrone",
+        "es": "limón"
+      },
+      "quantity": 1,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Pound cutlets thin.",
+        "fr": "Aplatir les escalopes.",
+        "de": "Schnitzel flach klopfen.",
+        "es": "Aplanar los escalopes."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Dredge in flour, eggs, then breadcrumbs.",
+        "fr": "Passer dans la farine, les oeufs, puis la chapelure.",
+        "de": "In Mehl, Eiern und dann Paniermehl wenden.",
+        "es": "Pasar por harina, huevo y pan rallado."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Fry until golden and serve with lemon.",
+        "fr": "Frire jusqu'à ce qu'ils soient dorés et servir avec du citron.",
+        "de": "Goldgelb braten und mit Zitrone servieren.",
+        "es": "Freír hasta que estén dorados y servir con limón."
+      }
+    }
+  ],
+  "id": "af",
+  "image": "https://blitech.github.io/reciepes/images/af.jpg"
+}

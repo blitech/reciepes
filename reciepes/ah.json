@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Arepas",
+    "fr": "Arepas",
+    "de": "Arepas",
+    "es": "Arepas"
+  },
+  "time": 30,
+  "tags": [
+    "venezuelan",
+    "colombian",
+    "bread",
+    "gluten-free"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "corn flour",
+        "fr": "farine de maïs",
+        "de": "Maismehl",
+        "es": "harina de maíz precocida"
+      },
+      "quantity": 2,
+      "unit": "cups"
+    },
+    {
+      "name": {
+        "en": "water",
+        "fr": "eau",
+        "de": "Wasser",
+        "es": "agua"
+      },
+      "quantity": 2,
+      "unit": "cups"
+    },
+    {
+      "name": {
+        "en": "salt",
+        "fr": "sel",
+        "de": "Salz",
+        "es": "sal"
+      },
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": {
+        "en": "cheese",
+        "fr": "fromage",
+        "de": "Käse",
+        "es": "queso"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "butter",
+        "fr": "beurre",
+        "de": "Butter",
+        "es": "mantequilla"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Mix flour, water, and salt to form dough.",
+        "fr": "Mélanger la farine, l'eau et le sel pour former une pâte.",
+        "de": "Mehl, Wasser und Salz zu einem Teig mischen.",
+        "es": "Mezclar harina, agua y sal para formar la masa."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Shape into discs and grill.",
+        "fr": "Former des disques et les griller.",
+        "de": "Zu Scheiben formen und grillen.",
+        "es": "Formar discos y asar."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Slice open and fill with cheese.",
+        "fr": "Trancher et garnir de fromage.",
+        "de": "Aufschneiden und mit Käse füllen.",
+        "es": "Abrir y rellenar con queso."
+      }
+    }
+  ],
+  "id": "ah",
+  "image": "https://blitech.github.io/reciepes/images/ah.jpg"
+}

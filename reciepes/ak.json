@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Chana Masala",
+    "fr": "Chana Masala",
+    "de": "Chana Masala",
+    "es": "Chana Masala"
+  },
+  "time": 30,
+  "tags": [
+    "indian",
+    "vegan",
+    "curry",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "chickpeas",
+        "fr": "pois chiches",
+        "de": "Kichererbsen",
+        "es": "garbanzos"
+      },
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "tomatoes",
+        "fr": "tomates",
+        "de": "Tomaten",
+        "es": "tomates"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "garam masala",
+        "fr": "garam masala",
+        "de": "Garam Masala",
+        "es": "garam masala"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "ginger",
+        "fr": "gingembre",
+        "de": "Ingwer",
+        "es": "jengibre"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Sauté onion, ginger, and garlic.",
+        "fr": "Faire revenir l'oignon, le gingembre et l'ail.",
+        "de": "Zwiebel, Ingwer und Knoblauch anbraten.",
+        "es": "Sofreír cebolla, jengibre y ajo."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add tomatoes and spices, then chickpeas.",
+        "fr": "Ajouter les tomates et les épices, puis les pois chiches.",
+        "de": "Tomaten und Gewürze, dann Kichererbsen hinzufügen.",
+        "es": "Añadir tomates y especias, luego los garbanzos."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Simmer for 15 minutes.",
+        "fr": "Laisser mijoter 15 minutes.",
+        "de": "15 Minuten köcheln lassen.",
+        "es": "Cocinar a fuego lento durante 15 minutos."
+      }
+    }
+  ],
+  "id": "ak",
+  "image": "https://blitech.github.io/reciepes/images/ak.jpg"
+}

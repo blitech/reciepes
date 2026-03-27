@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Pierogi",
+    "fr": "Pierogi",
+    "de": "Piroggen",
+    "es": "Pierogi"
+  },
+  "time": 120,
+  "tags": [
+    "polish",
+    "dumplings",
+    "potato"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Flour",
+        "fr": "Farine",
+        "de": "Mehl",
+        "es": "Harina"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Potatoes",
+        "fr": "Pommes de terre",
+        "de": "Kartoffeln",
+        "es": "Papas"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Cottage cheese",
+        "fr": "Fromage blanc",
+        "de": "Hüttenkäse",
+        "es": "Queso cottage"
+      },
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Butter",
+        "fr": "Beurre",
+        "de": "Butter",
+        "es": "Mantequilla"
+      },
+      "quantity": 50,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Make the dough from flour and water.",
+        "fr": "Faire la pâte avec de la farine et de l'eau."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Prepare filling with mashed potatoes and cheese.",
+        "fr": "Préparer la farce avec de la purée et du fromage."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Fill dough circles and boil.",
+        "fr": "Remplir les cercles de pâte et bouillir."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Sauté in butter before serving.",
+        "fr": "Faire sauter dans du beurre avant de servir."
+      }
+    }
+  ],
+  "id": "t",
+  "image": "https://blitech.github.io/reciepes/images/t.jpg"
+}

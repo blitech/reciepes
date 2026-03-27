@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Kimchi",
+    "fr": "Kimchi",
+    "de": "Kimchi",
+    "es": "Kimchi"
+  },
+  "time": 60,
+  "tags": [
+    "korean",
+    "side-dish",
+    "fermented",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "napa cabbage",
+        "fr": "chou chinois",
+        "de": "Chinakohl",
+        "es": "col china"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "salt",
+        "fr": "sel",
+        "de": "Salz",
+        "es": "sal"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "chili flakes",
+        "fr": "piment",
+        "de": "Chiliflocken",
+        "es": "chile en escamas"
+      },
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "ginger",
+        "fr": "gingembre",
+        "de": "Ingwer",
+        "es": "jengibre"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "garlic",
+        "fr": "ail",
+        "de": "Knoblauch",
+        "es": "ajo"
+      },
+      "quantity": 3,
+      "unit": "cloves"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Salt cabbage and let sit.",
+        "fr": "Saler le chou et laisser reposer.",
+        "de": "Kohl salzen und ziehen lassen.",
+        "es": "Salmar el repollo y dejar reposar."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Mix spices into a paste.",
+        "fr": "Mélanger les épices pour former une pâte.",
+        "de": "Gewürze zu einer Paste mischen.",
+        "es": "Mezclar las especias para formar una pasta."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Rub paste on cabbage and ferment.",
+        "fr": "Frotter la pâte sur le chou et laisser fermenter.",
+        "de": "Paste auf den Kohl reiben und fermentieren.",
+        "es": "Frotar la pasta en el repollo y fermentar."
+      }
+    }
+  ],
+  "id": "av",
+  "image": "https://blitech.github.io/reciepes/images/av.jpg"
+}

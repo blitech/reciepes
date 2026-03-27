@@ -1,21 +1,116 @@
 {
   "id": "a",
-  "title": { "en": "Chicken Curry", "fr": "Curry de poulet" },
-  "time": 35,
+  "title": {
+    "en": "Ratatouille",
+    "fr": "Ratatouille",
+    "de": "Ratatouille",
+    "es": "Ratatouille"
+  },
+  "time": 45,
   "image": "https://blitech.github.io/reciepes/images/a.jpg",
-  "tags": ["spicy", "quick", "winter"],
+  "tags": [
+    "french",
+    "vegetables",
+    "healthy"
+  ],
   "ingredients": [
-    { "name": { "en": "chicken breast", "fr": "blanc de poulet" }, "quantity": 400, "unit": "g" },
-    { "name": { "en": "onion", "fr": "oignon" }, "quantity": 1, "unit": "" },
-    { "name": { "en": "garlic", "fr": "ail" }, "quantity": 2, "unit": "cloves" },
-    { "name": { "en": "curry powder", "fr": "poudre de curry" }, "quantity": 2, "unit": "tbsp" },
-    { "name": { "en": "coconut milk", "fr": "lait de coco" }, "quantity": 400, "unit": "ml" },
-    { "name": { "en": "rice", "fr": "riz" }, "quantity": 200, "unit": "g" }
+    {
+      "name": {
+        "en": "eggplant",
+        "fr": "aubergine",
+        "de": "Auberginen",
+        "es": "berenjena"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "zucchini",
+        "fr": "courgette",
+        "de": "Zucchini",
+        "es": "Calabacín"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "bell pepper",
+        "fr": "poivron",
+        "de": "Paprika",
+        "es": "pimiento"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "tomatoes",
+        "fr": "tomates",
+        "de": "Tomaten",
+        "es": "tomates"
+      },
+      "quantity": 4,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "garlic",
+        "fr": "ail",
+        "de": "Knoblauch",
+        "es": "ajo"
+      },
+      "quantity": 2,
+      "unit": "cloves"
+    }
   ],
   "steps": [
-    { "order": 1, "text": { "en": "Cut the chicken into cubes.", "fr": "Couper le poulet en cubes." } },
-    { "order": 2, "text": { "en": "Fry onion and garlic, then add chicken and curry powder.", "fr": "Faire revenir l'oignon et l'ail, ajouter le poulet et la poudre de curry." } },
-    { "order": 3, "text": { "en": "Pour in coconut milk and simmer 20 minutes.", "fr": "Ajouter le lait de coco et laisser mijoter 20 minutes." } },
-    { "order": 4, "text": { "en": "Serve with cooked rice.", "fr": "Servir avec du riz cuit." } }
+    {
+      "order": 1,
+      "text": {
+        "en": "Dice all vegetables.",
+        "fr": "Couper tous les légumes en dés.",
+        "de": "Alle Gemüse würfeln.",
+        "es": "Cortar todas las verduras en dados."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Sauté onions and garlic in olive oil.",
+        "fr": "Faire revenir les oignons et l'ail dans de l'huile d'olive.",
+        "de": "Zwiebeln und Knoblauch in Olivenöl anbraten.",
+        "es": "Sofreír las cebollas y el ajo en aceite de oliva."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Add eggplant and peppers, cook for 10 minutes.",
+        "fr": "Ajouter l'aubergine et les poivrons, cuire 10 minutes.",
+        "de": "Auberginen und Paprika hinzufügen, 10 Minuten garen.",
+        "es": "Añadir la berenjena y los pimientos, cocinar durante 10 minutos."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Add zucchini and tomatoes, simmer for 20 minutes.",
+        "fr": "Ajouter les courgettes et les tomates, laisser mijoter 20 minutes.",
+        "de": "Zucchini und Tomaten hinzufügen, 20 Minuten köcheln lassen.",
+        "es": "Añadir el calabacín y los tomates, cocinar a fuego lento durante 20 minutos."
+      }
+    }
   ]
 }

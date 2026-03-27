@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Gumbo",
+    "fr": "Gumbo",
+    "de": "Gumbo",
+    "es": "Gumbo"
+  },
+  "time": 120,
+  "tags": [
+    "american",
+    "stew",
+    "meat",
+    "creole"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "shrimp",
+        "fr": "crevettes",
+        "de": "Garnelen",
+        "es": "camarones"
+      },
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "andouille sausage",
+        "fr": "saucisse andouille",
+        "de": "Andouille-Wurst",
+        "es": "salchicha andouille"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "okra",
+        "fr": "gombo",
+        "de": "Okra",
+        "es": "okra"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "flour",
+        "fr": "farine",
+        "de": "Mehl",
+        "es": "harina"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "oil",
+        "fr": "huile",
+        "de": "Öl",
+        "es": "aceite"
+      },
+      "quantity": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Make a dark roux with flour and oil.",
+        "fr": "Préparer un roux sombre avec de la farine et de l'huile.",
+        "de": "Dunkle Mehlschwitze aus Mehl und Öl herstellen.",
+        "es": "Preparar un roux oscuro con harina y aceite."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add vegetables, sausage, and broth.",
+        "fr": "Ajouter les légumes, la saucisse et le bouillon.",
+        "de": "Gemüse, Wurst und Brühe hinzufügen.",
+        "es": "Añadir verduras, salchicha y caldo."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Stir in shrimp and simmer.",
+        "fr": "Ajouter les crevettes et laisser mijoter.",
+        "de": "Garnelen unterrühren und köcheln lassen.",
+        "es": "Añadir los camarones y cocinar a fuego lento."
+      }
+    }
+  ],
+  "id": "az",
+  "image": "https://blitech.github.io/reciepes/images/az.jpg"
+}

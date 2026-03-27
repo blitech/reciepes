@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Profiteroles",
+    "fr": "Profiteroles",
+    "de": "Windbeutel",
+    "es": "Profiteroles"
+  },
+  "time": 60,
+  "tags": [
+    "french",
+    "dessert",
+    "sweet",
+    "chocolate"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "choux pastry",
+        "fr": "pâte à choux",
+        "de": "Brandteig",
+        "es": "pasta choux"
+      },
+      "quantity": 1,
+      "unit": "batch"
+    },
+    {
+      "name": {
+        "en": "vanilla ice cream",
+        "fr": "glace vanille",
+        "de": "Vanilleeis",
+        "es": "helado de vainilla"
+      },
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "chocolate",
+        "fr": "chocolat",
+        "de": "Schokolade",
+        "es": "chocolate"
+      },
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "cream",
+        "fr": "crème",
+        "de": "Sahne",
+        "es": "nata"
+      },
+      "quantity": 100,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "butter",
+        "fr": "beurre",
+        "de": "Butter",
+        "es": "mantequilla"
+      },
+      "quantity": 20,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Bake choux buns until airy.",
+        "fr": "Cuire les choux jusqu'à ce qu'ils soient aérés.",
+        "de": "Windbeutel backen, bis sie luftig sind.",
+        "es": "Hornear los lionesas hasta que estén aireados."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Fill with ice cream.",
+        "fr": "Garnir de glace.",
+        "de": "Mit Eis füllen.",
+        "es": "Rellenar con helado."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Top with hot chocolate sauce.",
+        "fr": "Napper de sauce au chocolat chaude.",
+        "de": "Mit heißer Schokoladensauce übergießen.",
+        "es": "Cubrir con salsa de chocolate caliente."
+      }
+    }
+  ],
+  "id": "bk",
+  "image": "https://blitech.github.io/reciepes/images/bk.jpg"
+}

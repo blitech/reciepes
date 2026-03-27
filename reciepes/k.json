@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Pad Thai",
+    "fr": "Pad Thaï",
+    "de": "Pad Thai",
+    "es": "Pad Thai"
+  },
+  "time": 40,
+  "tags": [
+    "thai",
+    "noodles",
+    "shrimp"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Rice noodles",
+        "fr": "Nouilles de riz",
+        "de": "Reisnudeln",
+        "es": "Fideos de arroz"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Shrimp",
+        "fr": "Crevettes",
+        "de": "Garnelen",
+        "es": "Camarones"
+      },
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Peanuts",
+        "fr": "Cacahuètes",
+        "de": "Erdnüsse",
+        "es": "Cacahuetes"
+      },
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Bean sprouts",
+        "fr": "Pousses de soja",
+        "de": "Sojasprossen",
+        "es": "Brotes de soja"
+      },
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Soak noodles in warm water.",
+        "fr": "Faire tremper les nouilles dans l'eau tiède."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Stir-fry shrimp and garlic in a wok.",
+        "fr": "Faire sauter les crevettes et l'ail dans un wok."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Add noodles, sauce, and eggs, then toss.",
+        "fr": "Ajouter les nouilles, la sauce et les œufs, puis mélanger."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Top with crushed peanuts and sprouts.",
+        "fr": "Garnir de cacahuètes concassées et de pousses."
+      }
+    }
+  ],
+  "id": "k",
+  "image": "https://blitech.github.io/reciepes/images/k.jpg"
+}

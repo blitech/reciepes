@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Feijoada",
+    "fr": "Feijoada",
+    "de": "Feijoada",
+    "es": "Feijoada"
+  },
+  "time": 240,
+  "tags": [
+    "brazilian",
+    "beans",
+    "pork"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Black beans",
+        "fr": "Haricots noirs",
+        "de": "Schwarze Bohnen",
+        "es": "Frijoles negros"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Pork ribs",
+        "fr": "Travers de porc",
+        "de": "Schweinerippchen",
+        "es": "Costillas de cerdo"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Sausage",
+        "fr": "Saucisse",
+        "de": "Wurst",
+        "es": "Salchicha"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Garlic",
+        "fr": "Ail",
+        "de": "Knoblauch",
+        "es": "Ajo"
+      },
+      "quantity": 4,
+      "unit": "cloves"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Soak beans overnight.",
+        "fr": "Faire tremper les haricots toute la nuit."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Cook beans and meats together for hours.",
+        "fr": "Cuire les haricots et les viandes ensemble pendant des heures."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Add garlic and seasoning.",
+        "fr": "Ajouter l'ail et l'assaisonnement."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Serve with rice and orange slices.",
+        "fr": "Servir avec du riz et des tranches d'orange."
+      }
+    }
+  ],
+  "id": "w",
+  "image": "https://blitech.github.io/reciepes/images/w.jpg"
+}

@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Tom Kha Gai",
+    "fr": "Tom Kha Gai",
+    "de": "Tom Kha Gai",
+    "es": "Tom Kha Gai"
+  },
+  "time": 30,
+  "tags": [
+    "thai",
+    "soup",
+    "chicken",
+    "coconut"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "chicken",
+        "fr": "poulet",
+        "de": "Hähnchen",
+        "es": "pollo"
+      },
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "coconut milk",
+        "fr": "lait de coco",
+        "de": "Kokosmilch",
+        "es": "leche de coco"
+      },
+      "quantity": 400,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "galangal",
+        "fr": "galanga",
+        "de": "Galgant",
+        "es": "galanga"
+      },
+      "quantity": 5,
+      "unit": "slices"
+    },
+    {
+      "name": {
+        "en": "lemongrass",
+        "fr": "citronnelle",
+        "de": "Zitronengras",
+        "es": "hierba limón"
+      },
+      "quantity": 2,
+      "unit": "stalks"
+    },
+    {
+      "name": {
+        "en": "lime juice",
+        "fr": "jus de citron vert",
+        "de": "Zitronensaft",
+        "es": "jugo de lima"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Boil coconut milk with galangal and lemongrass.",
+        "fr": "Bouillir le lait de coco avec le galanga et la citronnelle.",
+        "de": "Kokosmilch mit Galgant und Zitronengras aufkochen.",
+        "es": "Hervir leche de coco con galanga y hierba limón."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add chicken and simmer.",
+        "fr": "Ajouter le poulet et laisser mijoter.",
+        "de": "Hähnchen hinzufügen und köcheln lassen.",
+        "es": "Añadir pollo y cocinar a fuego lento."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Season and serve.",
+        "fr": "Assaisonner et servir.",
+        "de": "Abschmecken und servieren.",
+        "es": "Sazonar y servir."
+      }
+    }
+  ],
+  "id": "bg",
+  "image": "https://blitech.github.io/reciepes/images/bg.jpg"
+}

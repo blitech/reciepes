@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Quesadilla",
+    "fr": "Quesadilla",
+    "de": "Quesadilla",
+    "es": "Quesadilla"
+  },
+  "time": 15,
+  "tags": [
+    "mexican",
+    "quick",
+    "cheese",
+    "snack"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "tortillas",
+        "fr": "tortillas",
+        "de": "Tortillas",
+        "es": "tortillas"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "cheese",
+        "fr": "fromage",
+        "de": "Käse",
+        "es": "queso"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "chicken",
+        "fr": "poulet",
+        "de": "Hähnchen",
+        "es": "pollo"
+      },
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "bell pepper",
+        "fr": "poivron",
+        "de": "Paprika",
+        "es": "pimiento"
+      },
+      "quantity": 0.5,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "salsa",
+        "fr": "salsa",
+        "de": "Salsa",
+        "es": "salsa"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Place cheese and fillings on half a tortilla.",
+        "fr": "Placer le fromage et la garniture sur la moitié d'une tortilla.",
+        "de": "Käse und Füllung auf eine Tortillahälfte legen.",
+        "es": "Colocar queso y relleno en la mitad de una tortilla."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Fold and grill in a pan.",
+        "fr": "Plier et griller dans une poêle.",
+        "de": "Falten und in einer Pfanne grillen.",
+        "es": "Doblar y asar en una sartén."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Cut into triangles.",
+        "fr": "Couper en triangles.",
+        "de": "In Dreiecke schneiden.",
+        "es": "Cortar en triángulos."
+      }
+    }
+  ],
+  "id": "be",
+  "image": "https://blitech.github.io/reciepes/images/be.jpg"
+}

@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Guacamole",
+    "fr": "Guacamole",
+    "de": "Guacamole",
+    "es": "Guacamole"
+  },
+  "time": 10,
+  "tags": [
+    "mexican",
+    "vegan",
+    "dip",
+    "healthy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "avocados",
+        "fr": "avocats",
+        "de": "Avocados",
+        "es": "aguacates"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "lime",
+        "fr": "citron vert",
+        "de": "Limette",
+        "es": "lima"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 0.5,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "cilantro",
+        "fr": "coriandre",
+        "de": "Koriander",
+        "es": "cilantro"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "tomato",
+        "fr": "tomate",
+        "de": "Tomate",
+        "es": "tomate"
+      },
+      "quantity": 1,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Mash avocados in a bowl.",
+        "fr": "Écraser les avocats dans un bol.",
+        "de": "Avocados in einer Schüssel zerdrücken.",
+        "es": "Machacar los aguacates en un bol."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Stir in chopped onion, tomato, and cilantro.",
+        "fr": "Ajouter l'oignon, la tomate et la coriandre hachés.",
+        "de": "Gehackte Zwiebel, Tomate und Koriander unterrühren.",
+        "es": "Añadir cebolla, tomate y cilantro picados."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Add lime juice and salt.",
+        "fr": "Ajouter le jus de citron vert et le sel.",
+        "de": "Limettensaft und Salz hinzufügen.",
+        "es": "Añadir jugo de lima y sal."
+      }
+    }
+  ],
+  "id": "bd",
+  "image": "https://blitech.github.io/reciepes/images/bd.jpg"
+}

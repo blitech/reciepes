@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Ceviche",
+    "fr": "Ceviche",
+    "de": "Ceviche",
+    "es": "Ceviche"
+  },
+  "time": 30,
+  "tags": [
+    "peruvian",
+    "fish",
+    "fresh"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "White fish",
+        "fr": "Poisson blanc",
+        "de": "Weißfisch",
+        "es": "Pescado blanco"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Lime juice",
+        "fr": "Jus de citron vert",
+        "de": "Limettensaft",
+        "es": "Jugo de lima"
+      },
+      "quantity": 200,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "Cilantro",
+        "fr": "Coriandre",
+        "de": "Koriander",
+        "es": "Cilantro"
+      },
+      "quantity": 1,
+      "unit": "bunch"
+    },
+    {
+      "name": {
+        "en": "Red chili",
+        "fr": "Piment rouge",
+        "de": "Roter Chili",
+        "es": "Chile rojo"
+      },
+      "quantity": 1,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Cut fish into small cubes.",
+        "fr": "Couper le poisson en petits dés."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Marinate fish in lime juice for 20 minutes.",
+        "fr": "Mariner le poisson dans le jus de citron vert pendant 20 minutes."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Add chopped cilantro and chili.",
+        "fr": "Ajouter la coriandre hachée et le piment."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Serve cold with sweet potato.",
+        "fr": "Servir froid avec de la patate douce."
+      }
+    }
+  ],
+  "id": "v",
+  "image": "https://blitech.github.io/reciepes/images/v.jpg"
+}

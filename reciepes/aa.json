@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Borscht",
+    "fr": "Bortsch",
+    "de": "Borschtsch",
+    "es": "Borsch"
+  },
+  "time": 90,
+  "tags": [
+    "eastern-european",
+    "soup",
+    "beetroot",
+    "winter"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "beetroots",
+        "fr": "betteraves",
+        "de": "Rote Bete",
+        "es": "remolachas"
+      },
+      "quantity": 3,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "cabbage",
+        "fr": "chou",
+        "de": "Kohl",
+        "es": "repollo"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "potatoes",
+        "fr": "pommes de terre",
+        "de": "Kartoffeln",
+        "es": "patatas"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "sour cream",
+        "fr": "crème aigre",
+        "de": "Sauerrahm",
+        "es": "crema agria"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Sauté onions and beets.",
+        "fr": "Faire revenir les oignons et les betteraves.",
+        "de": "Zwiebeln und Rote Bete anbraten.",
+        "es": "Sofreír cebollas y remolachas."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add water, potatoes, and cabbage; simmer.",
+        "fr": "Ajouter l'eau, les pommes de terre et le chou; laisser mijoter.",
+        "de": "Wasser, Kartoffeln und Kohl hinzufügen; köcheln lassen.",
+        "es": "Añadir agua, patatas y repollo; cocinar a fuego lento."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Serve with a dollop of sour cream.",
+        "fr": "Servir avec une cuillerée de crème aigre.",
+        "de": "Mit einem Klecks Sauerrahm servieren.",
+        "es": "Servir con una cucharada de crema agria."
+      }
+    }
+  ],
+  "id": "aa",
+  "image": "https://blitech.github.io/reciepes/images/aa.jpg"
+}

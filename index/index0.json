@@ -1,42 +1,1116 @@
 [
   {
     "id": "a",
-    "t": "Chicken Curry",
+    "t": "Ratatouille",
     "img": "https://blitech.github.io/reciepes/images/a.jpg",
-    "m": 35,
-    "tg": ["spicy", "quick", "winter"],
-    "ig": ["chicken", "rice", "onion"]
+    "m": 45,
+    "tg": [
+      "french",
+      "vegetables",
+      "healthy"
+    ],
+    "ig": [
+      "eggplant",
+      "zucchini",
+      "bell pepper"
+    ]
   },
   {
     "id": "b",
-    "t": "Spaghetti Carbonara",
+    "t": "Coq au Vin",
     "img": "https://blitech.github.io/reciepes/images/b.jpg",
-    "m": 20,
-    "tg": ["italian", "quick", "comfort"],
-    "ig": ["pasta", "bacon", "egg"]
+    "m": 90,
+    "tg": [
+      "french",
+      "classic",
+      "wine"
+    ],
+    "ig": [
+      "chicken",
+      "red wine",
+      "bacon"
+    ]
   },
   {
     "id": "c",
-    "t": "Vegetable Stir Fry",
+    "t": "Escargots de Bourgogne",
     "img": "https://blitech.github.io/reciepes/images/c.jpg",
-    "m": 15,
-    "tg": ["vegan", "quick", "healthy"],
-    "ig": ["broccoli", "carrot", "soy sauce"]
+    "m": 20,
+    "tg": [
+      "french",
+      "appetizer",
+      "classic"
+    ],
+    "ig": [
+      "snails",
+      "butter",
+      "garlic"
+    ]
   },
   {
     "id": "d",
-    "t": "Chocolate Cake",
+    "t": "Beef Wellington",
     "img": "https://blitech.github.io/reciepes/images/d.jpg",
-    "m": 60,
-    "tg": ["dessert", "sweet", "weekend"],
-    "ig": ["chocolate", "flour", "egg"]
+    "m": 120,
+    "tg": [
+      "beef",
+      "classic",
+      "celebration"
+    ],
+    "ig": [
+      "beef fillet",
+      "puff pastry",
+      "mushrooms"
+    ]
   },
   {
     "id": "e",
-    "t": "Greek Salad",
+    "t": "Crêpes",
     "img": "https://blitech.github.io/reciepes/images/e.jpg",
+    "m": 30,
+    "tg": [
+      "french",
+      "sweet",
+      "dessert"
+    ],
+    "ig": [
+      "flour",
+      "milk",
+      "eggs"
+    ]
+  },
+  {
+    "id": "f",
+    "t": "Margherita Pizza",
+    "img": "https://blitech.github.io/reciepes/images/f.jpg",
+    "m": 45,
+    "tg": [
+      "italian",
+      "vegetarian",
+      "pizza"
+    ],
+    "ig": [
+      "Pizza dough",
+      "Tomato sauce",
+      "Mozzarella cheese"
+    ]
+  },
+  {
+    "id": "g",
+    "t": "Beef Tacos",
+    "img": "https://blitech.github.io/reciepes/images/g.jpg",
+    "m": 30,
+    "tg": [
+      "mexican",
+      "beef",
+      "spicy"
+    ],
+    "ig": [
+      "Ground beef",
+      "Taco shells",
+      "Lettuce"
+    ]
+  },
+  {
+    "id": "h",
+    "t": "Sushi Rolls",
+    "img": "https://blitech.github.io/reciepes/images/h.jpg",
+    "m": 60,
+    "tg": [
+      "japanese",
+      "fish",
+      "rice"
+    ],
+    "ig": [
+      "Sushi rice",
+      "Nori sheets",
+      "Fresh salmon"
+    ]
+  },
+  {
+    "id": "i",
+    "t": "Chicken Curry",
+    "img": "https://blitech.github.io/reciepes/images/i.jpg",
+    "m": 50,
+    "tg": [
+      "indian",
+      "chicken",
+      "spicy"
+    ],
+    "ig": [
+      "Chicken breast",
+      "Coconut milk",
+      "Curry powder"
+    ]
+  },
+  {
+    "id": "j",
+    "t": "Ratatouille",
+    "img": "https://blitech.github.io/reciepes/images/j.jpg",
+    "m": 75,
+    "tg": [
+      "french",
+      "vegetarian",
+      "vegetables"
+    ],
+    "ig": [
+      "Eggplant",
+      "Zucchini",
+      "Bell pepper"
+    ]
+  },
+  {
+    "id": "k",
+    "t": "Pad Thai",
+    "img": "https://blitech.github.io/reciepes/images/k.jpg",
+    "m": 40,
+    "tg": [
+      "thai",
+      "noodles",
+      "shrimp"
+    ],
+    "ig": [
+      "Rice noodles",
+      "Shrimp",
+      "Peanuts"
+    ]
+  },
+  {
+    "id": "l",
+    "t": "Classic Burger",
+    "img": "https://blitech.github.io/reciepes/images/l.jpg",
+    "m": 25,
+    "tg": [
+      "american",
+      "beef",
+      "fast-food"
+    ],
+    "ig": [
+      "Burger bun",
+      "Beef patty",
+      "Tomato slice"
+    ]
+  },
+  {
+    "id": "m",
+    "t": "Falafel",
+    "img": "https://blitech.github.io/reciepes/images/m.jpg",
+    "m": 45,
+    "tg": [
+      "middle-eastern",
+      "vegetarian",
+      "chickpeas"
+    ],
+    "ig": [
+      "Chickpeas",
+      "Parsley",
+      "Garlic"
+    ]
+  },
+  {
+    "id": "n",
+    "t": "Greek Salad",
+    "img": "https://blitech.github.io/reciepes/images/n.jpg",
+    "m": 15,
+    "tg": [
+      "greek",
+      "vegetarian",
+      "salad"
+    ],
+    "ig": [
+      "Cucumber",
+      "Feta cheese",
+      "Olives"
+    ]
+  },
+  {
+    "id": "o",
+    "t": "Paella",
+    "img": "https://blitech.github.io/reciepes/images/o.jpg",
+    "m": 90,
+    "tg": [
+      "spanish",
+      "seafood",
+      "rice"
+    ],
+    "ig": [
+      "Rice",
+      "Saffron",
+      "Mussels"
+    ]
+  },
+  {
+    "id": "p",
+    "t": "Poutine",
+    "img": "https://blitech.github.io/reciepes/images/p.jpg",
+    "m": 30,
+    "tg": [
+      "canadian",
+      "fries",
+      "cheese"
+    ],
+    "ig": [
+      "French fries",
+      "Cheese curds",
+      "Gravy"
+    ]
+  },
+  {
+    "id": "q",
+    "t": "Shepherd's Pie",
+    "img": "https://blitech.github.io/reciepes/images/q.jpg",
+    "m": 60,
+    "tg": [
+      "british",
+      "beef",
+      "potato"
+    ],
+    "ig": [
+      "Minced lamb",
+      "Potatoes",
+      "Peas"
+    ]
+  },
+  {
+    "id": "r",
+    "t": "Beef Pho",
+    "img": "https://blitech.github.io/reciepes/images/r.jpg",
+    "m": 180,
+    "tg": [
+      "vietnamese",
+      "soup",
+      "beef"
+    ],
+    "ig": [
+      "Beef broth",
+      "Rice noodles",
+      "Beef slices"
+    ]
+  },
+  {
+    "id": "s",
+    "t": "Dim Sum",
+    "img": "https://blitech.github.io/reciepes/images/s.jpg",
+    "m": 90,
+    "tg": [
+      "chinese",
+      "steamed",
+      "dumplings"
+    ],
+    "ig": [
+      "Dumpling wrappers",
+      "Pork mince",
+      "Ginger"
+    ]
+  },
+  {
+    "id": "t",
+    "t": "Pierogi",
+    "img": "https://blitech.github.io/reciepes/images/t.jpg",
+    "m": 120,
+    "tg": [
+      "polish",
+      "dumplings",
+      "potato"
+    ],
+    "ig": [
+      "Flour",
+      "Potatoes",
+      "Cottage cheese"
+    ]
+  },
+  {
+    "id": "u",
+    "t": "Goulash",
+    "img": "https://blitech.github.io/reciepes/images/u.jpg",
+    "m": 150,
+    "tg": [
+      "hungarian",
+      "beef",
+      "stew"
+    ],
+    "ig": [
+      "Beef cubes",
+      "Paprika",
+      "Onions"
+    ]
+  },
+  {
+    "id": "v",
+    "t": "Ceviche",
+    "img": "https://blitech.github.io/reciepes/images/v.jpg",
+    "m": 30,
+    "tg": [
+      "peruvian",
+      "fish",
+      "fresh"
+    ],
+    "ig": [
+      "White fish",
+      "Lime juice",
+      "Cilantro"
+    ]
+  },
+  {
+    "id": "w",
+    "t": "Feijoada",
+    "img": "https://blitech.github.io/reciepes/images/w.jpg",
+    "m": 240,
+    "tg": [
+      "brazilian",
+      "beans",
+      "pork"
+    ],
+    "ig": [
+      "Black beans",
+      "Pork ribs",
+      "Sausage"
+    ]
+  },
+  {
+    "id": "x",
+    "t": "Moussaka",
+    "img": "https://blitech.github.io/reciepes/images/x.jpg",
+    "m": 90,
+    "tg": [
+      "greek",
+      "eggplant",
+      "meat"
+    ],
+    "ig": [
+      "Eggplant",
+      "Minced beef",
+      "Bechamel sauce"
+    ]
+  },
+  {
+    "id": "y",
+    "t": "Bibimbap",
+    "img": "https://blitech.github.io/reciepes/images/y.jpg",
+    "m": 45,
+    "tg": [
+      "korean",
+      "rice",
+      "vegetables"
+    ],
+    "ig": [
+      "Rice",
+      "Spinach",
+      "Bean sprouts"
+    ]
+  },
+  {
+    "id": "z",
+    "t": "Gazpacho",
+    "img": "https://blitech.github.io/reciepes/images/z.jpg",
+    "m": 20,
+    "tg": [
+      "spanish",
+      "soup",
+      "cold",
+      "vegan"
+    ],
+    "ig": [
+      "tomatoes",
+      "cucumber",
+      "green pepper"
+    ]
+  },
+  {
+    "id": "aa",
+    "t": "Borscht",
+    "img": "https://blitech.github.io/reciepes/images/aa.jpg",
+    "m": 90,
+    "tg": [
+      "eastern-european",
+      "soup",
+      "beetroot",
+      "winter"
+    ],
+    "ig": [
+      "beetroots",
+      "cabbage",
+      "potatoes"
+    ]
+  },
+  {
+    "id": "ab",
+    "t": "Tiramisu",
+    "img": "https://blitech.github.io/reciepes/images/ab.jpg",
+    "m": 30,
+    "tg": [
+      "italian",
+      "dessert",
+      "coffee",
+      "sweet"
+    ],
+    "ig": [
+      "mascarpone",
+      "ladyfingers",
+      "coffee"
+    ]
+  },
+  {
+    "id": "ac",
+    "t": "Baklava",
+    "img": "https://blitech.github.io/reciepes/images/ac.jpg",
+    "m": 60,
+    "tg": [
+      "middle-eastern",
+      "dessert",
+      "sweet",
+      "nuts"
+    ],
+    "ig": [
+      "phyllo dough",
+      "walnuts",
+      "butter"
+    ]
+  },
+  {
+    "id": "ad",
+    "t": "Hummus",
+    "img": "https://blitech.github.io/reciepes/images/ad.jpg",
     "m": 10,
-    "tg": ["fresh", "summer", "vegetarian"],
-    "ig": ["tomato", "cucumber", "feta"]
+    "tg": [
+      "middle-eastern",
+      "vegan",
+      "dip",
+      "healthy"
+    ],
+    "ig": [
+      "chickpeas",
+      "tahini",
+      "lemon juice"
+    ]
+  },
+  {
+    "id": "ae",
+    "t": "Shakshuka",
+    "img": "https://blitech.github.io/reciepes/images/ae.jpg",
+    "m": 25,
+    "tg": [
+      "middle-eastern",
+      "breakfast",
+      "eggs",
+      "spicy"
+    ],
+    "ig": [
+      "eggs",
+      "tomatoes",
+      "onion"
+    ]
+  },
+  {
+    "id": "af",
+    "t": "Wiener Schnitzel",
+    "img": "https://blitech.github.io/reciepes/images/af.jpg",
+    "m": 30,
+    "tg": [
+      "austrian",
+      "meat",
+      "classic",
+      "fried"
+    ],
+    "ig": [
+      "veal cutlets",
+      "flour",
+      "eggs"
+    ]
+  },
+  {
+    "id": "ag",
+    "t": "Laksa",
+    "img": "https://blitech.github.io/reciepes/images/ag.jpg",
+    "m": 45,
+    "tg": [
+      "malaysian",
+      "soup",
+      "spicy",
+      "noodles"
+    ],
+    "ig": [
+      "rice noodles",
+      "shrimp",
+      "coconut milk"
+    ]
+  },
+  {
+    "id": "ah",
+    "t": "Arepas",
+    "img": "https://blitech.github.io/reciepes/images/ah.jpg",
+    "m": 30,
+    "tg": [
+      "venezuelan",
+      "colombian",
+      "bread",
+      "gluten-free"
+    ],
+    "ig": [
+      "corn flour",
+      "water",
+      "salt"
+    ]
+  },
+  {
+    "id": "ai",
+    "t": "Ramen",
+    "img": "https://blitech.github.io/reciepes/images/ai.jpg",
+    "m": 60,
+    "tg": [
+      "japanese",
+      "soup",
+      "noodles",
+      "comfort"
+    ],
+    "ig": [
+      "ramen noodles",
+      "pork belly",
+      "soy sauce"
+    ]
+  },
+  {
+    "id": "aj",
+    "t": "Samosas",
+    "img": "https://blitech.github.io/reciepes/images/aj.jpg",
+    "m": 45,
+    "tg": [
+      "indian",
+      "snack",
+      "fried",
+      "spicy"
+    ],
+    "ig": [
+      "potatoes",
+      "peas",
+      "flour"
+    ]
+  },
+  {
+    "id": "ak",
+    "t": "Chana Masala",
+    "img": "https://blitech.github.io/reciepes/images/ak.jpg",
+    "m": 30,
+    "tg": [
+      "indian",
+      "vegan",
+      "curry",
+      "spicy"
+    ],
+    "ig": [
+      "chickpeas",
+      "onion",
+      "tomatoes"
+    ]
+  },
+  {
+    "id": "al",
+    "t": "Bolognese Sauce",
+    "img": "https://blitech.github.io/reciepes/images/al.jpg",
+    "m": 120,
+    "tg": [
+      "italian",
+      "sauce",
+      "meat",
+      "classic"
+    ],
+    "ig": [
+      "ground beef",
+      "tomato puree",
+      "onion"
+    ]
+  },
+  {
+    "id": "am",
+    "t": "Clam Chowder",
+    "img": "https://blitech.github.io/reciepes/images/am.jpg",
+    "m": 40,
+    "tg": [
+      "american",
+      "soup",
+      "seafood",
+      "creamy"
+    ],
+    "ig": [
+      "clams",
+      "potatoes",
+      "bacon"
+    ]
+  },
+  {
+    "id": "an",
+    "t": "Apple Pie",
+    "img": "https://blitech.github.io/reciepes/images/an.jpg",
+    "m": 75,
+    "tg": [
+      "dessert",
+      "sweet",
+      "classic",
+      "fruit"
+    ],
+    "ig": [
+      "apples",
+      "pie crust",
+      "sugar"
+    ]
+  },
+  {
+    "id": "ao",
+    "t": "Croque Monsieur",
+    "img": "https://blitech.github.io/reciepes/images/ao.jpg",
+    "m": 15,
+    "tg": [
+      "french",
+      "sandwich",
+      "cheese",
+      "quick"
+    ],
+    "ig": [
+      "bread slices",
+      "ham",
+      "gruyere cheese"
+    ]
+  },
+  {
+    "id": "ap",
+    "t": "Tom Yum Goong",
+    "img": "https://blitech.github.io/reciepes/images/ap.jpg",
+    "m": 30,
+    "tg": [
+      "thai",
+      "soup",
+      "shrimp",
+      "spicy"
+    ],
+    "ig": [
+      "shrimp",
+      "lemongrass",
+      "galangal"
+    ]
+  },
+  {
+    "id": "aq",
+    "t": "Peking Duck",
+    "img": "https://blitech.github.io/reciepes/images/aq.jpg",
+    "m": 180,
+    "tg": [
+      "chinese",
+      "meat",
+      "celebration",
+      "classic"
+    ],
+    "ig": [
+      "whole duck",
+      "honey",
+      "five spice powder"
+    ]
+  },
+  {
+    "id": "ar",
+    "t": "Crepes",
+    "img": "https://blitech.github.io/reciepes/images/ar.jpg",
+    "m": 20,
+    "tg": [
+      "french",
+      "dessert",
+      "breakfast",
+      "sweet"
+    ],
+    "ig": [
+      "flour",
+      "milk",
+      "eggs"
+    ]
+  },
+  {
+    "id": "as",
+    "t": "Lasagna",
+    "img": "https://blitech.github.io/reciepes/images/as.jpg",
+    "m": 90,
+    "tg": [
+      "italian",
+      "pasta",
+      "meat",
+      "comfort"
+    ],
+    "ig": [
+      "lasagna sheets",
+      "bolognese sauce",
+      "bechamel sauce"
+    ]
+  },
+  {
+    "id": "at",
+    "t": "Fish and Chips",
+    "img": "https://blitech.github.io/reciepes/images/at.jpg",
+    "m": 30,
+    "tg": [
+      "british",
+      "fish",
+      "fried",
+      "classic"
+    ],
+    "ig": [
+      "white fish fillets",
+      "potatoes",
+      "flour"
+    ]
+  },
+  {
+    "id": "au",
+    "t": "Churros",
+    "img": "https://blitech.github.io/reciepes/images/au.jpg",
+    "m": 25,
+    "tg": [
+      "spanish",
+      "dessert",
+      "fried",
+      "sweet"
+    ],
+    "ig": [
+      "water",
+      "butter",
+      "flour"
+    ]
+  },
+  {
+    "id": "av",
+    "t": "Kimchi",
+    "img": "https://blitech.github.io/reciepes/images/av.jpg",
+    "m": 60,
+    "tg": [
+      "korean",
+      "side-dish",
+      "fermented",
+      "spicy"
+    ],
+    "ig": [
+      "napa cabbage",
+      "salt",
+      "chili flakes"
+    ]
+  },
+  {
+    "id": "aw",
+    "t": "Biryani",
+    "img": "https://blitech.github.io/reciepes/images/aw.jpg",
+    "m": 90,
+    "tg": [
+      "indian",
+      "rice",
+      "meat",
+      "spicy"
+    ],
+    "ig": [
+      "basmati rice",
+      "chicken",
+      "yogurt"
+    ]
+  },
+  {
+    "id": "ax",
+    "t": "Miso Soup",
+    "img": "https://blitech.github.io/reciepes/images/ax.jpg",
+    "m": 15,
+    "tg": [
+      "japanese",
+      "soup",
+      "healthy",
+      "vegan"
+    ],
+    "ig": [
+      "miso paste",
+      "dashi",
+      "tofu"
+    ]
+  },
+  {
+    "id": "ay",
+    "t": "Eggs Benedict",
+    "img": "https://blitech.github.io/reciepes/images/ay.jpg",
+    "m": 25,
+    "tg": [
+      "american",
+      "breakfast",
+      "eggs",
+      "classic"
+    ],
+    "ig": [
+      "eggs",
+      "english muffin",
+      "canadian bacon"
+    ]
+  },
+  {
+    "id": "az",
+    "t": "Gumbo",
+    "img": "https://blitech.github.io/reciepes/images/az.jpg",
+    "m": 120,
+    "tg": [
+      "american",
+      "stew",
+      "meat",
+      "creole"
+    ],
+    "ig": [
+      "shrimp",
+      "andouille sausage",
+      "okra"
+    ]
+  },
+  {
+    "id": "ba",
+    "t": "Coq au Vin",
+    "img": "https://blitech.github.io/reciepes/images/ba.jpg",
+    "m": 150,
+    "tg": [
+      "french",
+      "meat",
+      "wine",
+      "classic"
+    ],
+    "ig": [
+      "chicken",
+      "red wine",
+      "mushrooms"
+    ]
+  },
+  {
+    "id": "bb",
+    "t": "Tortilla Española",
+    "img": "https://blitech.github.io/reciepes/images/bb.jpg",
+    "m": 40,
+    "tg": [
+      "spanish",
+      "eggs",
+      "potato",
+      "classic"
+    ],
+    "ig": [
+      "potatoes",
+      "eggs",
+      "onion"
+    ]
+  },
+  {
+    "id": "bc",
+    "t": "Panna Cotta",
+    "img": "https://blitech.github.io/reciepes/images/bc.jpg",
+    "m": 20,
+    "tg": [
+      "italian",
+      "dessert",
+      "sweet",
+      "creamy"
+    ],
+    "ig": [
+      "heavy cream",
+      "sugar",
+      "gelatin"
+    ]
+  },
+  {
+    "id": "bd",
+    "t": "Guacamole",
+    "img": "https://blitech.github.io/reciepes/images/bd.jpg",
+    "m": 10,
+    "tg": [
+      "mexican",
+      "vegan",
+      "dip",
+      "healthy"
+    ],
+    "ig": [
+      "avocados",
+      "lime",
+      "onion"
+    ]
+  },
+  {
+    "id": "be",
+    "t": "Quesadilla",
+    "img": "https://blitech.github.io/reciepes/images/be.jpg",
+    "m": 15,
+    "tg": [
+      "mexican",
+      "quick",
+      "cheese",
+      "snack"
+    ],
+    "ig": [
+      "tortillas",
+      "cheese",
+      "chicken"
+    ]
+  },
+  {
+    "id": "bf",
+    "t": "Bulgogi",
+    "img": "https://blitech.github.io/reciepes/images/bf.jpg",
+    "m": 40,
+    "tg": [
+      "korean",
+      "meat",
+      "beef",
+      "spicy"
+    ],
+    "ig": [
+      "beef",
+      "soy sauce",
+      "sesame oil"
+    ]
+  },
+  {
+    "id": "bg",
+    "t": "Tom Kha Gai",
+    "img": "https://blitech.github.io/reciepes/images/bg.jpg",
+    "m": 30,
+    "tg": [
+      "thai",
+      "soup",
+      "chicken",
+      "coconut"
+    ],
+    "ig": [
+      "chicken",
+      "coconut milk",
+      "galangal"
+    ]
+  },
+  {
+    "id": "bh",
+    "t": "Escargots de Bourgogne",
+    "img": "https://blitech.github.io/reciepes/images/bh.jpg",
+    "m": 20,
+    "tg": [
+      "french",
+      "appetizer",
+      "garlic",
+      "classic"
+    ],
+    "ig": [
+      "snails",
+      "butter",
+      "garlic"
+    ]
+  },
+  {
+    "id": "bi",
+    "t": "Prawn Cocktail",
+    "img": "https://blitech.github.io/reciepes/images/bi.jpg",
+    "m": 15,
+    "tg": [
+      "british",
+      "appetizer",
+      "seafood",
+      "quick"
+    ],
+    "ig": [
+      "prawns",
+      "mayonnaise",
+      "ketchup"
+    ]
+  },
+  {
+    "id": "bj",
+    "t": "Beef Wellington",
+    "img": "https://blitech.github.io/reciepes/images/bj.jpg",
+    "m": 90,
+    "tg": [
+      "british",
+      "meat",
+      "beef",
+      "celebration"
+    ],
+    "ig": [
+      "beef fillet",
+      "puff pastry",
+      "mushrooms"
+    ]
+  },
+  {
+    "id": "bk",
+    "t": "Profiteroles",
+    "img": "https://blitech.github.io/reciepes/images/bk.jpg",
+    "m": 60,
+    "tg": [
+      "french",
+      "dessert",
+      "sweet",
+      "chocolate"
+    ],
+    "ig": [
+      "choux pastry",
+      "vanilla ice cream",
+      "chocolate"
+    ]
+  },
+  {
+    "id": "bl",
+    "t": "Mango Sticky Rice",
+    "img": "https://blitech.github.io/reciepes/images/bl.jpg",
+    "m": 45,
+    "tg": [
+      "thai",
+      "dessert",
+      "sweet",
+      "fruit"
+    ],
+    "ig": [
+      "glutinous rice",
+      "mango",
+      "coconut milk"
+    ]
+  },
+  {
+    "id": "bm",
+    "t": "Panzanella",
+    "img": "https://blitech.github.io/reciepes/images/bm.jpg",
+    "m": 20,
+    "tg": [
+      "italian",
+      "salad",
+      "fresh",
+      "vegetarian"
+    ],
+    "ig": [
+      "stale bread",
+      "tomatoes",
+      "cucumber"
+    ]
+  },
+  {
+    "id": "bn",
+    "t": "Quiche Lorraine",
+    "img": "https://blitech.github.io/reciepes/images/bn.jpg",
+    "m": 45,
+    "tg": [
+      "french",
+      "savory",
+      "classic",
+      "bacon"
+    ],
+    "ig": [
+      "pie crust",
+      "bacon",
+      "eggs"
+    ]
+  },
+  {
+    "id": "bo",
+    "t": "Pancakes",
+    "img": "https://blitech.github.io/reciepes/images/bo.jpg",
+    "m": 20,
+    "tg": [
+      "american",
+      "breakfast",
+      "sweet",
+      "quick"
+    ],
+    "ig": [
+      "flour",
+      "milk",
+      "egg"
+    ]
   }
 ]

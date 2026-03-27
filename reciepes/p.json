@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Poutine",
+    "fr": "Poutine",
+    "de": "Poutine",
+    "es": "Poutine"
+  },
+  "time": 30,
+  "tags": [
+    "canadian",
+    "fries",
+    "cheese"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "French fries",
+        "fr": "Frites",
+        "de": "Pommes frites",
+        "es": "Papas fritas"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Cheese curds",
+        "fr": "Fromage en grains",
+        "de": "Käsebruch",
+        "es": "Queso en grano"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Gravy",
+        "fr": "Sauce brune",
+        "de": "Bratensauce",
+        "es": "Salsa de carne"
+      },
+      "quantity": 250,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "Oil",
+        "fr": "Huile",
+        "de": "Öl",
+        "es": "Aceite"
+      },
+      "quantity": 1,
+      "unit": "L"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Deep fry the potatoes until crispy.",
+        "fr": "Frire les pommes de terre jusqu'à ce qu'elles soient croustillantes."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Prepare the brown gravy.",
+        "fr": "Préparer la sauce brune."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Place fries in a bowl, add cheese curds.",
+        "fr": "Mettre les frites dans un bol, ajouter le fromage en grains."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Pour hot gravy over everything.",
+        "fr": "Verser la sauce chaude sur le tout."
+      }
+    }
+  ],
+  "id": "p",
+  "image": "https://blitech.github.io/reciepes/images/p.jpg"
+}

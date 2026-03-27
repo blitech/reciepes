@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Miso Soup",
+    "fr": "Soupe miso",
+    "de": "Misosuppe",
+    "es": "Sopa de miso"
+  },
+  "time": 15,
+  "tags": [
+    "japanese",
+    "soup",
+    "healthy",
+    "vegan"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "miso paste",
+        "fr": "pâte miso",
+        "de": "Misopaste",
+        "es": "pasta de miso"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "dashi",
+        "fr": "dashi",
+        "de": "Dashi",
+        "es": "dashi"
+      },
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "tofu",
+        "fr": "tofu",
+        "de": "Tofu",
+        "es": "tofu"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "seaweed",
+        "fr": "algues",
+        "de": "Algen",
+        "es": "algas"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "green onions",
+        "fr": "oignons verts",
+        "de": "Frühlingszwiebeln",
+        "es": "cebolletas"
+      },
+      "quantity": 1,
+      "unit": "stalk"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Heat dashi to a simmer.",
+        "fr": "Chauffer le dashi jusqu'au frémissement.",
+        "de": "Dashi zum Köcheln bringen.",
+        "es": "Calentar el dashi hasta que hierva a fuego lento."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add tofu and seaweed.",
+        "fr": "Ajouter le tofu et les algues.",
+        "de": "Tofu und Algen hinzufügen.",
+        "es": "Añadir tofu y algas."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Whisk in miso paste and serve.",
+        "fr": "Incorporer la pâte miso et servir.",
+        "de": "Misopaste einrühren und servieren.",
+        "es": "Incorporar la pasta de miso y servir."
+      }
+    }
+  ],
+  "id": "ax",
+  "image": "https://blitech.github.io/reciepes/images/ax.jpg"
+}

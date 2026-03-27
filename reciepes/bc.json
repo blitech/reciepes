@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Panna Cotta",
+    "fr": "Panna Cotta",
+    "de": "Panna Cotta",
+    "es": "Panna Cotta"
+  },
+  "time": 20,
+  "tags": [
+    "italian",
+    "dessert",
+    "sweet",
+    "creamy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "heavy cream",
+        "fr": "crème liquide",
+        "de": "Sahne",
+        "es": "nata"
+      },
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "sugar",
+        "fr": "sucre",
+        "de": "Zucker",
+        "es": "azúcar"
+      },
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "gelatin",
+        "fr": "gélatine",
+        "de": "Gelatine",
+        "es": "gelatina"
+      },
+      "quantity": 3,
+      "unit": "sheets"
+    },
+    {
+      "name": {
+        "en": "vanilla",
+        "fr": "vanille",
+        "de": "Vanille",
+        "es": "vainilla"
+      },
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": {
+        "en": "berries",
+        "fr": "baies",
+        "de": "Beeren",
+        "es": "bayas"
+      },
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Heat cream, sugar, and vanilla.",
+        "fr": "Chauffer la crème, le sucre et la vanille.",
+        "de": "Sahne, Zucker und Vanille erhitzen.",
+        "es": "Calentar nata, azúcar y vainilla."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Stir in soaked gelatin.",
+        "fr": "Incorporer la gélatine ramollie.",
+        "de": "Eingeweichte Gelatine unterrühren.",
+        "es": "Incorporar la gelatina hidratada."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Pour into molds and chill.",
+        "fr": "Verser dans des moules et réfrigérer.",
+        "de": "In Formen füllen und kühlen.",
+        "es": "Verter en moldes y enfriar."
+      }
+    }
+  ],
+  "id": "bc",
+  "image": "https://blitech.github.io/reciepes/images/bc.jpg"
+}

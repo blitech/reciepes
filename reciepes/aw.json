@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Biryani",
+    "fr": "Biryani",
+    "de": "Biryani",
+    "es": "Biryani"
+  },
+  "time": 90,
+  "tags": [
+    "indian",
+    "rice",
+    "meat",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "basmati rice",
+        "fr": "riz basmati",
+        "de": "Basmatireis",
+        "es": "arroz basmati"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "chicken",
+        "fr": "poulet",
+        "de": "Hähnchen",
+        "es": "pollo"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "yogurt",
+        "fr": "yaourt",
+        "de": "Joghurt",
+        "es": "yogur"
+      },
+      "quantity": 200,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "saffron",
+        "fr": "safran",
+        "de": "Safran",
+        "es": "azafrán"
+      },
+      "quantity": 1,
+      "unit": "pinch"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Marinate chicken in yogurt and spices.",
+        "fr": "Mariner le poulet dans le yaourt et les épices.",
+        "de": "Hähnchen in Joghurt und Gewürzen marinieren.",
+        "es": "Marinar el pollo en yogur y especias."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Parboil rice.",
+        "fr": "Précuire le riz.",
+        "de": "Reis vorkochen.",
+        "es": "Precocinar el arroz."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Layer rice and chicken, and cook on low.",
+        "fr": "Superposer le riz et le poulet, et cuire à feu doux.",
+        "de": "Reis und Hähnchen schichten und bei schwacher Hitze garen.",
+        "es": "Alternar capas de arroz y pollo, y cocinar a fuego lento."
+      }
+    }
+  ],
+  "id": "aw",
+  "image": "https://blitech.github.io/reciepes/images/aw.jpg"
+}

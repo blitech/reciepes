@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Coq au Vin",
+    "fr": "Coq au Vin",
+    "de": "Coq au Vin",
+    "es": "Coq au Vin"
+  },
+  "time": 150,
+  "tags": [
+    "french",
+    "meat",
+    "wine",
+    "classic"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "chicken",
+        "fr": "poulet",
+        "de": "Hähnchen",
+        "es": "pollo"
+      },
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": {
+        "en": "red wine",
+        "fr": "vin rouge",
+        "de": "Rotwein",
+        "es": "vino tinto"
+      },
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "mushrooms",
+        "fr": "champignons",
+        "de": "Pilze",
+        "es": "champiñones"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "bacon",
+        "fr": "bacon",
+        "de": "Speck",
+        "es": "bacon"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 1,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Brown chicken and bacon.",
+        "fr": "Faire dorer le poulet et le bacon.",
+        "de": "Hähnchen und Speck anbraten.",
+        "es": "Dorar el pollo y el bacon."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add wine and simmer for 2 hours.",
+        "fr": "Ajouter le vin et laisser mijoter pendant 2 heures.",
+        "de": "Wein hinzufügen und 2 Stunden köcheln lassen.",
+        "es": "Añadir vino y cocinar a fuego lento durante 2 horas."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Add mushrooms near the end.",
+        "fr": "Ajouter les champignons vers la fin.",
+        "de": "Pilze gegen Ende hinzufügen.",
+        "es": "Añadir los champiñones al final."
+      }
+    }
+  ],
+  "id": "ba",
+  "image": "https://blitech.github.io/reciepes/images/ba.jpg"
+}

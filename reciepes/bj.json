@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Beef Wellington",
+    "fr": "Boeuf Wellington",
+    "de": "Filet Wellington",
+    "es": "Solomillo Wellington"
+  },
+  "time": 90,
+  "tags": [
+    "british",
+    "meat",
+    "beef",
+    "celebration"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "beef fillet",
+        "fr": "filet de boeuf",
+        "de": "Rinderfilet",
+        "es": "solomillo de ternera"
+      },
+      "quantity": 800,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "puff pastry",
+        "fr": "pâte feuilletée",
+        "de": "Blätterteig",
+        "es": "hojaldre"
+      },
+      "quantity": 1,
+      "unit": "pack"
+    },
+    {
+      "name": {
+        "en": "mushrooms",
+        "fr": "champignons",
+        "de": "Pilze",
+        "es": "champiñones"
+      },
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "prosciutto",
+        "fr": "prosciutto",
+        "de": "Prosciutto",
+        "es": "prosciutto"
+      },
+      "quantity": 6,
+      "unit": "slices"
+    },
+    {
+      "name": {
+        "en": "egg yolk",
+        "fr": "jaune d'oeuf",
+        "de": "Eigelb",
+        "es": "yema de huevo"
+      },
+      "quantity": 1,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Sear beef and wrap in mushrooms and prosciutto.",
+        "fr": "Saisir le boeuf et l'envelopper de champignons et de prosciutto.",
+        "de": "Rinderfilet anbraten und mit Pilzen und Prosciutto umwickeln.",
+        "es": "Sellar la ternera y envolver con champiñones y prosciutto."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Wrap in puff pastry and glaze with egg.",
+        "fr": "Envelopper dans la pâte feuilletée et dorer à l'oeuf.",
+        "de": "In Blätterteig einwickeln und mit Ei bestreichen.",
+        "es": "Envolver en hojaldre y pintar con huevo."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Bake until golden.",
+        "fr": "Cuire jusqu'à ce que ce soit doré.",
+        "de": "Goldbraun backen.",
+        "es": "Hornear hasta que esté dorado."
+      }
+    }
+  ],
+  "id": "bj",
+  "image": "https://blitech.github.io/reciepes/images/bj.jpg"
+}

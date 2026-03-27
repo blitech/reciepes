@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Samosas",
+    "fr": "Samosas",
+    "de": "Samosas",
+    "es": "Samosas"
+  },
+  "time": 45,
+  "tags": [
+    "indian",
+    "snack",
+    "fried",
+    "spicy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "potatoes",
+        "fr": "pommes de terre",
+        "de": "Kartoffeln",
+        "es": "patatas"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "peas",
+        "fr": "petits pois",
+        "de": "Erbsen",
+        "es": "guisantes"
+      },
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "flour",
+        "fr": "farine",
+        "de": "Mehl",
+        "es": "harina"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "cumin",
+        "fr": "cumin",
+        "de": "Kreuzkümmel",
+        "es": "comino"
+      },
+      "quantity": 1,
+      "unit": "tsp"
+    },
+    {
+      "name": {
+        "en": "oil",
+        "fr": "huile",
+        "de": "Öl",
+        "es": "aceite"
+      },
+      "quantity": 1,
+      "unit": "liter"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Make dough and filling of potatoes and peas.",
+        "fr": "Préparer la pâte et la garniture de pommes de terre et pois.",
+        "de": "Teig und Füllung aus Kartoffeln und Erbsen herstellen.",
+        "es": "Preparar la masa y el relleno de patatas y guisantes."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Shape dough into triangles and fill.",
+        "fr": "Former des triangles avec la pâte et garnir.",
+        "de": "Teig zu Dreiecken formen und füllen.",
+        "es": "Formar triángulos con la masa y rellenar."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Deep fry until golden.",
+        "fr": "Frire jusqu'à ce que ce soit doré.",
+        "de": "Goldbraun frittieren.",
+        "es": "Freír hasta que estén dorados."
+      }
+    }
+  ],
+  "id": "aj",
+  "image": "https://blitech.github.io/reciepes/images/aj.jpg"
+}

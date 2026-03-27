@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Mango Sticky Rice",
+    "fr": "Riz gluant à la mangue",
+    "de": "Mango Sticky Rice",
+    "es": "Arroz con mango"
+  },
+  "time": 45,
+  "tags": [
+    "thai",
+    "dessert",
+    "sweet",
+    "fruit"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "glutinous rice",
+        "fr": "riz gluant",
+        "de": "Klebreis",
+        "es": "arroz glutinoso"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "mango",
+        "fr": "mangue",
+        "de": "Mango",
+        "es": "mango"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "coconut milk",
+        "fr": "lait de coco",
+        "de": "Kokosmilch",
+        "es": "leche de coco"
+      },
+      "quantity": 200,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "sugar",
+        "fr": "sucre",
+        "de": "Zucker",
+        "es": "azúcar"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "sesame seeds",
+        "fr": "graines de sésame",
+        "de": "Sesamsamen",
+        "es": "semillas de sésamo"
+      },
+      "quantity": 1,
+      "unit": "tsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Steam sticky rice.",
+        "fr": "Cuire le riz gluant à la vapeur.",
+        "de": "Klebreis dämpfen.",
+        "es": "Cocinar el arroz al vapor."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Mix coconut milk with sugar and salt, stir into rice.",
+        "fr": "Mélanger le lait de coco avec le sucre et le sel, incorporer au riz.",
+        "de": "Kokosmilch mit Zucker und Salz mischen, unter den Reis rühren.",
+        "es": "Mezclar leche de coco con azúcar y sal, incorporar al arroz."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Serve with fresh mango slices.",
+        "fr": "Servir avec des tranches de mangue fraîche.",
+        "de": "Mit frischen Mangoscheiben servieren.",
+        "es": "Servir con rodajas de mango fresco."
+      }
+    }
+  ],
+  "id": "bl",
+  "image": "https://blitech.github.io/reciepes/images/bl.jpg"
+}

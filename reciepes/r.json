@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Beef Pho",
+    "fr": "Phô au bœuf",
+    "de": "Beef Pho",
+    "es": "Pho de ternera"
+  },
+  "time": 180,
+  "tags": [
+    "vietnamese",
+    "soup",
+    "beef"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Beef broth",
+        "fr": "Bouillon de bœuf",
+        "de": "Rinderbrühe",
+        "es": "Caldo de res"
+      },
+      "quantity": 2,
+      "unit": "L"
+    },
+    {
+      "name": {
+        "en": "Rice noodles",
+        "fr": "Nouilles de riz",
+        "de": "Reisnudeln",
+        "es": "Fideos de arroz"
+      },
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Beef slices",
+        "fr": "Tranches de bœuf",
+        "de": "Rindfleischscheiben",
+        "es": "Láminas de carne"
+      },
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Star anise",
+        "fr": "Anis étoilé",
+        "de": "Sternanis",
+        "es": "Anís estrellado"
+      },
+      "quantity": 3,
+      "unit": "pieces"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Simmer broth with spices for hours.",
+        "fr": "Mijoter le bouillon avec les épices pendant des heures."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Cook rice noodles separately.",
+        "fr": "Cuire les nouilles de riz séparément."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Place noodles and raw beef in a bowl.",
+        "fr": "Placer les nouilles et le bœuf cru dans un bol."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Pour boiling broth over to cook beef instantly.",
+        "fr": "Verser le bouillon bouillant pour cuire le bœuf instantanément."
+      }
+    }
+  ],
+  "id": "r",
+  "image": "https://blitech.github.io/reciepes/images/r.jpg"
+}

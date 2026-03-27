@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Shepherd's Pie",
+    "fr": "Hachis parmentier",
+    "de": "Shepherd's Pie",
+    "es": "Pastel de pastor"
+  },
+  "time": 60,
+  "tags": [
+    "british",
+    "beef",
+    "potato"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Minced lamb",
+        "fr": "Agneau haché",
+        "de": "Lammhackfleisch",
+        "es": "Cordero molido"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Potatoes",
+        "fr": "Pommes de terre",
+        "de": "Kartoffeln",
+        "es": "Papas"
+      },
+      "quantity": 800,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Peas",
+        "fr": "Petits pois",
+        "de": "Erbsen",
+        "es": "Guisantes"
+      },
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Carrots",
+        "fr": "Carottes",
+        "de": "Karotten",
+        "es": "Zanahorias"
+      },
+      "quantity": 2,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Cook minced meat with onions and carrots.",
+        "fr": "Cuire la viande hachée avec les oignons et les carottes."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Boil and mash the potatoes.",
+        "fr": "Bouillir et écraser les pommes de terre en purée."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Layer meat then potatoes in a dish.",
+        "fr": "Superposer la viande puis les pommes de terre dans un plat."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Bake until golden on top.",
+        "fr": "Cuire au four jusqu'à ce que le dessus soit doré."
+      }
+    }
+  ],
+  "id": "q",
+  "image": "https://blitech.github.io/reciepes/images/q.jpg"
+}

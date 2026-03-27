@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Tortilla Española",
+    "fr": "Tortilla espagnole",
+    "de": "Tortilla Española",
+    "es": "Tortilla de patatas"
+  },
+  "time": 40,
+  "tags": [
+    "spanish",
+    "eggs",
+    "potato",
+    "classic"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "potatoes",
+        "fr": "pommes de terre",
+        "de": "Kartoffeln",
+        "es": "patatas"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "eggs",
+        "fr": "oeufs",
+        "de": "Eier",
+        "es": "huevos"
+      },
+      "quantity": 5,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "olive oil",
+        "fr": "huile d'olive",
+        "de": "Olivenöl",
+        "es": "aceite de oliva"
+      },
+      "quantity": 100,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "salt",
+        "fr": "sel",
+        "de": "Salz",
+        "es": "sal"
+      },
+      "quantity": 1,
+      "unit": "tsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Fry potatoes and onion in oil.",
+        "fr": "Frire les pommes de terre et l'oignon dans l'huile.",
+        "de": "Kartoffeln und Zwiebel in Öl braten.",
+        "es": "Freír las patatas y la cebolla en aceite."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Mix with beaten eggs.",
+        "fr": "Mélanger avec les oeufs battus.",
+        "de": "Mit verquirlten Eiern mischen.",
+        "es": "Mezclar con los huevos batidos."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Cook in a pan until set on both sides.",
+        "fr": "Cuire dans une poêle des deux côtés.",
+        "de": "In einer Pfanne beidseitig garen.",
+        "es": "Cocinar en una sartén por ambos lados."
+      }
+    }
+  ],
+  "id": "bb",
+  "image": "https://blitech.github.io/reciepes/images/bb.jpg"
+}

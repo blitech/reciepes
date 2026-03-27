@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Ramen",
+    "fr": "Ramen",
+    "de": "Ramen",
+    "es": "Ramen"
+  },
+  "time": 60,
+  "tags": [
+    "japanese",
+    "soup",
+    "noodles",
+    "comfort"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "ramen noodles",
+        "fr": "nouilles ramen",
+        "de": "Ramennudeln",
+        "es": "fideos ramen"
+      },
+      "quantity": 2,
+      "unit": "packs"
+    },
+    {
+      "name": {
+        "en": "pork belly",
+        "fr": "poitrine de porc",
+        "de": "Schweinebauch",
+        "es": "panceta de cerdo"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "soy sauce",
+        "fr": "sauce soja",
+        "de": "Sojasauce",
+        "es": "salsa de soja"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "soft boiled egg",
+        "fr": "oeuf mollet",
+        "de": "weichgekochtes Ei",
+        "es": "huevo pasado por agua"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "green onions",
+        "fr": "oignons verts",
+        "de": "Frühlingszwiebeln",
+        "es": "cebolletas"
+      },
+      "quantity": 1,
+      "unit": "stalk"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Prepare rich broth with soy sauce.",
+        "fr": "Préparer un bouillon riche avec de la sauce soja.",
+        "de": "Reichhaltige Brühe mit Sojasauce zubereiten.",
+        "es": "Preparar un caldo rico con salsa de soja."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Cook noodles and sear pork.",
+        "fr": "Cuire les nouilles et saisir le porc.",
+        "de": "Nudeln kochen und Schweinefleisch anbraten.",
+        "es": "Cocinar los fideos y sellar el cerdo."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Assemble bowl with toppings.",
+        "fr": "Assembler le bol avec les garnitures.",
+        "de": "Schüssel mit Toppings anrichten.",
+        "es": "Montar el bol con los ingredientes."
+      }
+    }
+  ],
+  "id": "ai",
+  "image": "https://blitech.github.io/reciepes/images/ai.jpg"
+}

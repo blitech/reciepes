@@ -1,0 +1,88 @@
+{
+  "title": {
+    "en": "Bibimbap",
+    "fr": "Bibimbap",
+    "de": "Bibimbap",
+    "es": "Bibimbap"
+  },
+  "time": 45,
+  "tags": [
+    "korean",
+    "rice",
+    "vegetables"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "Rice",
+        "fr": "Riz",
+        "de": "Reis",
+        "es": "Arroz"
+      },
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Spinach",
+        "fr": "Épinards",
+        "de": "Spinat",
+        "es": "Espinacas"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Bean sprouts",
+        "fr": "Pousses de soja",
+        "de": "Sojasprossen",
+        "es": "Brotes de soja"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "Egg",
+        "fr": "Œuf",
+        "de": "Ei",
+        "es": "Huevo"
+      },
+      "quantity": 1,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Sauté various vegetables separately.",
+        "fr": "Sauter divers légumes séparément."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Fry an egg sunny side up.",
+        "fr": "Faire un œuf au plat."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Place rice in a bowl and arrange vegetables on top.",
+        "fr": "Placer le riz dans un bol et disposer les légumes dessus."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Add the egg and spicy gochujang sauce.",
+        "fr": "Ajouter l'œuf et la sauce gochujang épicée."
+      }
+    }
+  ],
+  "id": "y",
+  "image": "https://blitech.github.io/reciepes/images/y.jpg"
+}

@@ -1,0 +1,98 @@
+{
+  "title": {
+    "en": "Churros",
+    "fr": "Churros",
+    "de": "Churros",
+    "es": "Churros"
+  },
+  "time": 25,
+  "tags": [
+    "spanish",
+    "dessert",
+    "fried",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "water",
+        "fr": "eau",
+        "de": "Wasser",
+        "es": "agua"
+      },
+      "quantity": 250,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "butter",
+        "fr": "beurre",
+        "de": "Butter",
+        "es": "mantequilla"
+      },
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "flour",
+        "fr": "farine",
+        "de": "Mehl",
+        "es": "harina"
+      },
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "sugar",
+        "fr": "sucre",
+        "de": "Zucker",
+        "es": "azúcar"
+      },
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "oil",
+        "fr": "huile",
+        "de": "Öl",
+        "es": "aceite"
+      },
+      "quantity": 1,
+      "unit": "liter"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Boil water and butter, stir in flour.",
+        "fr": "Bouillir l'eau et le beurre, incorporer la farine.",
+        "de": "Wasser und Butter aufkochen, Mehl unterrühren.",
+        "es": "Hervir agua y mantequilla, incorporar la harina."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Pipe dough into hot oil.",
+        "fr": "Verser la pâte dans l'huile chaude.",
+        "de": "Teig in heißes Öl spritzen.",
+        "es": "Verter la masa en aceite caliente."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Toss in sugar and cinnamon.",
+        "fr": "Enrober de sucre et de cannelle.",
+        "de": "In Zucker und Zimt wenden.",
+        "es": "Rebozar en azúcar y canela."
+      }
+    }
+  ],
+  "id": "au",
+  "image": "https://blitech.github.io/reciepes/images/au.jpg"
+}
