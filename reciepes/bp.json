@@ -1,0 +1,117 @@
+{
+  "id": "bp",
+  "title": {
+    "en": "Beef Bourguignon",
+    "fr": "Bœuf Bourguignon",
+    "de": "Rinder-Bourguignon",
+    "es": "Ternera a la Borgoña"
+  },
+  "time": 120,
+  "image": "https://blitech.github.io/reciepes/images/bp.jpg",
+  "tags": [
+    "french",
+    "stew",
+    "classic",
+    "beef"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "beef",
+        "fr": "boeuf",
+        "de": "Rindfleisch",
+        "es": "carne de vaca"
+      },
+      "quantity": 1,
+      "unit": "kg"
+    },
+    {
+      "name": {
+        "en": "red wine",
+        "fr": "vin rouge",
+        "de": "Rotwein",
+        "es": "vino tinto"
+      },
+      "quantity": 750,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "bacon",
+        "fr": "bacon",
+        "de": "Speck",
+        "es": "beicon"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "carrot",
+        "fr": "carotte",
+        "de": "Karotte",
+        "es": "zanahoria"
+      },
+      "quantity": 3,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "mushrooms",
+        "fr": "champignons",
+        "de": "Champignons",
+        "es": "champiñones"
+      },
+      "quantity": 250,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Brown beef cubes and bacon.",
+        "fr": "Faire dorer les cubes de boeuf et le lard.",
+        "de": "Rindfleischwürfel und Speck anbraten.",
+        "es": "Dorar los dados de ternera y el beicon."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add onions and carrots, sauté for 5 minutes.",
+        "fr": "Ajouter les oignons et les carottes, faire sauter pendant 5 minutes.",
+        "de": "Zwiebeln und Karotten hinzufügen, 5 Minuten anbraten.",
+        "es": "Añadir las cebollas y las zanahorias, saltear durante 5 minutos."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Pour in red wine and simmer for 1.5 hours.",
+        "fr": "Verser le vin rouge et laisser mijoter pendant 1 heure et demie.",
+        "de": "Rotwein dazugießen und 1,5 Stunden köcheln lassen.",
+        "es": "Verter el vino tinto y cocinar a fuego lento durante 1 hora y media."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Add mushrooms and cook for another 20 minutes.",
+        "fr": "Ajouter les champignons et cuire encore 20 minutes.",
+        "de": "Champignons hinzufügen und weitere 20 Minuten garen.",
+        "es": "Añadir los champiñones y cocinar otros 20 minutos."
+      }
+    }
+  ]
+}

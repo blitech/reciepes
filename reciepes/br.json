@@ -1,0 +1,97 @@
+{
+  "id": "br",
+  "title": {
+    "en": "Crème Brûlée",
+    "fr": "Crème Brûlée",
+    "de": "Crème Brûlée",
+    "es": "Crème Brûlée"
+  },
+  "time": 60,
+  "image": "https://blitech.github.io/reciepes/images/br.jpg",
+  "tags": [
+    "french",
+    "dessert",
+    "classic",
+    "sweet"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "heavy cream",
+        "fr": "crème liquide",
+        "de": "Sahne",
+        "es": "crema de leche"
+      },
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "egg yolk",
+        "fr": "jaune d'oeuf",
+        "de": "Eigelb",
+        "es": "yema de huevo"
+      },
+      "quantity": 5,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "sugar",
+        "fr": "sucre",
+        "de": "Zucker",
+        "es": "azúcar"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "vanilla",
+        "fr": "vanille",
+        "de": "Vanille",
+        "es": "vainilla"
+      },
+      "quantity": 1,
+      "unit": "pod"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Heat cream with vanilla pod.",
+        "fr": "Chauffer la crème avec la gousse de vanille.",
+        "de": "Sahne mit der Vanilleschote erhitzen.",
+        "es": "Calentar la crema con la vaina de vainilla."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Whisk egg yolks and sugar until pale.",
+        "fr": "Fouetter les jaunes d'oeufs et le sucre jusqu'à ce qu'ils blanchissent.",
+        "de": "Eigelbe und Zucker schaumig schlagen.",
+        "es": "Batir las yemas de huevo y el azúcar hasta que blanqueen."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Slowly add cream to eggs and bake in water bath.",
+        "fr": "Ajouter lentement la crème aux oeufs et cuire au bain-marie.",
+        "de": "Sahne langsam zu den Eiern geben und im Wasserbad backen.",
+        "es": "Añadir lentamente la crema a los huevos y hornear al baño maría."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Caramelize sugar on top before serving.",
+        "fr": "Caraméliser le sucre sur le dessus avant de servir.",
+        "de": "Vor dem Servieren Zucker darauf karamellisieren.",
+        "es": "Caramelizar el azúcar encima antes de servir."
+      }
+    }
+  ]
+}

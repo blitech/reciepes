@@ -1,0 +1,96 @@
+{
+  "id": "bq",
+  "title": {
+    "en": "Nigiri Sushi",
+    "fr": "Sushi Nigiri",
+    "de": "Nigiri Sushi",
+    "es": "Sushi Nigiri"
+  },
+  "time": 45,
+  "image": "https://blitech.github.io/reciepes/images/bq.jpg",
+  "tags": [
+    "japanese",
+    "seafood",
+    "fresh"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "sushi rice",
+        "fr": "riz à sushi",
+        "de": "Sushi-Reis",
+        "es": "arroz para sushi"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "salmon",
+        "fr": "saumon",
+        "de": "Lachs",
+        "es": "salmón"
+      },
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "wasabi",
+        "fr": "wasabi",
+        "de": "Wasabi",
+        "es": "wasabi"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "soy sauce",
+        "fr": "sauce soja",
+        "de": "Sojasauce",
+        "es": "salsa de soja"
+      },
+      "quantity": 1,
+      "unit": "cup"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Prepare sushi rice and let it cool.",
+        "fr": "Préparer le riz à sushi et le laisser refroidir.",
+        "de": "Sushi-Reis zubereiten und abkühlen lassen.",
+        "es": "Preparar el arroz para sushi y dejarlo enfriar."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Slice fresh salmon into thin rectangles.",
+        "fr": "Couper le saumon frais en fines tranches rectangulaires.",
+        "de": "Frischen Lachs in dünne Rechtecke schneiden.",
+        "es": "Cortar el salmón fresco en rectángulos finos."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Form small ovals of rice with your hands.",
+        "fr": "Former de petits ovales de riz avec les mains.",
+        "de": "Mit den Händen kleine Reisovale formen.",
+        "es": "Formar pequeños óvalos de arroz con las manos."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Apply a dab of wasabi and top with salmon.",
+        "fr": "Appliquer une noisette de wasabi et garnir de saumon.",
+        "de": "Einen Klecks Wasabi darauf geben und mit Lachs belegen.",
+        "es": "Aplicar un poco de wasabi y cubrir con el salmón."
+      }
+    }
+  ]
+}

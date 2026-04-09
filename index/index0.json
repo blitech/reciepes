@@ -1112,5 +1112,55 @@
       "milk",
       "egg"
     ]
+  },
+  {
+    "id": "bp",
+    "t": "Beef Bourguignon",
+    "img": "https://blitech.github.io/reciepes/images/bp.jpg",
+    "m": 120,
+    "tg": [
+      "french",
+      "stew",
+      "classic",
+      "beef"
+    ],
+    "ig": [
+      "beef",
+      "red wine",
+      "bacon"
+    ]
+  },
+  {
+    "id": "bq",
+    "t": "Nigiri Sushi",
+    "img": "https://blitech.github.io/reciepes/images/bq.jpg",
+    "m": 45,
+    "tg": [
+      "japanese",
+      "seafood",
+      "fresh"
+    ],
+    "ig": [
+      "sushi rice",
+      "salmon",
+      "wasabi"
+    ]
+  },
+  {
+    "id": "br",
+    "t": "Crème Brûlée",
+    "img": "https://blitech.github.io/reciepes/images/br.jpg",
+    "m": 60,
+    "tg": [
+      "french",
+      "dessert",
+      "classic",
+      "sweet"
+    ],
+    "ig": [
+      "heavy cream",
+      "egg yolk",
+      "sugar"
+    ]
   }
 ]
