@@ -1,0 +1,127 @@
+{
+  "id": "cp",
+  "title": {
+    "en": "Moussaka",
+    "fr": "Moussaka",
+    "de": "Moussaka",
+    "es": "Moussaka"
+  },
+  "time": 90,
+  "image": "https://blitech.github.io/reciepes/images/cp.jpg",
+  "tags": [
+    "greek",
+    "mediterranean",
+    "eggplant",
+    "casserole"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "eggplant",
+        "fr": "aubergine",
+        "de": "Aubergine",
+        "es": "berenjena"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "ground lamb",
+        "fr": "agneau haché",
+        "de": "Lammhackfleisch",
+        "es": "cordero molido"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "potatoes",
+        "fr": "pommes de terre",
+        "de": "Kartoffeln",
+        "es": "papas"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "garlic",
+        "fr": "ail",
+        "de": "Knoblauch",
+        "es": "ajo"
+      },
+      "quantity": 2,
+      "unit": "cloves"
+    },
+    {
+      "name": {
+        "en": "tomato paste",
+        "fr": "concentré de tomate",
+        "de": "Tomatenmark",
+        "es": "pasta de tomate"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "bechamel sauce",
+        "fr": "béchamel",
+        "de": "Béchamelsauce",
+        "es": "salsa bechamel"
+      },
+      "quantity": 500,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Slice eggplants and potatoes. Lightly fry or bake them until softened.",
+        "fr": "Trancher les aubergines et les pommes de terre. Les faire frire ou les cuire au four jusqu'à ce qu'elles soient tendres.",
+        "de": "Auberginen und Kartoffeln in Scheiben schneiden. Leicht anbraten oder backen, bis sie weich sind.",
+        "es": "Cortar las berenjenas y las papas en rodajas. Freír ligeramente o hornear hasta que se ablanden."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Brown the ground lamb with chopped onion and garlic. Stir in tomato paste and simmer.",
+        "fr": "Faire dorer l'agneau haché avec l'oignon et l'ail. Ajouter le concentré de tomate et laisser mijoter.",
+        "de": "Lammhackfleisch mit gehackter Zwiebel und Knoblauch anbräunen. Tomatenmark einrühren und köcheln lassen.",
+        "es": "Dorar el cordero molido con la cebolla y el ajo picados. Añadir la pasta de tomate y cocinar a fuego lento."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Layer the potatoes, then eggplants, then the meat sauce in a baking dish.",
+        "fr": "Disposer des couches de pommes de terre, puis d'aubergines, puis de sauce à la viande dans un plat à four.",
+        "de": "Kartoffeln, dann Auberginen, dann die Fleischsauce in eine Auflaufform schichten.",
+        "es": "Colocar capas de papas, luego berenjenas y luego la salsa de carne en una fuente para horno."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Pour bechamel sauce over the top and bake at 180°C for 45 minutes.",
+        "fr": "Verser la béchamel sur le dessus et cuire au four à 180°C pendant 45 minutes.",
+        "de": "Béchamelsauce darüber gießen und bei 180°C 45 Minuten backen.",
+        "es": "Verter la salsa bechamel por encima y hornear a 180°C durante 45 minutos."
+      }
+    }
+  ]
+}

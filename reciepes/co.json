@@ -1,0 +1,127 @@
+{
+  "id": "co",
+  "title": {
+    "en": "Poke Bowl",
+    "fr": "Poke Bowl",
+    "de": "Poke Bowl",
+    "es": "Poke Bowl"
+  },
+  "time": 20,
+  "image": "https://blitech.github.io/reciepes/images/co.jpg",
+  "tags": [
+    "hawaiian",
+    "seafood",
+    "healthy",
+    "raw"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "raw salmon",
+        "fr": "saumon cru",
+        "de": "roher Lachs",
+        "es": "salmón crudo"
+      },
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "sushi rice",
+        "fr": "riz à sushi",
+        "de": "Sushireis",
+        "es": "arroz para sushi"
+      },
+      "quantity": 2,
+      "unit": "cups"
+    },
+    {
+      "name": {
+        "en": "avocado",
+        "fr": "avocat",
+        "de": "Avocado",
+        "es": "aguacate"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "cucumber",
+        "fr": "concombre",
+        "de": "Gurke",
+        "es": "pepino"
+      },
+      "quantity": 0.5,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "edamame",
+        "fr": "edamame",
+        "de": "Edamame",
+        "es": "edamame"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "soy sauce",
+        "fr": "sauce soja",
+        "de": "Sojasauce",
+        "es": "salsa de soja"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "sesame seeds",
+        "fr": "graines de sésame",
+        "de": "Sesamsamen",
+        "es": "semillas de sésamo"
+      },
+      "quantity": 1,
+      "unit": "tsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Cook the sushi rice and let it cool.",
+        "fr": "Cuire le riz à sushi et le laisser refroidir.",
+        "de": "Sushireis kochen und abkühlen lassen.",
+        "es": "Cocinar el arroz para sushi y dejar enfriar."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Dice the raw salmon, avocado, and cucumber into bite-sized pieces.",
+        "fr": "Couper le saumon cru, l'avocat et le concombre en morceaux.",
+        "de": "Rohen Lachs, Avocado und Gurke in mundgerechte Stücke würfeln.",
+        "es": "Cortar el salmón crudo, el aguacate y el pepino en trozos."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Marinate the salmon in soy sauce for 10 minutes.",
+        "fr": "Faire mariner le saumon dans de la sauce soja pendant 10 minutes.",
+        "de": "Den Lachs 10 Minuten in Sojasauce marinieren.",
+        "es": "Marinar el salmón en salsa de soja durante 10 minutos."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Assemble the bowls with rice at the bottom, topped with salmon, vegetables, and edamame. Sprinkle with sesame seeds.",
+        "fr": "Composer les bols avec le riz au fond, surmonté du saumon, des légumes et de l'edamame. Saupoudrer de graines de sésame.",
+        "de": "Die Bowls anrichten: Reis unten, darauf Lachs, Gemüse und Edamame. Mit Sesamsamen bestreuen.",
+        "es": "Montar los boles con el arroz en la base, cubierto con el salmón, las verduras y el edamame. Espolvorear con semillas de sésamo."
+      }
+    }
+  ]
+}

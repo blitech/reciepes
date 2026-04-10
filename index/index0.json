@@ -1535,5 +1535,69 @@
       "coffee",
       "cocoa powder"
     ]
+  },
+  {
+    "id": "cn",
+    "t": "Shakshuka",
+    "img": "https://blitech.github.io/reciepes/images/cn.jpg",
+    "m": 25,
+    "tg": [
+      "middle eastern",
+      "breakfast",
+      "eggs",
+      "spicy"
+    ],
+    "ig": [
+      "eggs",
+      "tomatoes",
+      "red bell pepper",
+      "onion",
+      "garlic",
+      "cumin",
+      "paprika",
+      "chili powder"
+    ]
+  },
+  {
+    "id": "co",
+    "t": "Poke Bowl",
+    "img": "https://blitech.github.io/reciepes/images/co.jpg",
+    "m": 20,
+    "tg": [
+      "hawaiian",
+      "seafood",
+      "healthy",
+      "raw"
+    ],
+    "ig": [
+      "raw salmon",
+      "sushi rice",
+      "avocado",
+      "cucumber",
+      "edamame",
+      "soy sauce",
+      "sesame seeds"
+    ]
+  },
+  {
+    "id": "cp",
+    "t": "Moussaka",
+    "img": "https://blitech.github.io/reciepes/images/cp.jpg",
+    "m": 90,
+    "tg": [
+      "greek",
+      "mediterranean",
+      "eggplant",
+      "casserole"
+    ],
+    "ig": [
+      "eggplant",
+      "ground lamb",
+      "potatoes",
+      "onion",
+      "garlic",
+      "tomato paste",
+      "bechamel sauce"
+    ]
   }
 ]
