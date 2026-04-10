@@ -1,0 +1,48 @@
+{
+    "id": "fd",
+    "name": "Fondue",
+    "ingredients": {
+        "en": [
+            "Cheese",
+            "Wine",
+            "Garlic",
+            "Bread"
+        ],
+        "fr": [
+            "Fromage",
+            "Vin",
+            "Ail",
+            "Pain"
+        ],
+        "de": [
+            "Käse",
+            "Wein",
+            "Knoblauch",
+            "Brot"
+        ],
+        "es": [
+            "Queso",
+            "Vino",
+            "Ajo",
+            "Pan"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Melt cheese/wine",
+            "Dip bread"
+        ],
+        "fr": [
+            "Fondre le fromage/vin",
+            "Tremper le pain"
+        ],
+        "de": [
+            "Käse/Wein schmelzen",
+            "Brot eintunken"
+        ],
+        "es": [
+            "Derretir queso/vino",
+            "Moja pan"
+        ]
+    }
+}

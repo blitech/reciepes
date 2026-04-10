@@ -1,0 +1,52 @@
+{
+    "id": "eo",
+    "name": "Eel Stew",
+    "ingredients": {
+        "en": [
+            "Eel",
+            "Wine",
+            "Garlic",
+            "Parsley"
+        ],
+        "fr": [
+            "Anguille",
+            "Vin",
+            "Ail",
+            "Persil"
+        ],
+        "de": [
+            "Aal",
+            "Wein",
+            "Knoblauch",
+            "Petersilie"
+        ],
+        "es": [
+            "Anguila",
+            "Vino",
+            "Ajo",
+            "Perejil"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Clean eel",
+            "Simmer with ingredients",
+            "Serve hot"
+        ],
+        "fr": [
+            "Nettoyer l'anguille",
+            "Mijoter avec les ingrédients",
+            "Servir chaud"
+        ],
+        "de": [
+            "Aal säubern",
+            "Mit Zutaten köcheln",
+            "Heiß servieren"
+        ],
+        "es": [
+            "Limpiar la anguila",
+            "Cocinar a fuego lento con ingredientes",
+            "Servir caliente"
+        ]
+    }
+}

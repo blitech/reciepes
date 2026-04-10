@@ -1,0 +1,16 @@
+{
+    "id": "gc",
+    "name": "Grilled Cheese",
+    "ingredients": [
+        "bread",
+        "cheese",
+        "butter"
+    ],
+    "instructions": "Butter bread, grill with cheese.",
+    "translations": {
+        "en": "Grilled Cheese",
+        "fr": "Sandwich au fromage grillé",
+        "de": "Gegrilltes Käsebrot",
+        "es": "Sándwich de queso a la plancha"
+    }
+}

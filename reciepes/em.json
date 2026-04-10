@@ -1,0 +1,52 @@
+{
+    "id": "em",
+    "name": "Empanadas",
+    "ingredients": {
+        "en": [
+            "Dough",
+            "Ground meat",
+            "Onion",
+            "Spices"
+        ],
+        "fr": [
+            "Pâte",
+            "Viande hachée",
+            "Oignon",
+            "Épices"
+        ],
+        "de": [
+            "Teig",
+            "Hackfleisch",
+            "Zwiebel",
+            "Gewürze"
+        ],
+        "es": [
+            "Masa",
+            "Carne molida",
+            "Cebolla",
+            "Especias"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Prepare filling",
+            "Fill dough",
+            "Fry or bake"
+        ],
+        "fr": [
+            "Préparer la farce",
+            "Remplir la pâte",
+            "Frire ou cuire"
+        ],
+        "de": [
+            "Füllung vorbereiten",
+            "Teig füllen",
+            "Frittieren oder backen"
+        ],
+        "es": [
+            "Preparar el relleno",
+            "Rellenar la masa",
+            "Freír u hornear"
+        ]
+    }
+}

@@ -1,0 +1,57 @@
+{
+    "id": "dm",
+    "title": {
+        "en": "Vegetarian Chili",
+        "fr": "Chili végétarien",
+        "de": "Vegetarisches Chili",
+        "es": "Chili vegetariano"
+    },
+    "time": 45,
+    "image": "https://blitech.github.io/reciepes/images/dm.jpg",
+    "tags": [
+        "vegetarian",
+        "healthy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "beans",
+                "fr": "haricots",
+                "de": "Bohnen",
+                "es": "frijoles"
+            },
+            "quantity": 400,
+            "unit": "g"
+        },
+        {
+            "name": {
+                "en": "tomatoes",
+                "fr": "tomates",
+                "de": "Tomaten",
+                "es": "tomates"
+            },
+            "quantity": 2,
+            "unit": "cups"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Sauté vegetables.",
+                "fr": "Faire revenir les légumes.",
+                "de": "Gemüse anbraten.",
+                "es": "Sofreír las verduras."
+            }
+        },
+        {
+            "order": 2,
+            "text": {
+                "en": "Simmer with beans.",
+                "fr": "Laisser mijoter avec les haricots.",
+                "de": "Mit Bohnen köcheln.",
+                "es": "Cocinar con frijoles."
+            }
+        }
+    ]
+}

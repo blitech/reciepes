@@ -1,0 +1,16 @@
+{
+    "id": "fy",
+    "name": "Banana Smoothie",
+    "ingredients": [
+        "banana",
+        "yogurt",
+        "milk"
+    ],
+    "instructions": "Blend all until smooth.",
+    "translations": {
+        "en": "Banana Smoothie",
+        "fr": "Smoothie à la banane",
+        "de": "Bananen-Smoothie",
+        "es": "Batido de plátano"
+    }
+}

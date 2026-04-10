@@ -1,0 +1,38 @@
+{
+    "id": "dh",
+    "title": {
+        "en": "Beef Curry",
+        "fr": "Curry de bœuf",
+        "de": "Rindfleischcurry",
+        "es": "Curry de ternera"
+    },
+    "time": 60,
+    "image": "https://blitech.github.io/reciepes/images/dh.jpg",
+    "tags": [
+        "beef",
+        "spicy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "beef",
+                "fr": "bœuf",
+                "de": "Rindfleisch",
+                "es": "ternera"
+            },
+            "quantity": 400,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Cook with spices.",
+                "fr": "Cuire avec des épices.",
+                "de": "Mit Gewürzen kochen.",
+                "es": "Cocinar con especias."
+            }
+        }
+    ]
+}

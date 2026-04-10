@@ -1,0 +1,52 @@
+{
+    "id": "fj",
+    "name": "Fajita Bowl",
+    "ingredients": {
+        "en": [
+            "Rice",
+            "Steak",
+            "Peppers",
+            "Salsa"
+        ],
+        "fr": [
+            "Riz",
+            "Bœuf",
+            "Poivrons",
+            "Salsa"
+        ],
+        "de": [
+            "Reis",
+            "Steak",
+            "Paprika",
+            "Salsa"
+        ],
+        "es": [
+            "Arroz",
+            "Carne",
+            "Pimientos",
+            "Salsa"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Cook rice",
+            "Sear steak/peppers",
+            "Combine in bowl"
+        ],
+        "fr": [
+            "Cuire le riz",
+            "Saisir bœuf/poivrons",
+            "Combiner dans un bol"
+        ],
+        "de": [
+            "Reis kochen",
+            "Steak/Paprika anbraten",
+            "In Schüssel kombinieren"
+        ],
+        "es": [
+            "Cocinar arroz",
+            "Sellar carne/pimientos",
+            "Combinar en cuenco"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "eh",
+    "title": {
+        "en": "Beef Curry with Rice",
+        "fr": "Curry de bœuf au riz",
+        "de": "Rindfleischcurry mit Reis",
+        "es": "Curry de ternera con arroz"
+    },
+    "time": 60,
+    "image": "https://blitech.github.io/reciepes/images/eh.jpg",
+    "tags": [
+        "beef",
+        "spicy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "beef",
+                "fr": "bœuf",
+                "de": "Rindfleisch",
+                "es": "ternera"
+            },
+            "quantity": 300,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Serve curry over rice.",
+                "fr": "Servir le curry avec du riz.",
+                "de": "Curry auf Reis servieren.",
+                "es": "Servir el curry con arroz."
+            }
+        }
+    ]
+}

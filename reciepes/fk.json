@@ -1,0 +1,18 @@
+{
+    "id": "fk",
+    "name": "Spiced Lentil Soup",
+    "ingredients": [
+        "lentils",
+        "carrot",
+        "onion",
+        "cumin",
+        "turmeric"
+    ],
+    "instructions": "Sauté vegetables, add lentils and spices, simmer until soft.",
+    "translations": {
+        "en": "Spiced Lentil Soup",
+        "fr": "Soupe aux lentilles épicée",
+        "de": "Würzige Linsensuppe",
+        "es": "Sopa de lentejas especiada"
+    }
+}

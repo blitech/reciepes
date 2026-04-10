@@ -1,0 +1,38 @@
+{
+    "id": "cr",
+    "title": {
+        "en": "Beef Tacos",
+        "fr": "Tacos au bœuf",
+        "de": "Rindertacos",
+        "es": "Tacos de ternera"
+    },
+    "time": 20,
+    "image": "https://blitech.github.io/reciepes/images/cr.jpg",
+    "tags": [
+        "mexican",
+        "beef"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "beef",
+                "fr": "bœuf",
+                "de": "Rind",
+                "es": "ternera"
+            },
+            "quantity": 250,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Brown beef.",
+                "fr": "Faire dorer le bœuf.",
+                "de": "Rindfleisch anbraten.",
+                "es": "Dorar la carne."
+            }
+        }
+    ]
+}

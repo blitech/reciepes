@@ -1,0 +1,38 @@
+{
+    "id": "dy",
+    "title": {
+        "en": "Grilled Asparagus Spears",
+        "fr": "Pointes d'asperges grillées",
+        "de": "Gegrillte Spargelspitzen",
+        "es": "Espárragos a la parrilla"
+    },
+    "time": 15,
+    "image": "https://blitech.github.io/reciepes/images/dy.jpg",
+    "tags": [
+        "side-dish",
+        "vegan"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "asparagus",
+                "fr": "asperges",
+                "de": "Spargel",
+                "es": "espárragos"
+            },
+            "quantity": 200,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Grill asparagus.",
+                "fr": "Griller les asperges.",
+                "de": "Spargel grillen.",
+                "es": "Asar los espárragos."
+            }
+        }
+    ]
+}

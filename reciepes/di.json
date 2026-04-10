@@ -1,0 +1,38 @@
+{
+    "id": "di",
+    "title": {
+        "en": "Fruit Pie",
+        "fr": "Tarte aux fruits",
+        "de": "Obstkuchen",
+        "es": "Tarta de frutas"
+    },
+    "time": 50,
+    "image": "https://blitech.github.io/reciepes/images/di.jpg",
+    "tags": [
+        "dessert",
+        "sweet"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "fruit",
+                "fr": "fruit",
+                "de": "Obst",
+                "es": "fruta"
+            },
+            "quantity": 300,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Bake pastry.",
+                "fr": "Cuire la pâte.",
+                "de": "Teig backen.",
+                "es": "Hornear la masa."
+            }
+        }
+    ]
+}

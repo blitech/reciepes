@@ -1,0 +1,52 @@
+{
+    "id": "ew",
+    "name": "Ewe Cheese Tart",
+    "ingredients": {
+        "en": [
+            "Sheep cheese",
+            "Pastry",
+            "Eggs",
+            "Cream"
+        ],
+        "fr": [
+            "Fromage de brebis",
+            "Pâte",
+            "Œufs",
+            "Crème"
+        ],
+        "de": [
+            "Schafskäse",
+            "Teig",
+            "Eier",
+            "Sahne"
+        ],
+        "es": [
+            "Queso de oveja",
+            "Masa",
+            "Huevos",
+            "Crema"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Prepare pastry",
+            "Mix cheese",
+            "Bake until set"
+        ],
+        "fr": [
+            "Préparer la pâte",
+            "Mélanger le fromage",
+            "Cuire jusqu'à consistance ferme"
+        ],
+        "de": [
+            "Teig vorbereiten",
+            "Käse mischen",
+            "Backen bis fest"
+        ],
+        "es": [
+            "Preparar la masa",
+            "Mezclar queso",
+            "Hornear hasta que cuaje"
+        ]
+    }
+}

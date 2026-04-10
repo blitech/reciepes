@@ -1,0 +1,38 @@
+{
+    "id": "dx",
+    "title": {
+        "en": "Greek Salad",
+        "fr": "Salade grecque",
+        "de": "Griechischer Salat",
+        "es": "Ensalada griega"
+    },
+    "time": 10,
+    "image": "https://blitech.github.io/reciepes/images/dx.jpg",
+    "tags": [
+        "vegetarian",
+        "salad"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "feta",
+                "fr": "feta",
+                "de": "Feta",
+                "es": "feta"
+            },
+            "quantity": 100,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Mix ingredients.",
+                "fr": "Mélanger les ingrédients.",
+                "de": "Zutaten vermengen.",
+                "es": "Mezclar los ingredientes."
+            }
+        }
+    ]
+}

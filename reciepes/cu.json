@@ -1,0 +1,38 @@
+{
+    "id": "cu",
+    "title": {
+        "en": "Lentil Stew",
+        "fr": "Ragoût de lentilles",
+        "de": "Linseneintopf",
+        "es": "Guiso de lentejas"
+    },
+    "time": 50,
+    "image": "https://blitech.github.io/reciepes/images/cu.jpg",
+    "tags": [
+        "stew",
+        "vegan"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "lentils",
+                "fr": "lentilles",
+                "de": "Linsen",
+                "es": "lentejas"
+            },
+            "quantity": 200,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Boil lentils.",
+                "fr": "Bouillir les lentilles.",
+                "de": "Linsen kochen.",
+                "es": "Hervir las lentejas."
+            }
+        }
+    ]
+}

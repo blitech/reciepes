@@ -1,0 +1,38 @@
+{
+    "id": "cv",
+    "title": {
+        "en": "Vanilla Cookies",
+        "fr": "Biscuits à la vanille",
+        "de": "Vanillekekse",
+        "es": "Galletas de vainilla"
+    },
+    "time": 30,
+    "image": "https://blitech.github.io/reciepes/images/cv.jpg",
+    "tags": [
+        "dessert",
+        "sweet"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "flour",
+                "fr": "farine",
+                "de": "Mehl",
+                "es": "harina"
+            },
+            "quantity": 250,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Bake cookies.",
+                "fr": "Cuire les biscuits.",
+                "de": "Kekse backen.",
+                "es": "Hornear las galletas."
+            }
+        }
+    ]
+}

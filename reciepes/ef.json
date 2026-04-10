@@ -1,0 +1,38 @@
+{
+    "id": "ef",
+    "title": {
+        "en": "Grilled Chicken Salad",
+        "fr": "Salade de poulet grillé",
+        "de": "Gegrillter Hähnchensalat",
+        "es": "Ensalada de pollo a la parrilla"
+    },
+    "time": 20,
+    "image": "https://blitech.github.io/reciepes/images/ef.jpg",
+    "tags": [
+        "healthy",
+        "chicken"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "chicken breast",
+                "fr": "blanc de poulet",
+                "de": "Hähnchenbrust",
+                "es": "pechuga de pollo"
+            },
+            "quantity": 150,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Grill chicken and serve.",
+                "fr": "Griller le poulet et servir.",
+                "de": "Hähnchen grillen und servieren.",
+                "es": "Asar pollo y servir."
+            }
+        }
+    ]
+}

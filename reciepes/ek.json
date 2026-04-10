@@ -1,0 +1,38 @@
+{
+    "id": "ek",
+    "title": {
+        "en": "Beef Stew with Vegetables",
+        "fr": "Ragoût de bœuf aux légumes",
+        "de": "Rindereintopf mit Gemüse",
+        "es": "Guiso de ternera con verduras"
+    },
+    "time": 120,
+    "image": "https://blitech.github.io/reciepes/images/ek.jpg",
+    "tags": [
+        "stew",
+        "meat"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "beef",
+                "fr": "bœuf",
+                "de": "Rindfleisch",
+                "es": "ternera"
+            },
+            "quantity": 500,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Slow cook with vegetables.",
+                "fr": "Cuisson lente avec des légumes.",
+                "de": "Langsam mit Gemüse garen.",
+                "es": "Cocinar lentamente con verduras."
+            }
+        }
+    ]
+}

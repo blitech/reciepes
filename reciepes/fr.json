@@ -1,0 +1,17 @@
+{
+    "id": "fr",
+    "name": "Beef Tacos",
+    "ingredients": [
+        "ground beef",
+        "taco shells",
+        "lettuce",
+        "salsa"
+    ],
+    "instructions": "Cook beef, assemble in shells.",
+    "translations": {
+        "en": "Beef Tacos",
+        "fr": "Tacos au bœuf",
+        "de": "Rindfleisch-Tacos",
+        "es": "Tacos de ternera"
+    }
+}

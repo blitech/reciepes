@@ -1,0 +1,52 @@
+{
+    "id": "eu",
+    "name": "Eucheuma Salad",
+    "ingredients": {
+        "en": [
+            "Seaweed",
+            "Vinegar",
+            "Chili",
+            "Salt"
+        ],
+        "fr": [
+            "Algues",
+            "Vinaigre",
+            "Piment",
+            "Sel"
+        ],
+        "de": [
+            "Seetang",
+            "Essig",
+            "Chili",
+            "Salz"
+        ],
+        "es": [
+            "Algas",
+            "Vinagre",
+            "Chile",
+            "Sal"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Wash seaweed",
+            "Mix with dressing",
+            "Serve chilled"
+        ],
+        "fr": [
+            "Laver les algues",
+            "Mélanger avec la vinaigrette",
+            "Servir frais"
+        ],
+        "de": [
+            "Seetang waschen",
+            "Mit Dressing mischen",
+            "Kühl servieren"
+        ],
+        "es": [
+            "Lavar las algas",
+            "Mezclar con el aliño",
+            "Servir frío"
+        ]
+    }
+}

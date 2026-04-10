@@ -1,0 +1,38 @@
+{
+    "id": "dw",
+    "title": {
+        "en": "Fruit Skewers",
+        "fr": "Brochettes de fruits",
+        "de": "Obstspieße",
+        "es": "Brochetas de frutas"
+    },
+    "time": 10,
+    "image": "https://blitech.github.io/reciepes/images/dw.jpg",
+    "tags": [
+        "fruit",
+        "snack"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "assorted fruit",
+                "fr": "fruits assortis",
+                "de": "Obstsorten",
+                "es": "frutas variadas"
+            },
+            "quantity": 300,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Skewer fruit.",
+                "fr": "Enfiler les fruits.",
+                "de": "Obst aufspießen.",
+                "es": "Insertar frutas."
+            }
+        }
+    ]
+}

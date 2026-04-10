@@ -1,0 +1,52 @@
+{
+    "id": "fi",
+    "name": "Fried Rice",
+    "ingredients": {
+        "en": [
+            "Rice",
+            "Egg",
+            "Vegetables",
+            "Soy sauce"
+        ],
+        "fr": [
+            "Riz",
+            "Œuf",
+            "Légumes",
+            "Sauce soja"
+        ],
+        "de": [
+            "Reis",
+            "Ei",
+            "Gemüse",
+            "Sojasauce"
+        ],
+        "es": [
+            "Arroz",
+            "Huevo",
+            "Verduras",
+            "Salsa de soja"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Stir fry ingredients",
+            "Add rice",
+            "Add sauce"
+        ],
+        "fr": [
+            "Sauter les ingrédients",
+            "Ajouter le riz",
+            "Ajouter la sauce"
+        ],
+        "de": [
+            "Zutaten anbraten",
+            "Reis hinzufügen",
+            "Soße hinzufügen"
+        ],
+        "es": [
+            "Saltear ingredientes",
+            "Añadir arroz",
+            "Añadir salsa"
+        ]
+    }
+}

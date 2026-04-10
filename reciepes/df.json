@@ -1,0 +1,38 @@
+{
+    "id": "df",
+    "title": {
+        "en": "Grilled Chicken",
+        "fr": "Poulet grillé",
+        "de": "Gegrilltes Hähnchen",
+        "es": "Pollo a la parrilla"
+    },
+    "time": 20,
+    "image": "https://blitech.github.io/reciepes/images/df.jpg",
+    "tags": [
+        "chicken",
+        "healthy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "chicken breast",
+                "fr": "blanc de poulet",
+                "de": "Hähnchenbrust",
+                "es": "pechuga de pollo"
+            },
+            "quantity": 200,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Grill chicken.",
+                "fr": "Griller le poulet.",
+                "de": "Hähnchen grillen.",
+                "es": "Asar el pollo."
+            }
+        }
+    ]
+}

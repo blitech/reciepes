@@ -1,0 +1,38 @@
+{
+    "id": "ea",
+    "title": {
+        "en": "Berry Smoothie Bowl",
+        "fr": "Bol de smoothie aux baies",
+        "de": "Beeren-Smoothie-Bowl",
+        "es": "Bol de batido de bayas"
+    },
+    "time": 5,
+    "image": "https://blitech.github.io/reciepes/images/ea.jpg",
+    "tags": [
+        "healthy",
+        "breakfast"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "berries",
+                "fr": "baies",
+                "de": "Beeren",
+                "es": "bayas"
+            },
+            "quantity": 150,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Blend and serve.",
+                "fr": "Mixer et servir.",
+                "de": "Mixen und servieren.",
+                "es": "Batir y servir."
+            }
+        }
+    ]
+}

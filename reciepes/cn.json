@@ -1,0 +1,58 @@
+{
+    "id": "cn",
+    "title": {
+        "en": "Spicy Garlic Shrimp",
+        "fr": "Crevettes à l'ail épicées",
+        "de": "Würzige Knoblauch-Garnelen",
+        "es": "Gambas al ajillo picantes"
+    },
+    "time": 15,
+    "image": "https://blitech.github.io/reciepes/images/cn.jpg",
+    "tags": [
+        "seafood",
+        "spicy",
+        "quick"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "shrimp",
+                "fr": "crevettes",
+                "de": "Garnelen",
+                "es": "gambas"
+            },
+            "quantity": 300,
+            "unit": "g"
+        },
+        {
+            "name": {
+                "en": "garlic",
+                "fr": "ail",
+                "de": "Knoblauch",
+                "es": "ajo"
+            },
+            "quantity": 4,
+            "unit": "cloves"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Sauté garlic.",
+                "fr": "Faire revenir l'ail.",
+                "de": "Knoblauch anbraten.",
+                "es": "Sofreír el ajo."
+            }
+        },
+        {
+            "order": 2,
+            "text": {
+                "en": "Cook shrimp.",
+                "fr": "Cuire les crevettes.",
+                "de": "Garnelen garen.",
+                "es": "Cocinar las gambas."
+            }
+        }
+    ]
+}

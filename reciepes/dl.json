@@ -1,0 +1,38 @@
+{
+    "id": "dl",
+    "title": {
+        "en": "Chocolate Mousse",
+        "fr": "Mousse au chocolat",
+        "de": "Schokoladenmousse",
+        "es": "Mousse de chocolate"
+    },
+    "time": 20,
+    "image": "https://blitech.github.io/reciepes/images/dl.jpg",
+    "tags": [
+        "dessert",
+        "sweet"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "chocolate",
+                "fr": "chocolat",
+                "de": "Schokolade",
+                "es": "chocolate"
+            },
+            "quantity": 200,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Whip and chill.",
+                "fr": "Fouetter et refroidir.",
+                "de": "Schlagen und kühlen.",
+                "es": "Batir y enfriar."
+            }
+        }
+    ]
+}

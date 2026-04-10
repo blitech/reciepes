@@ -1,0 +1,17 @@
+{
+    "id": "gb",
+    "name": "Pasta Carbonara",
+    "ingredients": [
+        "spaghetti",
+        "eggs",
+        "bacon",
+        "parmesan"
+    ],
+    "instructions": "Cook pasta, mix with eggs and bacon.",
+    "translations": {
+        "en": "Pasta Carbonara",
+        "fr": "Pâtes à la carbonara",
+        "de": "Pasta Carbonara",
+        "es": "Pasta carbonara"
+    }
+}

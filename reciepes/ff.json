@@ -1,0 +1,48 @@
+{
+    "id": "ff",
+    "name": "French Fries",
+    "ingredients": {
+        "en": [
+            "Potato",
+            "Oil",
+            "Salt"
+        ],
+        "fr": [
+            "Pomme de terre",
+            "Huile",
+            "Sel"
+        ],
+        "de": [
+            "Kartoffel",
+            "Öl",
+            "Salz"
+        ],
+        "es": [
+            "Patata",
+            "Aceite",
+            "Sal"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Cut potato",
+            "Fry",
+            "Season"
+        ],
+        "fr": [
+            "Couper la pomme de terre",
+            "Frire",
+            "Assaisonner"
+        ],
+        "de": [
+            "Kartoffel schneiden",
+            "Frittieren",
+            "Würzen"
+        ],
+        "es": [
+            "Cortar patata",
+            "Freír",
+            "Sazonar"
+        ]
+    }
+}

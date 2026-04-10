@@ -1,0 +1,52 @@
+{
+    "id": "eq",
+    "name": "Quinoa Salad",
+    "ingredients": {
+        "en": [
+            "Quinoa",
+            "Cucumber",
+            "Tomato",
+            "Lemon"
+        ],
+        "fr": [
+            "Quinoa",
+            "Concombre",
+            "Tomate",
+            "Citron"
+        ],
+        "de": [
+            "Quinoa",
+            "Gurke",
+            "Tomate",
+            "Zitrone"
+        ],
+        "es": [
+            "Quinoa",
+            "Pepino",
+            "Tomate",
+            "Limón"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Cook quinoa",
+            "Chop vegetables",
+            "Combine"
+        ],
+        "fr": [
+            "Cuire le quinoa",
+            "Hacher les légumes",
+            "Mélanger"
+        ],
+        "de": [
+            "Quinoa kochen",
+            "Gemüse hacken",
+            "Kombinieren"
+        ],
+        "es": [
+            "Cocinar la quinoa",
+            "Picar las verduras",
+            "Combinar"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "dz",
+    "title": {
+        "en": "Mashed Sweet Potatoes",
+        "fr": "Purée de patates douces",
+        "de": "Süßkartoffelstampf",
+        "es": "Puré de batatas"
+    },
+    "time": 25,
+    "image": "https://blitech.github.io/reciepes/images/dz.jpg",
+    "tags": [
+        "side-dish",
+        "vegan"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "sweet potatoes",
+                "fr": "patates douces",
+                "de": "Süßkartoffeln",
+                "es": "batatas"
+            },
+            "quantity": 500,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Boil and mash.",
+                "fr": "Bouillir et écraser.",
+                "de": "Kochen und stampfen.",
+                "es": "Hervir y triturar."
+            }
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "ed",
+    "title": {
+        "en": "Pesto Pasta Salad",
+        "fr": "Salade de pâtes au pesto",
+        "de": "Pesto-Nudelsalat",
+        "es": "Ensalada de pasta al pesto"
+    },
+    "time": 15,
+    "image": "https://blitech.github.io/reciepes/images/ed.jpg",
+    "tags": [
+        "pasta",
+        "vegetarian"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "pasta",
+                "fr": "pâtes",
+                "de": "Pasta",
+                "es": "pasta"
+            },
+            "quantity": 200,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Mix cooled pasta.",
+                "fr": "Mélanger les pâtes froides.",
+                "de": "Gekühlte Pasta vermengen.",
+                "es": "Mezclar la pasta fría."
+            }
+        }
+    ]
+}

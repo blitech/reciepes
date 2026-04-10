@@ -1,0 +1,16 @@
+{
+    "id": "fv",
+    "name": "Avocado Toast",
+    "ingredients": [
+        "bread",
+        "avocado",
+        "red pepper flakes"
+    ],
+    "instructions": "Toast bread, mash avocado, sprinkle pepper.",
+    "translations": {
+        "en": "Avocado Toast",
+        "fr": "Toast à l'avocat",
+        "de": "Avocado-Toast",
+        "es": "Tostada de aguacate"
+    }
+}

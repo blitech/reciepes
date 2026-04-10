@@ -1,0 +1,38 @@
+{
+    "id": "db",
+    "title": {
+        "en": "Steamed Rice",
+        "fr": "Riz vapeur",
+        "de": "Dampfreis",
+        "es": "Arroz al vapor"
+    },
+    "time": 20,
+    "image": "https://blitech.github.io/reciepes/images/db.jpg",
+    "tags": [
+        "staple",
+        "vegan"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "rice",
+                "fr": "riz",
+                "de": "Reis",
+                "es": "arroz"
+            },
+            "quantity": 200,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Steam until fluffy.",
+                "fr": "Cuire à la vapeur.",
+                "de": "Dämpfen.",
+                "es": "Cocinar al vapor."
+            }
+        }
+    ]
+}

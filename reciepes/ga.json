@@ -1,0 +1,17 @@
+{
+    "id": "ga",
+    "name": "Tomato Soup",
+    "ingredients": [
+        "tomatoes",
+        "onion",
+        "garlic",
+        "basil"
+    ],
+    "instructions": "Simmer ingredients and blend.",
+    "translations": {
+        "en": "Tomato Soup",
+        "fr": "Soupe à la tomate",
+        "de": "Tomatensuppe",
+        "es": "Sopa de tomate"
+    }
+}

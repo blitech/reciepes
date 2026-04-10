@@ -1,0 +1,38 @@
+{
+    "id": "cs",
+    "title": {
+        "en": "Spinach Salad",
+        "fr": "Salade d'épinards",
+        "de": "Spinatsalat",
+        "es": "Ensalada de espinacas"
+    },
+    "time": 10,
+    "image": "https://blitech.github.io/reciepes/images/cs.jpg",
+    "tags": [
+        "salad",
+        "healthy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "spinach",
+                "fr": "épinards",
+                "de": "Spinat",
+                "es": "espinacas"
+            },
+            "quantity": 100,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Toss ingredients.",
+                "fr": "Mélanger les ingrédients.",
+                "de": "Zutaten vermengen.",
+                "es": "Mezclar los ingredientes."
+            }
+        }
+    ]
+}

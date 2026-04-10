@@ -1,0 +1,52 @@
+{
+    "id": "ex",
+    "name": "Exotic Fruit Salad",
+    "ingredients": {
+        "en": [
+            "Mango",
+            "Papaya",
+            "Kiwi",
+            "Lime"
+        ],
+        "fr": [
+            "Mangue",
+            "Papaye",
+            "Kiwi",
+            "Citron vert"
+        ],
+        "de": [
+            "Mango",
+            "Papaya",
+            "Kiwi",
+            "Limette"
+        ],
+        "es": [
+            "Mango",
+            "Papaya",
+            "Kiwi",
+            "Lima"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Dice fruit",
+            "Toss",
+            "Add lime juice"
+        ],
+        "fr": [
+            "Couper les fruits en dés",
+            "Mélanger",
+            "Ajouter le jus de citron vert"
+        ],
+        "de": [
+            "Obst würfeln",
+            "Mischen",
+            "Limettensaft hinzufügen"
+        ],
+        "es": [
+            "Cortar fruta",
+            "Mezclar",
+            "Añadir jugo de lima"
+        ]
+    }
+}

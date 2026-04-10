@@ -1,0 +1,52 @@
+{
+    "id": "fa",
+    "name": "Fajitas",
+    "ingredients": {
+        "en": [
+            "Steak",
+            "Tortilla",
+            "Pepper",
+            "Onion"
+        ],
+        "fr": [
+            "Bœuf",
+            "Tortilla",
+            "Poivron",
+            "Oignon"
+        ],
+        "de": [
+            "Steak",
+            "Tortilla",
+            "Paprika",
+            "Zwiebel"
+        ],
+        "es": [
+            "Carne",
+            "Tortilla",
+            "Pimiento",
+            "Cebolla"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Slice meat/veggies",
+            "Sauté",
+            "Wrap in tortilla"
+        ],
+        "fr": [
+            "Trancher la viande/les légumes",
+            "Sauter",
+            "Envelopper dans la tortilla"
+        ],
+        "de": [
+            "Fleisch/Gemüse schneiden",
+            "Anbraten",
+            "In Tortilla wickeln"
+        ],
+        "es": [
+            "Cortar carne/verduras",
+            "Saltear",
+            "Envolver en tortilla"
+        ]
+    }
+}

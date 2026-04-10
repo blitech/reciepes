@@ -1,0 +1,52 @@
+{
+    "id": "ez",
+    "name": "Ezme",
+    "ingredients": {
+        "en": [
+            "Tomato",
+            "Pepper",
+            "Onion",
+            "Walnut"
+        ],
+        "fr": [
+            "Tomate",
+            "Poivron",
+            "Oignon",
+            "Noix"
+        ],
+        "de": [
+            "Tomate",
+            "Paprika",
+            "Zwiebel",
+            "Walnuss"
+        ],
+        "es": [
+            "Tomate",
+            "Pimiento",
+            "Cebolla",
+            "Nuez"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Finely chop ingredients",
+            "Mix",
+            "Serve"
+        ],
+        "fr": [
+            "Hacher finement les ingrédients",
+            "Mélanger",
+            "Servir"
+        ],
+        "de": [
+            "Zutaten fein hacken",
+            "Mischen",
+            "Servieren"
+        ],
+        "es": [
+            "Picar finamente ingredientes",
+            "Mezclar",
+            "Servir"
+        ]
+    }
+}

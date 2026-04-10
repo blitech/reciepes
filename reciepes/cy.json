@@ -1,0 +1,38 @@
+{
+    "id": "cy",
+    "title": {
+        "en": "Grilled Asparagus",
+        "fr": "Asperges grillées",
+        "de": "Gegrillter Spargel",
+        "es": "Espárragos a la parrilla"
+    },
+    "time": 15,
+    "image": "https://blitech.github.io/reciepes/images/cy.jpg",
+    "tags": [
+        "side-dish",
+        "vegan"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "asparagus",
+                "fr": "asperges",
+                "de": "Spargel",
+                "es": "espárragos"
+            },
+            "quantity": 200,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Grill until charred.",
+                "fr": "Griller.",
+                "de": "Grillen.",
+                "es": "Asar a la parrilla."
+            }
+        }
+    ]
+}

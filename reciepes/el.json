@@ -1,0 +1,52 @@
+{
+    "id": "el",
+    "name": "Eggplant Lasagna",
+    "ingredients": {
+        "en": [
+            "Eggplant",
+            "Marinara",
+            "Ricotta",
+            "Mozzarella"
+        ],
+        "fr": [
+            "Aubergine",
+            "Marinara",
+            "Ricotta",
+            "Mozzarella"
+        ],
+        "de": [
+            "Aubergine",
+            "Marinara",
+            "Ricotta",
+            "Mozzarella"
+        ],
+        "es": [
+            "Berenjena",
+            "Marinara",
+            "Ricotta",
+            "Mozzarella"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Slice eggplant",
+            "Layer with cheese and sauce",
+            "Bake"
+        ],
+        "fr": [
+            "Trancher l'aubergine",
+            "Superposer avec le fromage et la sauce",
+            "Cuire"
+        ],
+        "de": [
+            "Aubergine schneiden",
+            "Mit Käse und Soße schichten",
+            "Backen"
+        ],
+        "es": [
+            "Cortar la berenjena",
+            "Capas con queso y salsa",
+            "Hornear"
+        ]
+    }
+}

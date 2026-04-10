@@ -1,0 +1,52 @@
+{
+    "id": "en",
+    "name": "Endive Salad",
+    "ingredients": {
+        "en": [
+            "Endive",
+            "Walnuts",
+            "Blue cheese",
+            "Vinaigrette"
+        ],
+        "fr": [
+            "Endive",
+            "Noix",
+            "Bleu",
+            "Vinaigrette"
+        ],
+        "de": [
+            "Endivie",
+            "Walnüsse",
+            "Blauschimmelkäse",
+            "Vinaigrette"
+        ],
+        "es": [
+            "Endibia",
+            "Nueces",
+            "Queso azul",
+            "Vinagreta"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Chop endive",
+            "Add ingredients",
+            "Toss with dressing"
+        ],
+        "fr": [
+            "Hacher l'endive",
+            "Ajouter les ingrédients",
+            "Mélanger avec la vinaigrette"
+        ],
+        "de": [
+            "Endivie hacken",
+            "Zutaten hinzufügen",
+            "Mit Dressing vermischen"
+        ],
+        "es": [
+            "Picar la endibia",
+            "Añadir ingredientes",
+            "Mezclar con el aliño"
+        ]
+    }
+}

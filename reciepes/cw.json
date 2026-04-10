@@ -1,0 +1,38 @@
+{
+    "id": "cw",
+    "title": {
+        "en": "Fruit Salad",
+        "fr": "Salade de fruits",
+        "de": "Obstsalat",
+        "es": "Ensalada de frutas"
+    },
+    "time": 10,
+    "image": "https://blitech.github.io/reciepes/images/cw.jpg",
+    "tags": [
+        "fruit",
+        "healthy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "fruits",
+                "fr": "fruits",
+                "de": "Obst",
+                "es": "frutas"
+            },
+            "quantity": 500,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Chop and mix.",
+                "fr": "Couper et mélanger.",
+                "de": "Hacken und mischen.",
+                "es": "Cortar y mezclar."
+            }
+        }
+    ]
+}

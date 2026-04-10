@@ -1,0 +1,52 @@
+{
+    "id": "fe",
+    "name": "Fettuccine Alfredo",
+    "ingredients": {
+        "en": [
+            "Pasta",
+            "Cream",
+            "Parmesan",
+            "Butter"
+        ],
+        "fr": [
+            "Pâtes",
+            "Crème",
+            "Parmesan",
+            "Beurre"
+        ],
+        "de": [
+            "Nudeln",
+            "Sahne",
+            "Parmesan",
+            "Butter"
+        ],
+        "es": [
+            "Pasta",
+            "Crema",
+            "Parmesano",
+            "Mantequilla"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Boil pasta",
+            "Make sauce",
+            "Toss"
+        ],
+        "fr": [
+            "Cuire les pâtes",
+            "Faire la sauce",
+            "Mélanger"
+        ],
+        "de": [
+            "Nudeln kochen",
+            "Soße machen",
+            "Vermischen"
+        ],
+        "es": [
+            "Hervir pasta",
+            "Hacer salsa",
+            "Mezclar"
+        ]
+    }
+}

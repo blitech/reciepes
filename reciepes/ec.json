@@ -1,0 +1,38 @@
+{
+    "id": "ec",
+    "title": {
+        "en": "Boiled Eggs",
+        "fr": "Œufs durs",
+        "de": "Gekochte Eier",
+        "es": "Huevos duros"
+    },
+    "time": 10,
+    "image": "https://blitech.github.io/reciepes/images/ec.jpg",
+    "tags": [
+        "breakfast",
+        "quick"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "eggs",
+                "fr": "œufs",
+                "de": "Eier",
+                "es": "huevos"
+            },
+            "quantity": 2,
+            "unit": ""
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Boil.",
+                "fr": "Bouillir.",
+                "de": "Kochen.",
+                "es": "Hervir."
+            }
+        }
+    ]
+}

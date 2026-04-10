@@ -1,0 +1,17 @@
+{
+    "id": "fz",
+    "name": "Caesar Salad",
+    "ingredients": [
+        "romaine",
+        "croutons",
+        "parmesan",
+        "dressing"
+    ],
+    "instructions": "Toss lettuce with dressing and toppings.",
+    "translations": {
+        "en": "Caesar Salad",
+        "fr": "Salade César",
+        "de": "Caesar Salad",
+        "es": "Ensalada César"
+    }
+}

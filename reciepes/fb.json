@@ -1,0 +1,52 @@
+{
+    "id": "fb",
+    "name": "Falafel",
+    "ingredients": {
+        "en": [
+            "Chickpeas",
+            "Parsley",
+            "Garlic",
+            "Cumin"
+        ],
+        "fr": [
+            "Pois chiches",
+            "Persil",
+            "Ail",
+            "Cumin"
+        ],
+        "de": [
+            "Kichererbsen",
+            "Petersilie",
+            "Knoblauch",
+            "Kreuzkümmel"
+        ],
+        "es": [
+            "Garbanzos",
+            "Perejil",
+            "Ajo",
+            "Comino"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Blend chickpeas",
+            "Form balls",
+            "Fry"
+        ],
+        "fr": [
+            "Mixer les pois chiches",
+            "Former des boules",
+            "Frire"
+        ],
+        "de": [
+            "Kichererbsen pürieren",
+            "Bällchen formen",
+            "Frittieren"
+        ],
+        "es": [
+            "Mezclar garbanzos",
+            "Formar bolas",
+            "Freír"
+        ]
+    }
+}

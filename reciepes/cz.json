@@ -1,0 +1,38 @@
+{
+    "id": "cz",
+    "title": {
+        "en": "Mashed Potatoes",
+        "fr": "Purée de pommes de terre",
+        "de": "Kartoffelpüree",
+        "es": "Puré de patatas"
+    },
+    "time": 25,
+    "image": "https://blitech.github.io/reciepes/images/cz.jpg",
+    "tags": [
+        "side-dish",
+        "classic"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "potatoes",
+                "fr": "pommes de terre",
+                "de": "Kartoffeln",
+                "es": "patatas"
+            },
+            "quantity": 500,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Boil and mash.",
+                "fr": "Bouillir et écraser.",
+                "de": "Kochen und stampfen.",
+                "es": "Hervir y triturar."
+            }
+        }
+    ]
+}

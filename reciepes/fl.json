@@ -1,0 +1,17 @@
+{
+    "id": "fl",
+    "name": "Lemon Herb Salmon",
+    "ingredients": [
+        "salmon",
+        "lemon",
+        "dill",
+        "olive oil"
+    ],
+    "instructions": "Season salmon, bake with lemon and dill.",
+    "translations": {
+        "en": "Lemon Herb Salmon",
+        "fr": "Saumon aux herbes et citron",
+        "de": "Zitronen-Kräuter-Lachs",
+        "es": "Salmón al limón y hierbas"
+    }
+}

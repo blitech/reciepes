@@ -1,0 +1,17 @@
+{
+    "id": "fm",
+    "name": "Quinoa Salad",
+    "ingredients": [
+        "quinoa",
+        "cucumber",
+        "tomato",
+        "feta"
+    ],
+    "instructions": "Cook quinoa, chop veggies, toss with feta.",
+    "translations": {
+        "en": "Quinoa Salad",
+        "fr": "Salade de quinoa",
+        "de": "Quinoa-Salat",
+        "es": "Ensalada de quinoa"
+    }
+}

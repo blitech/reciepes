@@ -1,0 +1,38 @@
+{
+    "id": "du",
+    "title": {
+        "en": "Potato Salad",
+        "fr": "Salade de pommes de terre",
+        "de": "Kartoffelsalat",
+        "es": "Ensalada de patatas"
+    },
+    "time": 30,
+    "image": "https://blitech.github.io/reciepes/images/du.jpg",
+    "tags": [
+        "classic",
+        "side-dish"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "potatoes",
+                "fr": "pommes de terre",
+                "de": "Kartoffeln",
+                "es": "patatas"
+            },
+            "quantity": 500,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Boil potatoes.",
+                "fr": "Bouillir les pommes de terre.",
+                "de": "Kartoffeln kochen.",
+                "es": "Hervir patatas."
+            }
+        }
+    ]
+}

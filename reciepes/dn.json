@@ -1,0 +1,57 @@
+{
+    "id": "dn",
+    "title": {
+        "en": "Grilled Salmon Salad",
+        "fr": "Salade de saumon grillé",
+        "de": "Gegrillter Lachssalat",
+        "es": "Ensalada de salmón a la parrilla"
+    },
+    "time": 20,
+    "image": "https://blitech.github.io/reciepes/images/dn.jpg",
+    "tags": [
+        "fish",
+        "healthy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "salmon",
+                "fr": "saumon",
+                "de": "Lachs",
+                "es": "salmón"
+            },
+            "quantity": 150,
+            "unit": "g"
+        },
+        {
+            "name": {
+                "en": "lettuce",
+                "fr": "laitue",
+                "de": "Salat",
+                "es": "lechuga"
+            },
+            "quantity": 100,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Grill salmon.",
+                "fr": "Griller le saumon.",
+                "de": "Lachs grillen.",
+                "es": "Asar el salmón."
+            }
+        },
+        {
+            "order": 2,
+            "text": {
+                "en": "Serve over greens.",
+                "fr": "Servir sur un lit de verdure.",
+                "de": "Auf Salat servieren.",
+                "es": "Servir sobre ensalada."
+            }
+        }
+    ]
+}

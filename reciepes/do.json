@@ -1,0 +1,47 @@
+{
+    "id": "do",
+    "title": {
+        "en": "Quinoa Salad",
+        "fr": "Salade de quinoa",
+        "de": "Quinoasalat",
+        "es": "Ensalada de quinoa"
+    },
+    "time": 25,
+    "image": "https://blitech.github.io/reciepes/images/do.jpg",
+    "tags": [
+        "vegan",
+        "healthy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "quinoa",
+                "fr": "quinoa",
+                "de": "Quinoa",
+                "es": "quinoa"
+            },
+            "quantity": 200,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Cook quinoa.",
+                "fr": "Cuire le quinoa.",
+                "de": "Quinoa kochen.",
+                "es": "Cocinar la quinoa."
+            }
+        },
+        {
+            "order": 2,
+            "text": {
+                "en": "Toss with vegetables.",
+                "fr": "Mélanger avec des légumes.",
+                "de": "Mit Gemüse vermengen.",
+                "es": "Mezclar con verduras."
+            }
+        }
+    ]
+}

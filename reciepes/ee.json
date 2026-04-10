@@ -1,0 +1,38 @@
+{
+    "id": "ee",
+    "title": {
+        "en": "Green Salad with Vinaigrette",
+        "fr": "Salade verte vinaigrette",
+        "de": "Grüner Salat mit Vinaigrette",
+        "es": "Ensalada verde con vinagreta"
+    },
+    "time": 5,
+    "image": "https://blitech.github.io/reciepes/images/ee.jpg",
+    "tags": [
+        "vegan",
+        "salad"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "lettuce",
+                "fr": "laitue",
+                "de": "Salat",
+                "es": "lechuga"
+            },
+            "quantity": 100,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Add dressing.",
+                "fr": "Ajouter la vinaigrette.",
+                "de": "Dressing hinzufügen.",
+                "es": "Añadir vinagreta."
+            }
+        }
+    ]
+}

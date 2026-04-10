@@ -1,0 +1,38 @@
+{
+    "id": "cq",
+    "title": {
+        "en": "Tomato Basil Soup",
+        "fr": "Soupe tomate basilic",
+        "de": "Tomaten-Basilikum-Suppe",
+        "es": "Sopa de tomate y albahaca"
+    },
+    "time": 30,
+    "image": "https://blitech.github.io/reciepes/images/cq.jpg",
+    "tags": [
+        "soup",
+        "vegan"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "tomatoes",
+                "fr": "tomates",
+                "de": "Tomaten",
+                "es": "tomates"
+            },
+            "quantity": 1,
+            "unit": "kg"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Simmer tomatoes.",
+                "fr": "Mijoter les tomates.",
+                "de": "Tomaten köcheln.",
+                "es": "Hervir los tomates."
+            }
+        }
+    ]
+}

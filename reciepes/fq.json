@@ -1,0 +1,16 @@
+{
+    "id": "fq",
+    "name": "Spinach Omelette",
+    "ingredients": [
+        "eggs",
+        "spinach",
+        "cheese"
+    ],
+    "instructions": "Whisk eggs, cook with spinach and cheese.",
+    "translations": {
+        "en": "Spinach Omelette",
+        "fr": "Omelette aux épinards",
+        "de": "Spinatomlett",
+        "es": "Tortilla de espinacas"
+    }
+}

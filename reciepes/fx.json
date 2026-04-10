@@ -1,0 +1,17 @@
+{
+    "id": "fx",
+    "name": "Garlic Shrimp",
+    "ingredients": [
+        "shrimp",
+        "garlic",
+        "parsley",
+        "butter"
+    ],
+    "instructions": "Sauté shrimp with garlic and butter.",
+    "translations": {
+        "en": "Garlic Shrimp",
+        "fr": "Crevettes à l'ail",
+        "de": "Knoblauch-Garnelen",
+        "es": "Gambas al ajillo"
+    }
+}

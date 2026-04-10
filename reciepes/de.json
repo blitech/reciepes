@@ -1,0 +1,38 @@
+{
+    "id": "de",
+    "title": {
+        "en": "Green Salad",
+        "fr": "Salade verte",
+        "de": "Grüner Salat",
+        "es": "Ensalada verde"
+    },
+    "time": 5,
+    "image": "https://blitech.github.io/reciepes/images/de.jpg",
+    "tags": [
+        "salad",
+        "healthy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "lettuce",
+                "fr": "laitue",
+                "de": "Salat",
+                "es": "lechuga"
+            },
+            "quantity": 100,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Wash and serve.",
+                "fr": "Laver et servir.",
+                "de": "Waschen und servieren.",
+                "es": "Lavar y servir."
+            }
+        }
+    ]
+}

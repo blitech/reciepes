@@ -1,0 +1,38 @@
+{
+    "id": "dp",
+    "title": {
+        "en": "Beef Stir-Fry",
+        "fr": "Bœuf sauté",
+        "de": "Rindfleischpfanne",
+        "es": "Ternera salteada"
+    },
+    "time": 20,
+    "image": "https://blitech.github.io/reciepes/images/dp.jpg",
+    "tags": [
+        "beef",
+        "quick"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "beef",
+                "fr": "bœuf",
+                "de": "Rindfleisch",
+                "es": "ternera"
+            },
+            "quantity": 300,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Stir-fry beef with sauce.",
+                "fr": "Sauter le bœuf avec de la sauce.",
+                "de": "Rindfleisch mit Soße anbraten.",
+                "es": "Saltear la carne con salsa."
+            }
+        }
+    ]
+}

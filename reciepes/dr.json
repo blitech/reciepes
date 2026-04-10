@@ -1,0 +1,38 @@
+{
+    "id": "dr",
+    "title": {
+        "en": "Garlic Bread",
+        "fr": "Pain à l'ail",
+        "de": "Knoblauchbrot",
+        "es": "Pan de ajo"
+    },
+    "time": 10,
+    "image": "https://blitech.github.io/reciepes/images/dr.jpg",
+    "tags": [
+        "snack",
+        "quick"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "bread",
+                "fr": "pain",
+                "de": "Brot",
+                "es": "pan"
+            },
+            "quantity": 1,
+            "unit": "loaf"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Spread garlic butter and toast.",
+                "fr": "Étaler du beurre à l'ail et griller.",
+                "de": "Knoblauchbutter verteilen und toasten.",
+                "es": "Untar mantequilla de ajo y tostar."
+            }
+        }
+    ]
+}

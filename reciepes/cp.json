@@ -1,0 +1,38 @@
+{
+    "id": "cp",
+    "title": {
+        "en": "Mushroom Risotto",
+        "fr": "Risotto aux champignons",
+        "de": "Pilzrisotto",
+        "es": "Risotto de setas"
+    },
+    "time": 40,
+    "image": "https://blitech.github.io/reciepes/images/cp.jpg",
+    "tags": [
+        "vegetarian",
+        "rice"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "arborio rice",
+                "fr": "riz arborio",
+                "de": "Arborio-Reis",
+                "es": "arroz arborio"
+            },
+            "quantity": 200,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Cook rice slowly.",
+                "fr": "Cuire le riz lentement.",
+                "de": "Reis langsam garen.",
+                "es": "Cocinar el arroz lentamente."
+            }
+        }
+    ]
+}

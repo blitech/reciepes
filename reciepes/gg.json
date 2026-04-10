@@ -1,0 +1,17 @@
+{
+    "id": "gg",
+    "name": "Hummus",
+    "ingredients": [
+        "chickpeas",
+        "tahini",
+        "lemon",
+        "garlic"
+    ],
+    "instructions": "Blend all ingredients.",
+    "translations": {
+        "en": "Hummus",
+        "fr": "Houmous",
+        "de": "Hummus",
+        "es": "Hummus"
+    }
+}

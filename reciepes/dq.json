@@ -1,0 +1,38 @@
+{
+    "id": "dq",
+    "title": {
+        "en": "Lentil Soup",
+        "fr": "Soupe aux lentilles",
+        "de": "Linsensuppe",
+        "es": "Sopa de lentejas"
+    },
+    "time": 40,
+    "image": "https://blitech.github.io/reciepes/images/dq.jpg",
+    "tags": [
+        "vegan",
+        "soup"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "lentils",
+                "fr": "lentilles",
+                "de": "Linsen",
+                "es": "lentejas"
+            },
+            "quantity": 250,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Simmer lentils.",
+                "fr": "Mijoter les lentilles.",
+                "de": "Linsen köcheln.",
+                "es": "Hervir las lentejas."
+            }
+        }
+    ]
+}

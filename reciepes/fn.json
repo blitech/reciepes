@@ -1,0 +1,17 @@
+{
+    "id": "fn",
+    "name": "Chicken Stir Fry",
+    "ingredients": [
+        "chicken",
+        "broccoli",
+        "soy sauce",
+        "ginger"
+    ],
+    "instructions": "Sauté chicken and broccoli, stir in ginger and sauce.",
+    "translations": {
+        "en": "Chicken Stir Fry",
+        "fr": "Poulet sauté",
+        "de": "Hühnchen-Pfanne",
+        "es": "Pollo salteado"
+    }
+}

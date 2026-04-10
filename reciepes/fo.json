@@ -1,0 +1,17 @@
+{
+    "id": "fo",
+    "name": "Mushroom Risotto",
+    "ingredients": [
+        "arborio rice",
+        "mushrooms",
+        "broth",
+        "parmesan"
+    ],
+    "instructions": "Cook rice with broth slowly, stir in mushrooms and cheese.",
+    "translations": {
+        "en": "Mushroom Risotto",
+        "fr": "Risotto aux champignons",
+        "de": "Pilzrisotto",
+        "es": "Risotto de setas"
+    }
+}

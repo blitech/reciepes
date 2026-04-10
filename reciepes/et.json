@@ -1,0 +1,52 @@
+{
+    "id": "et",
+    "name": "Etouffee",
+    "ingredients": {
+        "en": [
+            "Crawfish",
+            "Butter",
+            "Onion",
+            "Celery"
+        ],
+        "fr": [
+            "Écrevisses",
+            "Beurre",
+            "Oignon",
+            "Céleri"
+        ],
+        "de": [
+            "Flusskrebse",
+            "Butter",
+            "Zwiebel",
+            "Sellerie"
+        ],
+        "es": [
+            "Cangrejos de río",
+            "Mantequilla",
+            "Cebolla",
+            "Apio"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Make roux",
+            "Add vegetables",
+            "Simmer with seafood"
+        ],
+        "fr": [
+            "Faire le roux",
+            "Ajouter les légumes",
+            "Mijoter avec les fruits de mer"
+        ],
+        "de": [
+            "Mehlschwitze machen",
+            "Gemüse hinzufügen",
+            "Mit Meeresfrüchten köcheln"
+        ],
+        "es": [
+            "Hacer el roux",
+            "Añadir verduras",
+            "Cocinar a fuego lento con marisco"
+        ]
+    }
+}

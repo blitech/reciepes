@@ -1,0 +1,52 @@
+{
+    "id": "fh",
+    "name": "Fish Chowder",
+    "ingredients": {
+        "en": [
+            "Fish",
+            "Potato",
+            "Cream",
+            "Onion"
+        ],
+        "fr": [
+            "Poisson",
+            "Pomme de terre",
+            "Crème",
+            "Oignon"
+        ],
+        "de": [
+            "Fisch",
+            "Kartoffel",
+            "Sahne",
+            "Zwiebel"
+        ],
+        "es": [
+            "Pescado",
+            "Patata",
+            "Crema",
+            "Cebolla"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Cook soup base",
+            "Add fish",
+            "Simmer"
+        ],
+        "fr": [
+            "Cuire la base de soupe",
+            "Ajouter le poisson",
+            "Mijoter"
+        ],
+        "de": [
+            "Suppenbasis kochen",
+            "Fisch hinzufügen",
+            "Köcheln"
+        ],
+        "es": [
+            "Cocinar base sopa",
+            "Añadir pescado",
+            "Cocinar"
+        ]
+    }
+}

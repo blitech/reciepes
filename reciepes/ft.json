@@ -1,0 +1,17 @@
+{
+    "id": "ft",
+    "name": "Greek Salad",
+    "ingredients": [
+        "cucumber",
+        "tomato",
+        "olives",
+        "feta"
+    ],
+    "instructions": "Chop and combine ingredients.",
+    "translations": {
+        "en": "Greek Salad",
+        "fr": "Salade grecque",
+        "de": "Griechischer Salat",
+        "es": "Ensalada griega"
+    }
+}

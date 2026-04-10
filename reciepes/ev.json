@@ -1,0 +1,52 @@
+{
+    "id": "ev",
+    "name": "Evaporated Milk Pudding",
+    "ingredients": {
+        "en": [
+            "Evaporated milk",
+            "Sugar",
+            "Cornstarch",
+            "Vanilla"
+        ],
+        "fr": [
+            "Lait concentré",
+            "Sucre",
+            "Fécule de maïs",
+            "Vanille"
+        ],
+        "de": [
+            "Kondensmilch",
+            "Zucker",
+            "Maisstärke",
+            "Vanille"
+        ],
+        "es": [
+            "Leche evaporada",
+            "Azúcar",
+            "Maicena",
+            "Vainilla"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Heat milk",
+            "Add thickener",
+            "Chill"
+        ],
+        "fr": [
+            "Chauffer le lait",
+            "Ajouter l'épaississant",
+            "Réfrigérer"
+        ],
+        "de": [
+            "Milch erhitzen",
+            "Verdickungsmittel hinzufügen",
+            "Kühlen"
+        ],
+        "es": [
+            "Calentar leche",
+            "Añadir espesante",
+            "Enfriar"
+        ]
+    }
+}

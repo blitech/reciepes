@@ -1,0 +1,38 @@
+{
+    "id": "dd",
+    "title": {
+        "en": "Pesto Pasta",
+        "fr": "Pâtes au pesto",
+        "de": "Pesto-Pasta",
+        "es": "Pasta al pesto"
+    },
+    "time": 15,
+    "image": "https://blitech.github.io/reciepes/images/dd.jpg",
+    "tags": [
+        "pasta",
+        "italian"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "pasta",
+                "fr": "pâtes",
+                "de": "Pasta",
+                "es": "pasta"
+            },
+            "quantity": 200,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Cook pasta and add pesto.",
+                "fr": "Cuire les pâtes et ajouter le pesto.",
+                "de": "Pasta kochen und Pesto hinzufügen.",
+                "es": "Cocinar la pasta y añadir pesto."
+            }
+        }
+    ]
+}

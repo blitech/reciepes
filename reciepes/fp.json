@@ -1,0 +1,17 @@
+{
+    "id": "fp",
+    "name": "Beet Hummus",
+    "ingredients": [
+        "chickpeas",
+        "beets",
+        "tahini",
+        "lemon"
+    ],
+    "instructions": "Blend all ingredients until smooth.",
+    "translations": {
+        "en": "Beet Hummus",
+        "fr": "Houmous de betterave",
+        "de": "Rote-Bete-Hummus",
+        "es": "Hummus de remolacha"
+    }
+}

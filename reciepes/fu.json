@@ -1,0 +1,17 @@
+{
+    "id": "fu",
+    "name": "Veggie Curry",
+    "ingredients": [
+        "cauliflower",
+        "peas",
+        "curry powder",
+        "coconut milk"
+    ],
+    "instructions": "Simmer veggies with coconut milk and curry.",
+    "translations": {
+        "en": "Veggie Curry",
+        "fr": "Curry de légumes",
+        "de": "Gemüse-Curry",
+        "es": "Curry de verduras"
+    }
+}

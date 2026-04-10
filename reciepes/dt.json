@@ -1,0 +1,38 @@
+{
+    "id": "dt",
+    "title": {
+        "en": "Tomato Salad",
+        "fr": "Salade de tomates",
+        "de": "Tomatensalat",
+        "es": "Ensalada de tomates"
+    },
+    "time": 5,
+    "image": "https://blitech.github.io/reciepes/images/dt.jpg",
+    "tags": [
+        "vegan",
+        "salad"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "tomatoes",
+                "fr": "tomates",
+                "de": "Tomaten",
+                "es": "tomates"
+            },
+            "quantity": 4,
+            "unit": "pieces"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Slice and serve.",
+                "fr": "Trancher et servir.",
+                "de": "Schneiden und servieren.",
+                "es": "Cortar y servir."
+            }
+        }
+    ]
+}

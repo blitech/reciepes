@@ -1,0 +1,16 @@
+{
+    "id": "gd",
+    "name": "Oatmeal",
+    "ingredients": [
+        "oats",
+        "water",
+        "cinnamon"
+    ],
+    "instructions": "Cook oats with water, add cinnamon.",
+    "translations": {
+        "en": "Oatmeal",
+        "fr": "Gruau",
+        "de": "Haferbrei",
+        "es": "Avena"
+    }
+}

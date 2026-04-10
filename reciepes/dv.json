@@ -1,0 +1,38 @@
+{
+    "id": "dv",
+    "title": {
+        "en": "Vanilla Yogurt",
+        "fr": "Yaourt à la vanille",
+        "de": "Vanillejoghurt",
+        "es": "Yogur de vainilla"
+    },
+    "time": 2,
+    "image": "https://blitech.github.io/reciepes/images/dv.jpg",
+    "tags": [
+        "healthy",
+        "quick"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "yogurt",
+                "fr": "yaourt",
+                "de": "Joghurt",
+                "es": "yogur"
+            },
+            "quantity": 200,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Mix and serve.",
+                "fr": "Mélanger et servir.",
+                "de": "Mischen und servieren.",
+                "es": "Mezclar y servir."
+            }
+        }
+    ]
+}

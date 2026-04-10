@@ -1,0 +1,38 @@
+{
+    "id": "dc",
+    "title": {
+        "en": "Scrambled Eggs",
+        "fr": "Œufs brouillés",
+        "de": "Rührei",
+        "es": "Huevos revueltos"
+    },
+    "time": 5,
+    "image": "https://blitech.github.io/reciepes/images/dc.jpg",
+    "tags": [
+        "breakfast",
+        "quick"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "eggs",
+                "fr": "œufs",
+                "de": "Eier",
+                "es": "huevos"
+            },
+            "quantity": 3,
+            "unit": ""
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Whisk and cook.",
+                "fr": "Fouetter et cuire.",
+                "de": "Schlagen und kochen.",
+                "es": "Batir y cocinar."
+            }
+        }
+    ]
+}

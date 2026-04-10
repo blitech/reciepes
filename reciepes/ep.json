@@ -1,0 +1,48 @@
+{
+    "id": "ep",
+    "name": "Eclair",
+    "ingredients": {
+        "en": [
+            "Choux pastry",
+            "Pastry cream",
+            "Chocolate icing"
+        ],
+        "fr": [
+            "Pâte à choux",
+            "Crème pâtissière",
+            "Glaçage au chocolat"
+        ],
+        "de": [
+            "Brandteig",
+            "Konditorcreme",
+            "Schokoladenguss"
+        ],
+        "es": [
+            "Pasta choux",
+            "Crema pastelera",
+            "Glaseado de chocolate"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Bake pastry",
+            "Fill with cream",
+            "Glaze"
+        ],
+        "fr": [
+            "Cuire la pâte",
+            "Remplir avec la crème",
+            "Glacer"
+        ],
+        "de": [
+            "Teig backen",
+            "Mit Creme füllen",
+            "Glasieren"
+        ],
+        "es": [
+            "Hornear la masa",
+            "Rellenar con crema",
+            "Glasear"
+        ]
+    }
+}

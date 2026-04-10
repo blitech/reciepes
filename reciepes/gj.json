@@ -1,0 +1,16 @@
+{
+    "id": "gj",
+    "name": "Green Juice",
+    "ingredients": [
+        "kale",
+        "apple",
+        "cucumber"
+    ],
+    "instructions": "Juice all ingredients.",
+    "translations": {
+        "en": "Green Juice",
+        "fr": "Jus vert",
+        "de": "Grüner Saft",
+        "es": "Zumo verde"
+    }
+}

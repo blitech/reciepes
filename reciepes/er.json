@@ -1,0 +1,52 @@
+{
+    "id": "er",
+    "name": "Escargot",
+    "ingredients": {
+        "en": [
+            "Snails",
+            "Butter",
+            "Garlic",
+            "Parsley"
+        ],
+        "fr": [
+            "Escargots",
+            "Beurre",
+            "Ail",
+            "Persil"
+        ],
+        "de": [
+            "Schnecken",
+            "Butter",
+            "Knoblauch",
+            "Petersilie"
+        ],
+        "es": [
+            "Caracoles",
+            "Mantequilla",
+            "Ajo",
+            "Perejil"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Prepare shells",
+            "Stuff with butter mix",
+            "Bake"
+        ],
+        "fr": [
+            "Préparer les coquilles",
+            "Farcir avec le mélange de beurre",
+            "Cuire"
+        ],
+        "de": [
+            "Schneckenhäuser vorbereiten",
+            "Mit Butter-Mix füllen",
+            "Backen"
+        ],
+        "es": [
+            "Preparar las conchas",
+            "Rellenar con mezcla de mantequilla",
+            "Hornear"
+        ]
+    }
+}

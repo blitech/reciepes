@@ -1,0 +1,16 @@
+{
+    "id": "fw",
+    "name": "Chia Pudding",
+    "ingredients": [
+        "chia seeds",
+        "almond milk",
+        "honey"
+    ],
+    "instructions": "Mix ingredients and let set overnight.",
+    "translations": {
+        "en": "Chia Pudding",
+        "fr": "Pudding de chia",
+        "de": "Chia-Pudding",
+        "es": "Pudin de chía"
+    }
+}

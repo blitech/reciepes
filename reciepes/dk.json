@@ -1,0 +1,38 @@
+{
+    "id": "dk",
+    "title": {
+        "en": "Beef Stew",
+        "fr": "Ragoût de bœuf",
+        "de": "Rindereintopf",
+        "es": "Guiso de ternera"
+    },
+    "time": 120,
+    "image": "https://blitech.github.io/reciepes/images/dk.jpg",
+    "tags": [
+        "stew",
+        "meat"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "beef",
+                "fr": "bœuf",
+                "de": "Rindfleisch",
+                "es": "ternera"
+            },
+            "quantity": 500,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Simmer for hours.",
+                "fr": "Mijoter pendant des heures.",
+                "de": "Stundenlang köcheln.",
+                "es": "Cocinar durante horas."
+            }
+        }
+    ]
+}

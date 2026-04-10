@@ -1,0 +1,38 @@
+{
+    "id": "eg",
+    "title": {
+        "en": "Mixed Vegetable Soup",
+        "fr": "Soupe aux légumes variés",
+        "de": "Gemüsesuppe mit gemischtem Gemüse",
+        "es": "Sopa de verduras mixtas"
+    },
+    "time": 40,
+    "image": "https://blitech.github.io/reciepes/images/eg.jpg",
+    "tags": [
+        "vegan",
+        "soup"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "mixed vegetables",
+                "fr": "légumes variés",
+                "de": "Gemüsemischung",
+                "es": "verduras mixtas"
+            },
+            "quantity": 500,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Simmer.",
+                "fr": "Laisser mijoter.",
+                "de": "Köcheln.",
+                "es": "Cocinar a fuego lento."
+            }
+        }
+    ]
+}

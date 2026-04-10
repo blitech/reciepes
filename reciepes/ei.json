@@ -1,0 +1,38 @@
+{
+    "id": "ei",
+    "title": {
+        "en": "Fruit Pie Dessert",
+        "fr": "Tarte aux fruits dessert",
+        "de": "Obstkuchen zum Nachtisch",
+        "es": "Tarta de frutas postre"
+    },
+    "time": 50,
+    "image": "https://blitech.github.io/reciepes/images/ei.jpg",
+    "tags": [
+        "dessert",
+        "sweet"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "mixed fruit",
+                "fr": "fruits variés",
+                "de": "Obstsorten",
+                "es": "frutas variadas"
+            },
+            "quantity": 300,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Bake golden.",
+                "fr": "Cuire jusqu'à ce qu'il soit doré.",
+                "de": "Goldbraun backen.",
+                "es": "Hornear hasta dorar."
+            }
+        }
+    ]
+}

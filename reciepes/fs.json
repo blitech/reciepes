@@ -1,0 +1,16 @@
+{
+    "id": "fs",
+    "name": "Sweet Potato Fries",
+    "ingredients": [
+        "sweet potato",
+        "olive oil",
+        "sea salt"
+    ],
+    "instructions": "Cut potatoes, toss with oil, bake until crispy.",
+    "translations": {
+        "en": "Sweet Potato Fries",
+        "fr": "Frites de patate douce",
+        "de": "Süßkartoffelpommes",
+        "es": "Patatas fritas de boniato"
+    }
+}

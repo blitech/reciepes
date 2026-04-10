@@ -1,0 +1,17 @@
+{
+    "id": "gf",
+    "name": "Pesto Pasta",
+    "ingredients": [
+        "pasta",
+        "basil",
+        "pine nuts",
+        "parmesan"
+    ],
+    "instructions": "Cook pasta, toss with pesto.",
+    "translations": {
+        "en": "Pesto Pasta",
+        "fr": "Pâtes au pesto",
+        "de": "Pesto-Pasta",
+        "es": "Pasta al pesto"
+    }
+}

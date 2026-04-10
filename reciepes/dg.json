@@ -1,0 +1,38 @@
+{
+    "id": "dg",
+    "title": {
+        "en": "Vegetable Soup",
+        "fr": "Soupe aux légumes",
+        "de": "Gemüsesuppe",
+        "es": "Sopa de verduras"
+    },
+    "time": 40,
+    "image": "https://blitech.github.io/reciepes/images/dg.jpg",
+    "tags": [
+        "soup",
+        "healthy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "vegetables",
+                "fr": "légumes",
+                "de": "Gemüse",
+                "es": "verduras"
+            },
+            "quantity": 500,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Simmer everything.",
+                "fr": "Laisser mijoter.",
+                "de": "Alles köcheln lassen.",
+                "es": "Cocinar a fuego lento."
+            }
+        }
+    ]
+}

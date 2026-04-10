@@ -1,0 +1,38 @@
+{
+    "id": "da",
+    "title": {
+        "en": "Berry Smoothie",
+        "fr": "Smoothie aux baies",
+        "de": "Beeren-Smoothie",
+        "es": "Batido de bayas"
+    },
+    "time": 5,
+    "image": "https://blitech.github.io/reciepes/images/da.jpg",
+    "tags": [
+        "drink",
+        "healthy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "berries",
+                "fr": "baies",
+                "de": "Beeren",
+                "es": "bayas"
+            },
+            "quantity": 100,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Blend all.",
+                "fr": "Mixer tout.",
+                "de": "Alles mixen.",
+                "es": "Batir todo."
+            }
+        }
+    ]
+}

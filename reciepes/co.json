@@ -1,0 +1,47 @@
+{
+    "id": "co",
+    "title": {
+        "en": "Herb Roasted Chicken",
+        "fr": "Poulet rôti aux herbes",
+        "de": "Kräuter-Hähnchen",
+        "es": "Pollo asado a las hierbas"
+    },
+    "time": 60,
+    "image": "https://blitech.github.io/reciepes/images/co.jpg",
+    "tags": [
+        "chicken",
+        "classic"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "chicken",
+                "fr": "poulet",
+                "de": "Hähnchen",
+                "es": "pollo"
+            },
+            "quantity": 1,
+            "unit": "whole"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Season chicken.",
+                "fr": "Assaisonner le poulet.",
+                "de": "Hähnchen würzen.",
+                "es": "Sazonar el pollo."
+            }
+        },
+        {
+            "order": 2,
+            "text": {
+                "en": "Roast until golden.",
+                "fr": "Rôtir jusqu'à ce qu'il soit doré.",
+                "de": "Goldbraun rösten.",
+                "es": "Asar hasta que esté dorado."
+            }
+        }
+    ]
+}

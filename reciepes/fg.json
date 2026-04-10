@@ -1,0 +1,52 @@
+{
+    "id": "fg",
+    "name": "Fig Tart",
+    "ingredients": {
+        "en": [
+            "Fig",
+            "Pastry",
+            "Honey",
+            "Almonds"
+        ],
+        "fr": [
+            "Figue",
+            "Pâte",
+            "Miel",
+            "Amandes"
+        ],
+        "de": [
+            "Feige",
+            "Teig",
+            "Honig",
+            "Mandeln"
+        ],
+        "es": [
+            "Higo",
+            "Masa",
+            "Miel",
+            "Almendras"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Prepare tart shell",
+            "Arrange figs",
+            "Bake"
+        ],
+        "fr": [
+            "Préparer la pâte",
+            "Disposer les figues",
+            "Cuire"
+        ],
+        "de": [
+            "Tarteboden vorbereiten",
+            "Feigen anordnen",
+            "Backen"
+        ],
+        "es": [
+            "Preparar la base",
+            "Disponer higos",
+            "Hornear"
+        ]
+    }
+}

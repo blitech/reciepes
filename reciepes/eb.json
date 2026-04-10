@@ -1,0 +1,38 @@
+{
+    "id": "eb",
+    "title": {
+        "en": "Steamed Broccoli",
+        "fr": "Brocoli vapeur",
+        "de": "Gedämpfter Brokkoli",
+        "es": "Brócoli al vapor"
+    },
+    "time": 10,
+    "image": "https://blitech.github.io/reciepes/images/eb.jpg",
+    "tags": [
+        "vegan",
+        "side-dish"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "broccoli",
+                "fr": "brocoli",
+                "de": "Brokkoli",
+                "es": "brócoli"
+            },
+            "quantity": 300,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Steam until tender.",
+                "fr": "Cuire à la vapeur.",
+                "de": "Dämpfen.",
+                "es": "Cocinar al vapor."
+            }
+        }
+    ]
+}

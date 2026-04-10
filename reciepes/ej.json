@@ -1,0 +1,38 @@
+{
+    "id": "ej",
+    "title": {
+        "en": "Baked Potato with Herbs",
+        "fr": "Pomme de terre au four aux herbes",
+        "de": "Ofenkartoffel mit Kräutern",
+        "es": "Patata al horno con hierbas"
+    },
+    "time": 45,
+    "image": "https://blitech.github.io/reciepes/images/ej.jpg",
+    "tags": [
+        "classic",
+        "vegan"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "potato",
+                "fr": "pomme de terre",
+                "de": "Kartoffel",
+                "es": "patata"
+            },
+            "quantity": 1,
+            "unit": "large"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Season with herbs and bake.",
+                "fr": "Assaisonner avec des herbes et cuire.",
+                "de": "Mit Kräutern würzen und backen.",
+                "es": "Sazonar con hierbas y hornear."
+            }
+        }
+    ]
+}

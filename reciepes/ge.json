@@ -1,0 +1,16 @@
+{
+    "id": "ge",
+    "name": "Apple Tart",
+    "ingredients": [
+        "apples",
+        "pastry",
+        "sugar"
+    ],
+    "instructions": "Prepare pastry, layer apples, bake.",
+    "translations": {
+        "en": "Apple Tart",
+        "fr": "Tarte aux pommes",
+        "de": "Apfeltarte",
+        "es": "Tarta de manzana"
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "id": "ds",
+    "title": {
+        "en": "Spinach Quiche",
+        "fr": "Quiche aux épinards",
+        "de": "Spinatquiche",
+        "es": "Quiche de espinacas"
+    },
+    "time": 50,
+    "image": "https://blitech.github.io/reciepes/images/ds.jpg",
+    "tags": [
+        "vegetarian",
+        "classic"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "spinach",
+                "fr": "épinards",
+                "de": "Spinat",
+                "es": "espinacas"
+            },
+            "quantity": 300,
+            "unit": "g"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Bake in crust.",
+                "fr": "Cuire dans la pâte.",
+                "de": "Im Teig backen.",
+                "es": "Hornear en masa."
+            }
+        }
+    ]
+}

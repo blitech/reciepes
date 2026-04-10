@@ -1,0 +1,52 @@
+{
+    "id": "es",
+    "name": "Espresso Cake",
+    "ingredients": {
+        "en": [
+            "Flour",
+            "Sugar",
+            "Espresso",
+            "Eggs"
+        ],
+        "fr": [
+            "Farine",
+            "Sucre",
+            "Espresso",
+            "Œufs"
+        ],
+        "de": [
+            "Mehl",
+            "Zucker",
+            "Espresso",
+            "Eier"
+        ],
+        "es": [
+            "Harina",
+            "Azúcar",
+            "Espresso",
+            "Huevos"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Mix batter",
+            "Add espresso",
+            "Bake"
+        ],
+        "fr": [
+            "Mélanger la pâte",
+            "Ajouter l'espresso",
+            "Cuire"
+        ],
+        "de": [
+            "Teig mischen",
+            "Espresso hinzufügen",
+            "Backen"
+        ],
+        "es": [
+            "Mezclar la masa",
+            "Añadir espresso",
+            "Hornear"
+        ]
+    }
+}

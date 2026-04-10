@@ -1,0 +1,38 @@
+{
+    "id": "ct",
+    "title": {
+        "en": "Baked Salmon",
+        "fr": "Saumon au four",
+        "de": "Gebackener Lachs",
+        "es": "Salmón al horno"
+    },
+    "time": 25,
+    "image": "https://blitech.github.io/reciepes/images/ct.jpg",
+    "tags": [
+        "fish",
+        "healthy"
+    ],
+    "ingredients": [
+        {
+            "name": {
+                "en": "salmon",
+                "fr": "saumon",
+                "de": "Lachs",
+                "es": "salmón"
+            },
+            "quantity": 1,
+            "unit": "fillet"
+        }
+    ],
+    "steps": [
+        {
+            "order": 1,
+            "text": {
+                "en": "Bake until tender.",
+                "fr": "Cuire jusqu'à ce qu'il soit tendre.",
+                "de": "Weich backen.",
+                "es": "Hornear hasta que esté tierno."
+            }
+        }
+    ]
+}

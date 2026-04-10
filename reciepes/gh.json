@@ -1,0 +1,16 @@
+{
+    "id": "gh",
+    "name": "Rice Bowl",
+    "ingredients": [
+        "rice",
+        "tofu",
+        "soy sauce"
+    ],
+    "instructions": "Cook rice, serve with tofu.",
+    "translations": {
+        "en": "Rice Bowl",
+        "fr": "Bol de riz",
+        "de": "Reisschüssel",
+        "es": "Cuenco de arroz"
+    }
+}

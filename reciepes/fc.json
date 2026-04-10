@@ -1,0 +1,52 @@
+{
+    "id": "fc",
+    "name": "Fish Curry",
+    "ingredients": {
+        "en": [
+            "White fish",
+            "Curry paste",
+            "Coconut milk",
+            "Rice"
+        ],
+        "fr": [
+            "Poisson blanc",
+            "Pâte de curry",
+            "Lait de coco",
+            "Riz"
+        ],
+        "de": [
+            "Weißfisch",
+            "Currypaste",
+            "Kokosmilch",
+            "Reis"
+        ],
+        "es": [
+            "Pescado blanco",
+            "Pasta de curry",
+            "Leche de coco",
+            "Arroz"
+        ]
+    },
+    "steps": {
+        "en": [
+            "Cook curry",
+            "Add fish",
+            "Simmer"
+        ],
+        "fr": [
+            "Cuire le curry",
+            "Ajouter le poisson",
+            "Mijoter"
+        ],
+        "de": [
+            "Curry kochen",
+            "Fisch hinzufügen",
+            "Köcheln"
+        ],
+        "es": [
+            "Cocinar curry",
+            "Añadir pescado",
+            "Cocinar"
+        ]
+    }
+}
