@@ -1373,5 +1373,59 @@
       "salmon",
       "cucumber"
     ]
+  },
+  {
+    "id": "ce",
+    "t": "Tandoori Chicken",
+    "img": "https://blitech.github.io/reciepes/images/ce.jpg",
+    "m": 45,
+    "tg": [
+      "indian",
+      "chicken",
+      "spicy",
+      "healthy"
+    ],
+    "ig": [
+      "chicken",
+      "yogurt",
+      "tandoori masala",
+      "lemon"
+    ]
+  },
+  {
+    "id": "cf",
+    "t": "Greek Moussaka",
+    "img": "https://blitech.github.io/reciepes/images/cf.jpg",
+    "m": 90,
+    "tg": [
+      "greek",
+      "casserole",
+      "meat",
+      "classic"
+    ],
+    "ig": [
+      "eggplant",
+      "minced lamb",
+      "potatoes",
+      "bechamel sauce"
+    ]
+  },
+  {
+    "id": "cg",
+    "t": "Mango Sticky Rice",
+    "img": "https://blitech.github.io/reciepes/images/cg.jpg",
+    "m": 40,
+    "tg": [
+      "thai",
+      "dessert",
+      "sweet",
+      "fruit"
+    ],
+    "ig": [
+      "glutinous rice",
+      "mango",
+      "coconut milk",
+      "sugar"
+    ]
   }
 ]

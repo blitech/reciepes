@@ -1,0 +1,97 @@
+{
+  "id": "cf",
+  "title": {
+    "en": "Greek Moussaka",
+    "fr": "Moussaka Grecque",
+    "de": "Griechische Moussaka",
+    "es": "Moussaka Griega"
+  },
+  "time": 90,
+  "image": "https://blitech.github.io/reciepes/images/cf.jpg",
+  "tags": [
+    "greek",
+    "casserole",
+    "meat",
+    "classic"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "eggplant",
+        "fr": "aubergine",
+        "de": "Aubergine",
+        "es": "berenjena"
+      },
+      "quantity": 3,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "minced lamb",
+        "fr": "agneau haché",
+        "de": "Lammhackfleisch",
+        "es": "cordero molido"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "potatoes",
+        "fr": "pommes de terre",
+        "de": "Kartoffeln",
+        "es": "patatas"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "bechamel sauce",
+        "fr": "béchamel",
+        "de": "Béchamelsauce",
+        "es": "salsa bechamel"
+      },
+      "quantity": 300,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Slice and fry eggplants and potatoes.",
+        "fr": "Couper et faire frire les aubergines et les pommes de terre.",
+        "de": "Auberginen und Kartoffeln in Scheiben schneiden und anbraten.",
+        "es": "Cortar y freír las berenjenas y las patatas."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Cook minced lamb with spices.",
+        "fr": "Cuire l'agneau haché avec des épices.",
+        "de": "Lammhackfleisch mit Gewürzen anbraten.",
+        "es": "Cocinar el cordero molido con especias."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Layer vegetables, meat, and bechamel sauce.",
+        "fr": "Superposer les légumes, la viande et la sauce béchamel.",
+        "de": "Gemüse, Fleisch und Béchamelsauce schichten.",
+        "es": "Disponer en capas las verduras, la carne y la salsa bechamel."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Bake until golden brown.",
+        "fr": "Cuire jusqu'à ce qu'il soit doré.",
+        "de": "Goldbraun backen.",
+        "es": "Hornear hasta que esté dorado."
+      }
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "cg",
+  "title": {
+    "en": "Mango Sticky Rice",
+    "fr": "Riz Gluant à la Mangue",
+    "de": "Mango mit Klebreis",
+    "es": "Arroz con Mango"
+  },
+  "time": 40,
+  "image": "https://blitech.github.io/reciepes/images/cg.jpg",
+  "tags": [
+    "thai",
+    "dessert",
+    "sweet",
+    "fruit"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "glutinous rice",
+        "fr": "riz gluant",
+        "de": "Klebreis",
+        "es": "arroz glutinoso"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "mango",
+        "fr": "mangue",
+        "de": "Mango",
+        "es": "mango"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "coconut milk",
+        "fr": "lait de coco",
+        "de": "Kokosmilch",
+        "es": "leche de coco"
+      },
+      "quantity": 200,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "sugar",
+        "fr": "sucre",
+        "de": "Zucker",
+        "es": "azúcar"
+      },
+      "quantity": 50,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Steam the glutinous rice.",
+        "fr": "Cuire le riz gluant à la vapeur.",
+        "de": "Den Klebreis dämpfen.",
+        "es": "Cocinar al vapor el arroz glutinoso."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Mix warm coconut milk with sugar.",
+        "fr": "Mélanger le lait de coco chaud avec le sucre.",
+        "de": "Warme Kokosmilch mit Zucker vermischen.",
+        "es": "Mezclar leche de coco tibia con azúcar."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Combine rice with coconut milk mixture.",
+        "fr": "Combiner le riz avec le mélange de lait de coco.",
+        "de": "Reis mit der Kokosmilchmischung kombinieren.",
+        "es": "Combinar el arroz con la mezcla de leche de coco."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Serve with sliced mango.",
+        "fr": "Servir avec des tranches de mangue.",
+        "de": "Mit Mangoscheiben servieren.",
+        "es": "Servir con rodajas de mango."
+      }
+    }
+  ]
+}

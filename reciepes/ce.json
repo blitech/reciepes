@@ -1,0 +1,88 @@
+{
+  "id": "ce",
+  "title": {
+    "en": "Tandoori Chicken",
+    "fr": "Poulet Tandoori",
+    "de": "Tandoori-Hähnchen",
+    "es": "Pollo Tandoori"
+  },
+  "time": 45,
+  "image": "https://blitech.github.io/reciepes/images/ce.jpg",
+  "tags": [
+    "indian",
+    "chicken",
+    "spicy",
+    "healthy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "chicken",
+        "fr": "poulet",
+        "de": "Hähnchen",
+        "es": "pollo"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "yogurt",
+        "fr": "yaourt",
+        "de": "Joghurt",
+        "es": "yogur"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "tandoori masala",
+        "fr": "tandoori masala",
+        "de": "Tandoori-Masala",
+        "es": "tandoori masala"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "lemon",
+        "fr": "citron",
+        "de": "Zitrone",
+        "es": "limón"
+      },
+      "quantity": 1,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Marinate chicken in yogurt, masala, and lemon juice.",
+        "fr": "Faire mariner le poulet dans le yaourt, le masala et le jus de citron.",
+        "de": "Hähnchen in Joghurt, Masala und Zitronensaft marinieren.",
+        "es": "Marinar el pollo en yogur, masala y jugo de limón."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Let it marinate for at least 2 hours.",
+        "fr": "Laisser mariner pendant au moins 2 heures.",
+        "de": "Mindestens 2 Stunden marinieren lassen.",
+        "es": "Dejar marinar al menos 2 horas."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Bake in oven at 200°C for 25 minutes.",
+        "fr": "Cuire au four à 200°C pendant 25 minutes.",
+        "de": "Bei 200°C für 25 Minuten backen.",
+        "es": "Hornear a 200°C durante 25 minutos."
+      }
+    }
+  ]
+}
