@@ -1,0 +1,107 @@
+{
+  "id": "cr",
+  "title": {
+    "en": "Fish Tacos",
+    "fr": "Tacos de poisson",
+    "de": "Fischtacos",
+    "es": "Tacos de pescado"
+  },
+  "time": 25,
+  "image": "https://blitech.github.io/reciepes/images/cr.jpg",
+  "tags": [
+    "mexican",
+    "seafood",
+    "quick",
+    "healthy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "white fish fillets",
+        "fr": "filets de poisson blanc",
+        "de": "weißes Fischfilet",
+        "es": "filetes de pescado blanco"
+      },
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "tortilla",
+        "fr": "tortilla",
+        "de": "Tortillas",
+        "es": "tortilla"
+      },
+      "quantity": 8,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "cabbage slaw",
+        "fr": "salade de chou",
+        "de": "Krautsalat",
+        "es": "ensalada de col"
+      },
+      "quantity": 2,
+      "unit": "cups"
+    },
+    {
+      "name": {
+        "en": "lime",
+        "fr": "citron vert",
+        "de": "Limette",
+        "es": "lima"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "cilantro",
+        "fr": "coriandre",
+        "de": "Koriander",
+        "es": "cilantro"
+      },
+      "quantity": 1,
+      "unit": "bunch"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Season the fish with salt, pepper, and chili powder. Grill or pan-fry until cooked through.",
+        "fr": "Assaisonner le poisson avec du sel, du poivre et de la poudre de piment. Griller ou poêler jusqu'à cuisson complète.",
+        "de": "Den Fisch mit Salz, Pfeffer und Chilipulver würzen. Grillen oder in der Pfanne braten, bis er durchgegart ist.",
+        "es": "Sazonar el pescado con sal, pimienta y chile en polvo. Asar o freír en una sartén hasta que esté bien cocido."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Warm the tortillas in a dry skillet or microwave.",
+        "fr": "Chauffer les tortillas dans une poêle sèche ou au micro-ondes.",
+        "de": "Die Tortillas in einer trockenen Pfanne oder in der Mikrowelle erwärmen.",
+        "es": "Calentar las tortillas en una sartén seca o en el microondas."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Flake the fish into pieces.",
+        "fr": "Effilocher le poisson en morceaux.",
+        "de": "Den Fisch in Stücke zerteilen.",
+        "es": "Desmenuzar el pescado en trozos."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Assemble the tacos with fish, cabbage slaw, cilantro, and a squeeze of lime.",
+        "fr": "Composer les tacos avec le poisson, la salade de chou, la coriandre et un filet de citron vert.",
+        "de": "Die Tacos mit Fisch, Krautsalat, Koriander und einem Spritzer Limette anrichten.",
+        "es": "Montar los tacos con el pescado, la ensalada de col, el cilantro y un chorrito de lima."
+      }
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": "cs",
+  "title": {
+    "en": "Chicken Adobo",
+    "fr": "Poulet adobo",
+    "de": "Chicken Adobo",
+    "es": "Pollo adobo"
+  },
+  "time": 45,
+  "image": "https://blitech.github.io/reciepes/images/cs.jpg",
+  "tags": [
+    "filipino",
+    "chicken",
+    "savory",
+    "classic"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "chicken thighs",
+        "fr": "hauts de cuisse de poulet",
+        "de": "Hähnchenschenkel",
+        "es": "contramuslos de pollo"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "soy sauce",
+        "fr": "sauce soja",
+        "de": "Sojasauce",
+        "es": "salsa de soja"
+      },
+      "quantity": 0.5,
+      "unit": "cup"
+    },
+    {
+      "name": {
+        "en": "vinegar",
+        "fr": "vinaigre",
+        "de": "Essig",
+        "es": "vinagre"
+      },
+      "quantity": 0.33,
+      "unit": "cup"
+    },
+    {
+      "name": {
+        "en": "garlic",
+        "fr": "ail",
+        "de": "Knoblauch",
+        "es": "ajo"
+      },
+      "quantity": 4,
+      "unit": "cloves"
+    },
+    {
+      "name": {
+        "en": "bay leaves",
+        "fr": "feuilles de laurier",
+        "de": "Lorbeerblätter",
+        "es": "hojas de laurel"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "peppercorns",
+        "fr": "grains de poivre",
+        "de": "Pfefferkörner",
+        "es": "pimienta en grano"
+      },
+      "quantity": 1,
+      "unit": "tsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Combine chicken, soy sauce, and garlic in a large pot. Marinate for at least 30 minutes if possible.",
+        "fr": "Mélanger le poulet, la sauce soja et l'ail dans une grande casserole. Faire mariner au moins 30 minutes si possible.",
+        "de": "Hähnchen, Sojasauce und Knoblauch in einem großen Topf vermengen. Wenn möglich, mindestens 30 Minuten marinieren.",
+        "es": "Combinar el pollo, la salsa de soja y el ajo en una olla grande. Marinar durante al menos 30 minutos si es posible."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add vinegar, bay leaves, and peppercorns. Bring to a boil, then lower heat and simmer for 30 minutes.",
+        "fr": "Ajouter le vinaigre, les feuilles de laurier et les grains de poivre. Porter à ébullition, puis baisser le feu et laisser mijoter 30 minutes.",
+        "de": "Essig, Lorbeerblätter und Pfefferkörner hinzufügen. Aufkochen lassen, dann die Hitze reduzieren und 30 Minuten köcheln lassen.",
+        "es": "Añadir el vinagre, las hojas de laurel y la pimienta en grano. Llevar a ebullición, luego bajar el fuego y cocinar a fuego lento durante 30 minutos."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Increase heat to reduce the sauce until it thickens and coats the chicken.",
+        "fr": "Augmenter le feu pour faire réduire la sauce jusqu'à ce qu'elle épaississe et enrobe le poulet.",
+        "de": "Die Hitze erhöhen, um die Sauce einzukochen, bis sie eindickt und das Hähnchen überzieht.",
+        "es": "Aumentar el fuego para reducir la salsa hasta que espese y cubra el pollo."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Serve hot with steamed white rice.",
+        "fr": "Servir chaud avec du riz blanc à la vapeur.",
+        "de": "Heiß mit gedämpftem weißem Reis servieren.",
+        "es": "Servir caliente con arroz blanco al vapor."
+      }
+    }
+  ]
+}

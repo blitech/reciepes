@@ -1,0 +1,127 @@
+{
+  "id": "cq",
+  "title": {
+    "en": "Bouillabaisse",
+    "fr": "Bouillabaisse",
+    "de": "Bouillabaisse",
+    "es": "Bullabesa"
+  },
+  "time": 60,
+  "image": "https://blitech.github.io/reciepes/images/cq.jpg",
+  "tags": [
+    "french",
+    "seafood",
+    "soup",
+    "classic"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "monkfish",
+        "fr": "lotte",
+        "de": "Seeteufel",
+        "es": "rape"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "shrimp",
+        "fr": "crevettes",
+        "de": "Garnelen",
+        "es": "gambas"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "mussels",
+        "fr": "moules",
+        "de": "Miesmuscheln",
+        "es": "mejillones"
+      },
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "tomatoes",
+        "fr": "tomates",
+        "de": "Tomaten",
+        "es": "tomates"
+      },
+      "quantity": 3,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "fennel",
+        "fr": "fenouil",
+        "de": "Fenchel",
+        "es": "hinojo"
+      },
+      "quantity": 1,
+      "unit": "bulb"
+    },
+    {
+      "name": {
+        "en": "saffron",
+        "fr": "safran",
+        "de": "Safran",
+        "es": "azafrán"
+      },
+      "quantity": 1,
+      "unit": "pinch"
+    },
+    {
+      "name": {
+        "en": "garlic",
+        "fr": "ail",
+        "de": "Knoblauch",
+        "es": "ajo"
+      },
+      "quantity": 3,
+      "unit": "cloves"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Sauté fennel, onion, and garlic in olive oil until softened.",
+        "fr": "Faire revenir le fenouil, l'oignon et l'ail dans de l'huile d'olive jusqu'à ce qu'ils soient tendres.",
+        "de": "Fenchel, Zwiebel und Knoblauch in Olivenöl anbraten, bis sie weich sind.",
+        "es": "Sofreír el hinojo, la cebolla y el ajo en aceite de oliva hasta que se ablanden."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add chopped tomatoes, saffron, and fish stock. Simmer for 20 minutes.",
+        "fr": "Ajouter les tomates concassées, le safran et le bouillon de poisson. Laisser mijoter 20 minutes.",
+        "de": "Gehackte Tomaten, Safran und Fischfond hinzufügen. 20 Minuten köcheln lassen.",
+        "es": "Añadir los tomates picados, el azafrán y el caldo de pescado. Cocinar a fuego lento durante 20 minutos."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Add the fish and seafood. Cook until the fish is opaque and mussels are open.",
+        "fr": "Ajouter le poisson et les fruits de mer. Cuire jusqu'à ce que le poisson soit opaque et les moules ouvertes.",
+        "de": "Fisch und Meeresfrüchte hinzufügen. Garen, bis der Fisch durchscheinend ist und sich die Muscheln geöffnet haben.",
+        "es": "Añadir el pescado y los mariscos. Cocinar hasta que el pescado esté opaco y los mejillones estén abiertos."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Serve hot with crusty bread and rouille sauce.",
+        "fr": "Servir chaud avec du pain croustillant et de la sauce rouille.",
+        "de": "Heiß mit knusprigem Brot und Rouille-Sauce servieren.",
+        "es": "Servir caliente con pan crujiente y salsa rouille."
+      }
+    }
+  ]
+}

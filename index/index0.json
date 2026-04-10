@@ -1599,5 +1599,63 @@
       "tomato paste",
       "bechamel sauce"
     ]
+  },
+  {
+    "id": "cq",
+    "t": "Bouillabaisse",
+    "img": "https://blitech.github.io/reciepes/images/cq.jpg",
+    "m": 60,
+    "tg": [
+      "french",
+      "seafood",
+      "soup",
+      "classic"
+    ],
+    "ig": [
+      "monkfish",
+      "shrimp",
+      "mussels",
+      "saffron",
+      "fennel"
+    ]
+  },
+  {
+    "id": "cr",
+    "t": "Fish Tacos",
+    "img": "https://blitech.github.io/reciepes/images/cr.jpg",
+    "m": 25,
+    "tg": [
+      "mexican",
+      "seafood",
+      "quick",
+      "healthy"
+    ],
+    "ig": [
+      "white fish",
+      "tortilla",
+      "cabbage slaw",
+      "lime",
+      "cilantro"
+    ]
+  },
+  {
+    "id": "cs",
+    "t": "Chicken Adobo",
+    "img": "https://blitech.github.io/reciepes/images/cs.jpg",
+    "m": 45,
+    "tg": [
+      "filipino",
+      "chicken",
+      "savory",
+      "classic"
+    ],
+    "ig": [
+      "chicken thighs",
+      "vinegar",
+      "soy sauce",
+      "garlic",
+      "bay leaves",
+      "peppercorns"
+    ]
   }
 ]
