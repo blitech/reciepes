@@ -1,0 +1,96 @@
+{
+  "id": "bv",
+  "title": {
+    "en": "Spaghetti Carbonara",
+    "fr": "Spaghetti Carbonara",
+    "de": "Spaghetti Carbonara",
+    "es": "Espaguetis Carbonara"
+  },
+  "time": 20,
+  "image": "https://blitech.github.io/reciepes/images/bv.jpg",
+  "tags": [
+    "italian",
+    "pasta",
+    "classic"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "spaghetti",
+        "fr": "spaghetti",
+        "de": "Spaghetti",
+        "es": "espaguetis"
+      },
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "eggs",
+        "fr": "oeufs",
+        "de": "Eier",
+        "es": "huevos"
+      },
+      "quantity": 3,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "pancetta",
+        "fr": "pancetta",
+        "de": "Pancetta",
+        "es": "panceta"
+      },
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "parmesan",
+        "fr": "parmesan",
+        "de": "Parmesan",
+        "es": "parmesano"
+      },
+      "quantity": 50,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Boil spaghetti in salted water.",
+        "fr": "Cuire les spaghetti dans de l'eau salée.",
+        "de": "Spaghetti in Salzwasser kochen.",
+        "es": "Cocer los espaguetis en agua salada."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Fry pancetta until crispy.",
+        "fr": "Faire revenir la pancetta jusqu'à ce qu'elle soit croustillante.",
+        "de": "Pancetta anbraten, bis sie knusprig ist.",
+        "es": "Freír la panceta hasta que esté crujiente."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Whisk eggs and parmesan together.",
+        "fr": "Battre les oeufs et le parmesan ensemble.",
+        "de": "Eier und Parmesan verquirlen.",
+        "es": "Batir los huevos y el parmesano juntos."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Mix everything together with a bit of pasta water.",
+        "fr": "Mélanger le tout avec un peu d'eau de cuisson des pâtes.",
+        "de": "Alles mit etwas Nudelwasser vermischen.",
+        "es": "Mezclar todo con un poco de agua de la pasta."
+      }
+    }
+  ]
+}

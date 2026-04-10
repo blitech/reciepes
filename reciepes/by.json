@@ -1,0 +1,106 @@
+{
+  "id": "by",
+  "title": {
+    "en": "Chocolate Cake",
+    "fr": "Gâteau au Chocolat",
+    "de": "Schokoladenkuchen",
+    "es": "Pastel de Chocolate"
+  },
+  "time": 60,
+  "image": "https://blitech.github.io/reciepes/images/by.jpg",
+  "tags": [
+    "dessert",
+    "sweet",
+    "chocolate"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "chocolate",
+        "fr": "chocolat",
+        "de": "Schokolade",
+        "es": "chocolate"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "flour",
+        "fr": "farine",
+        "de": "Mehl",
+        "es": "harina"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "sugar",
+        "fr": "sucre",
+        "de": "Zucker",
+        "es": "azúcar"
+      },
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "eggs",
+        "fr": "oeufs",
+        "de": "Eier",
+        "es": "huevos"
+      },
+      "quantity": 3,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "butter",
+        "fr": "beurre",
+        "de": "Butter",
+        "es": "mantequilla"
+      },
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Melt chocolate and butter together.",
+        "fr": "Faire fondre le chocolat et le beurre ensemble.",
+        "de": "Schokolade und Butter zusammen schmelzen.",
+        "es": "Derretir el chocolate y la mantequilla juntos."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Whisk eggs and sugar until pale.",
+        "fr": "Battre les oeufs et le sucre jusqu'à ce que le mélange blanchisse.",
+        "de": "Eier und Zucker schaumig schlagen.",
+        "es": "Batir los huevos y el azúcar hasta que estén pálidos."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Add flour and melted chocolate mixture.",
+        "fr": "Ajouter la farine et le mélange de chocolat fondu.",
+        "de": "Mehl und geschmolzene Schokoladenmischung hinzufügen.",
+        "es": "Añadir la harina y la mezcla de chocolate derretido."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Bake at 180°C for 25-30 minutes.",
+        "fr": "Cuire au four à 180°C pendant 25-30 minutes.",
+        "de": "Bei 180°C für 25-30 Minuten backen.",
+        "es": "Hornear a 180°C durante 25-30 minutos."
+      }
+    }
+  ]
+}

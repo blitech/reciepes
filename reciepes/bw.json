@@ -1,0 +1,97 @@
+{
+  "id": "bw",
+  "title": {
+    "en": "Chili con Carne",
+    "fr": "Chili con Carne",
+    "de": "Chili con Carne",
+    "es": "Chili con Carne"
+  },
+  "time": 45,
+  "image": "https://blitech.github.io/reciepes/images/bw.jpg",
+  "tags": [
+    "mexican",
+    "meat",
+    "spicy",
+    "beans"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "ground beef",
+        "fr": "boeuf haché",
+        "de": "Rinderhackfleisch",
+        "es": "carne picada"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "kidney beans",
+        "fr": "haricots rouges",
+        "de": "Kidneybohnen",
+        "es": "alubias rojas"
+      },
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "tomatoes",
+        "fr": "tomates",
+        "de": "Tomaten",
+        "es": "tomates"
+      },
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "chili powder",
+        "fr": "poudre de piment",
+        "de": "Chilipulver",
+        "es": "chile en polvo"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Brown the ground beef in a large pot.",
+        "fr": "Faire revenir le boeuf haché dans une grande marmite.",
+        "de": "Rinderhackfleisch in einem großen Topf anbräunen.",
+        "es": "Dorar la carne picada en una olla grande."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add onions and garlic.",
+        "fr": "Ajouter les oignons et l'ail.",
+        "de": "Zwiebeln und Knoblauch hinzufügen.",
+        "es": "Añadir cebollas y ajo."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Stir in tomatoes, beans and chili powder.",
+        "fr": "Ajouter les tomates, les haricots et la poudre de piment.",
+        "de": "Tomaten, Bohnen und Chilipulver unterrühren.",
+        "es": "Añadir los tomates, las alubias y el chile en polvo."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Simmer for 30 minutes.",
+        "fr": "Laisser mijoter pendant 30 minutes.",
+        "de": "30 Minuten köcheln lassen.",
+        "es": "Cocinar a fuego lento durante 30 minutos."
+      }
+    }
+  ]
+}

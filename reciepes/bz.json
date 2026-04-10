@@ -1,0 +1,97 @@
+{
+  "id": "bz",
+  "title": {
+    "en": "Vegetable Fried Rice",
+    "fr": "Riz Frit aux Légumes",
+    "de": "Gemüse-Gebratener Reis",
+    "es": "Arroz Frito con Verduras"
+  },
+  "time": 25,
+  "image": "https://blitech.github.io/reciepes/images/bz.jpg",
+  "tags": [
+    "asian",
+    "vegetarian",
+    "rice",
+    "quick"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "rice",
+        "fr": "riz",
+        "de": "Reis",
+        "es": "arroz"
+      },
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "vegetables",
+        "fr": "légumes",
+        "de": "Gemüse",
+        "es": "verduras"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "soy sauce",
+        "fr": "sauce soja",
+        "de": "Sojasauce",
+        "es": "salsa de soja"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "eggs",
+        "fr": "oeufs",
+        "de": "Eier",
+        "es": "huevos"
+      },
+      "quantity": 2,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Cook the rice and let it cool.",
+        "fr": "Cuire le riz et le laisser refroidir.",
+        "de": "Den Reis kochen und abkühlen lassen.",
+        "es": "Cocinar el arroz y dejarlo enfriar."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Scramble the eggs in a wok.",
+        "fr": "Brouiller les oeufs dans un wok.",
+        "de": "Die Eier in einem Wok verrühren.",
+        "es": "Revolver los huevos en un wok."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Add vegetables and stir-fry for 5 minutes.",
+        "fr": "Ajouter les légumes et faire sauter pendant 5 minutes.",
+        "de": "Gemüse hinzufügen und 5 Minuten anbraten.",
+        "es": "Añadir las verduras y saltear durante 5 minutos."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Add rice and soy sauce, mix well.",
+        "fr": "Ajouter le riz et la sauce soja, bien mélanger.",
+        "de": "Reis und Sojasauce hinzufügen, gut vermischen.",
+        "es": "Añadir el arroz y la salsa de soja, mezclar bien."
+      }
+    }
+  ]
+}

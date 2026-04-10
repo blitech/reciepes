@@ -1,0 +1,96 @@
+{
+  "id": "bx",
+  "title": {
+    "en": "Beef Stroganoff",
+    "fr": "Stroganoff de Boeuf",
+    "de": "Böf Stroganoff",
+    "es": "Stroganoff de Ternera"
+  },
+  "time": 30,
+  "image": "https://blitech.github.io/reciepes/images/bx.jpg",
+  "tags": [
+    "russian",
+    "meat",
+    "creamy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "beef strips",
+        "fr": "lamelles de boeuf",
+        "de": "Rinderstreifen",
+        "es": "tiras de ternera"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "mushrooms",
+        "fr": "champignons",
+        "de": "Pilze",
+        "es": "champiñones"
+      },
+      "quantity": 250,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "sour cream",
+        "fr": "crème aigre",
+        "de": "Sauerrahm",
+        "es": "crema agria"
+      },
+      "quantity": 200,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 1,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Sauté onions and beef strips.",
+        "fr": "Faire revenir les oignons et les lamelles de boeuf.",
+        "de": "Zwiebeln und Rinderstreifen anbraten.",
+        "es": "Saltear las cebollas y las tiras de ternera."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add mushrooms and cook for 5 minutes.",
+        "fr": "Ajouter les champignons et cuire pendant 5 minutes.",
+        "de": "Pilze hinzufügen und 5 Minuten garen.",
+        "es": "Añadir los champiñones y cocinar durante 5 minutos."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Stir in sour cream.",
+        "fr": "Ajouter la crème aigre.",
+        "de": "Sauerrahm unterrühren.",
+        "es": "Añadir la crema agria."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Serve over rice or pasta.",
+        "fr": "Servir sur du riz ou des pâtes.",
+        "de": "Auf Reis oder Nudeln servieren.",
+        "es": "Servir sobre arroz o pasta."
+      }
+    }
+  ]
+}

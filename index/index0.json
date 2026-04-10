@@ -1213,5 +1213,112 @@
       "pasta",
       "beans"
     ]
+  },
+  {
+    "id": "bv",
+    "t": "Spaghetti Carbonara",
+    "img": "https://blitech.github.io/reciepes/images/bv.jpg",
+    "m": 20,
+    "tg": [
+      "italian",
+      "pasta",
+      "classic"
+    ],
+    "ig": [
+      "spaghetti",
+      "eggs",
+      "pancetta",
+      "parmesan"
+    ]
+  },
+  {
+    "id": "bw",
+    "t": "Chili con Carne",
+    "img": "https://blitech.github.io/reciepes/images/bw.jpg",
+    "m": 45,
+    "tg": [
+      "mexican",
+      "meat",
+      "spicy",
+      "beans"
+    ],
+    "ig": [
+      "ground beef",
+      "kidney beans",
+      "tomatoes",
+      "chili powder"
+    ]
+  },
+  {
+    "id": "bx",
+    "t": "Beef Stroganoff",
+    "img": "https://blitech.github.io/reciepes/images/bx.jpg",
+    "m": 30,
+    "tg": [
+      "russian",
+      "meat",
+      "creamy"
+    ],
+    "ig": [
+      "beef strips",
+      "mushrooms",
+      "sour cream",
+      "onion"
+    ]
+  },
+  {
+    "id": "by",
+    "t": "Chocolate Cake",
+    "img": "https://blitech.github.io/reciepes/images/by.jpg",
+    "m": 60,
+    "tg": [
+      "dessert",
+      "sweet",
+      "chocolate"
+    ],
+    "ig": [
+      "chocolate",
+      "flour",
+      "sugar",
+      "eggs",
+      "butter"
+    ]
+  },
+  {
+    "id": "bz",
+    "t": "Vegetable Fried Rice",
+    "img": "https://blitech.github.io/reciepes/images/bz.jpg",
+    "m": 25,
+    "tg": [
+      "asian",
+      "vegetarian",
+      "rice",
+      "quick"
+    ],
+    "ig": [
+      "rice",
+      "vegetables",
+      "soy sauce",
+      "eggs"
+    ]
+  },
+  {
+    "id": "ca",
+    "t": "Chicken Stir Fry",
+    "img": "https://blitech.github.io/reciepes/images/ca.jpg",
+    "m": 20,
+    "tg": [
+      "asian",
+      "chicken",
+      "quick",
+      "healthy"
+    ],
+    "ig": [
+      "chicken breast",
+      "vegetables",
+      "soy sauce",
+      "ginger",
+      "garlic"
+    ]
   }
 ]
