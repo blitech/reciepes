@@ -1481,5 +1481,59 @@
       "onion",
       "vegetable broth"
     ]
+  },
+  {
+    "id": "ck",
+    "t": "Beef Carpaccio",
+    "img": "https://blitech.github.io/reciepes/images/ck.jpg",
+    "m": 15,
+    "tg": [
+      "italian",
+      "appetizer",
+      "raw",
+      "gourmet"
+    ],
+    "ig": [
+      "beef",
+      "parmesan",
+      "arugula",
+      "olive oil"
+    ]
+  },
+  {
+    "id": "cl",
+    "t": "Pad See Ew",
+    "img": "https://blitech.github.io/reciepes/images/cl.jpg",
+    "m": 25,
+    "tg": [
+      "thai",
+      "noodles",
+      "stir-fry",
+      "savory"
+    ],
+    "ig": [
+      "rice noodles",
+      "broccoli",
+      "soy sauce",
+      "egg"
+    ]
+  },
+  {
+    "id": "cm",
+    "t": "Tiramisu",
+    "img": "https://blitech.github.io/reciepes/images/cm.jpg",
+    "m": 30,
+    "tg": [
+      "italian",
+      "dessert",
+      "coffee",
+      "classic"
+    ],
+    "ig": [
+      "mascarpone",
+      "ladyfingers",
+      "coffee",
+      "cocoa powder"
+    ]
   }
 ]

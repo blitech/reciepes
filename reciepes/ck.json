@@ -1,0 +1,88 @@
+{
+  "id": "ck",
+  "title": {
+    "en": "Beef Carpaccio",
+    "fr": "Carpaccio de Bœuf",
+    "de": "Rinder-Carpaccio",
+    "es": "Carpaccio de Ternera"
+  },
+  "time": 15,
+  "image": "https://blitech.github.io/reciepes/images/ck.jpg",
+  "tags": [
+    "italian",
+    "appetizer",
+    "raw",
+    "gourmet"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "beef",
+        "fr": "boeuf",
+        "de": "Rindfleisch",
+        "es": "ternera"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "parmesan",
+        "fr": "parmesan",
+        "de": "Parmesan",
+        "es": "parmesano"
+      },
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "arugula",
+        "fr": "roquette",
+        "de": "Rucola",
+        "es": "rúcula"
+      },
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "olive oil",
+        "fr": "huile d'olive",
+        "de": "Olivenöl",
+        "es": "aceite de oliva"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Thinly slice raw beef.",
+        "fr": "Trancher finement le bœuf cru.",
+        "de": "Rohes Rindfleisch dünn aufschneiden.",
+        "es": "Cortar finamente la ternera cruda."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Arrange beef on a plate.",
+        "fr": "Disposer le bœuf sur une assiette.",
+        "de": "Rindfleisch auf einem Teller anrichten.",
+        "es": "Disponer la ternera en un plato."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Top with arugula, parmesan, and olive oil.",
+        "fr": "Garnir de roquette, de parmesan et d'huile d'olive.",
+        "de": "Mit Rucola, Parmesan und Olivenöl garnieren.",
+        "es": "Cubrir con rúcula, parmesano y aceite de oliva."
+      }
+    }
+  ]
+}
