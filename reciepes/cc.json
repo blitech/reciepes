@@ -1,0 +1,87 @@
+{
+  "id": "cc",
+  "title": {
+    "en": "Beef Tacos",
+    "fr": "Tacos au Bœuf",
+    "de": "Rindfleisch-Tacos",
+    "es": "Tacos de Ternera"
+  },
+  "time": 20,
+  "image": "https://blitech.github.io/reciepes/images/cc.jpg",
+  "tags": [
+    "mexican",
+    "meat",
+    "tacos"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "ground beef",
+        "fr": "bœuf haché",
+        "de": "Rinderhackfleisch",
+        "es": "carne picada de ternera"
+      },
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "taco shells",
+        "fr": "coquilles à tacos",
+        "de": "Taco-Schalen",
+        "es": "tortillas de taco"
+      },
+      "quantity": 8,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "lettuce",
+        "fr": "laitue",
+        "de": "Kopfsalat",
+        "es": "lechuga"
+      },
+      "quantity": 1,
+      "unit": "cup"
+    },
+    {
+      "name": {
+        "en": "cheese",
+        "fr": "fromage",
+        "de": "Käse",
+        "es": "queso"
+      },
+      "quantity": 100,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Cook ground beef in a pan until browned.",
+        "fr": "Cuire le bœuf haché dans une poêle jusqu'à ce qu'il soit doré.",
+        "de": "Rinderhackfleisch in einer Pfanne anbraten.",
+        "es": "Cocinar la carne picada de ternera en una sartén hasta que esté dorada."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Heat taco shells in the oven.",
+        "fr": "Chauffer les coquilles à tacos au four.",
+        "de": "Taco-Schalen im Ofen erwärmen.",
+        "es": "Calentar las tortillas de taco en el horno."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Fill shells with beef, lettuce, and cheese.",
+        "fr": "Remplir les coquilles avec le bœuf, la laitue et le fromage.",
+        "de": "Taco-Schalen mit Rindfleisch, Kopfsalat und Käse füllen.",
+        "es": "Rellenar las tortillas con la ternera, la lechuga y el queso."
+      }
+    }
+  ]
+}

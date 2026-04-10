@@ -1,0 +1,97 @@
+{
+  "id": "cb",
+  "title": {
+    "en": "Thai Green Curry",
+    "fr": "Curry Vert Thaï",
+    "de": "Thailändisches Grünes Curry",
+    "es": "Curry Verde Tailandés"
+  },
+  "time": 30,
+  "image": "https://blitech.github.io/reciepes/images/cb.jpg",
+  "tags": [
+    "thai",
+    "spicy",
+    "curry",
+    "coconut"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "chicken",
+        "fr": "poulet",
+        "de": "Hähnchen",
+        "es": "pollo"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "green curry paste",
+        "fr": "pâte de curry vert",
+        "de": "Grüne Currypaste",
+        "es": "pasta de curry verde"
+      },
+      "quantity": 3,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "coconut milk",
+        "fr": "lait de coco",
+        "de": "Kokosmilch",
+        "es": "leche de coco"
+      },
+      "quantity": 400,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "basil",
+        "fr": "basilic",
+        "de": "Basilikum",
+        "es": "albahaca"
+      },
+      "quantity": 1,
+      "unit": "handful"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Fry green curry paste in a pan.",
+        "fr": "Faire revenir la pâte de curry vert dans une poêle.",
+        "de": "Grüne Currypaste in einer Pfanne anbraten.",
+        "es": "Sofreír la pasta de curry verde en una sartén."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add chicken and cook until browned.",
+        "fr": "Ajouter le poulet et cuire jusqu'à ce qu'il soit doré.",
+        "de": "Hähnchen hinzufügen und anbraten.",
+        "es": "Añadir el pollo y cocinar hasta que esté dorado."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Pour in coconut milk and simmer.",
+        "fr": "Verser le lait de coco et laisser mijoter.",
+        "de": "Kokosmilch hinzufügen und köcheln lassen.",
+        "es": "Verter la leche de coco y cocinar a fuego lento."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Stir in basil before serving.",
+        "fr": "Ajouter le basilic avant de servir.",
+        "de": "Basilikum vor dem Servieren unterrühren.",
+        "es": "Añadir la albahaca antes de servir."
+      }
+    }
+  ]
+}

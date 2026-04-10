@@ -1,0 +1,97 @@
+{
+  "id": "cd",
+  "title": {
+    "en": "Sushi Rolls",
+    "fr": "Maki",
+    "de": "Sushi-Rollen",
+    "es": "Rollos de Sushi"
+  },
+  "time": 45,
+  "image": "https://blitech.github.io/reciepes/images/cd.jpg",
+  "tags": [
+    "japanese",
+    "fish",
+    "rice",
+    "sushi"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "sushi rice",
+        "fr": "riz à sushi",
+        "de": "Sushireis",
+        "es": "arroz para sushi"
+      },
+      "quantity": 300,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "nori sheets",
+        "fr": "feuilles de nori",
+        "de": "Nori-Blätter",
+        "es": "hojas de nori"
+      },
+      "quantity": 4,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "salmon",
+        "fr": "saumon",
+        "de": "Lachs",
+        "es": "salmón"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "cucumber",
+        "fr": "concombre",
+        "de": "Gurke",
+        "es": "pepino"
+      },
+      "quantity": 1,
+      "unit": ""
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Spread sushi rice over nori sheet.",
+        "fr": "Étaler le riz à sushi sur une feuille de nori.",
+        "de": "Sushireis auf einem Nori-Blatt verteilen.",
+        "es": "Extender el arroz para sushi sobre una hoja de nori."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Place salmon and cucumber strips in the middle.",
+        "fr": "Placer des lamelles de saumon et de concombre au centre.",
+        "de": "Lachs- und Gurkenstreifen in die Mitte legen.",
+        "es": "Colocar tiras de salmón y pepino en el centro."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Roll tightly using a bamboo mat.",
+        "fr": "Rouler serré à l'aide d'un tapis en bambou.",
+        "de": "Mit einer Bambusmatte fest einrollen.",
+        "es": "Enrollar firmemente usando una esterilla de bambú."
+      }
+    },
+    {
+      "order": 4,
+      "text": {
+        "en": "Slice into bite-sized pieces.",
+        "fr": "Couper en morceaux.",
+        "de": "In mundgerechte Stücke schneiden.",
+        "es": "Cortar en trozos pequeños."
+      }
+    }
+  ]
+}

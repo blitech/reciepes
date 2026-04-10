@@ -1320,5 +1320,58 @@
       "ginger",
       "garlic"
     ]
+  },
+  {
+    "id": "cb",
+    "t": "Thai Green Curry",
+    "img": "https://blitech.github.io/reciepes/images/cb.jpg",
+    "m": 30,
+    "tg": [
+      "thai",
+      "spicy",
+      "curry",
+      "coconut"
+    ],
+    "ig": [
+      "chicken",
+      "green curry paste",
+      "coconut milk",
+      "basil"
+    ]
+  },
+  {
+    "id": "cc",
+    "t": "Beef Tacos",
+    "img": "https://blitech.github.io/reciepes/images/cc.jpg",
+    "m": 20,
+    "tg": [
+      "mexican",
+      "meat",
+      "tacos"
+    ],
+    "ig": [
+      "ground beef",
+      "taco shells",
+      "lettuce",
+      "cheese"
+    ]
+  },
+  {
+    "id": "cd",
+    "t": "Sushi Rolls",
+    "img": "https://blitech.github.io/reciepes/images/cd.jpg",
+    "m": 45,
+    "tg": [
+      "japanese",
+      "fish",
+      "rice",
+      "sushi"
+    ],
+    "ig": [
+      "sushi rice",
+      "nori sheets",
+      "salmon",
+      "cucumber"
+    ]
   }
 ]
