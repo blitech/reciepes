@@ -1,0 +1,88 @@
+{
+  "id": "cj",
+  "title": {
+    "en": "Lentil Soup",
+    "fr": "Soupe aux Lentilles",
+    "de": "Linsensuppe",
+    "es": "Sopa de Lentejas"
+  },
+  "time": 40,
+  "image": "https://blitech.github.io/reciepes/images/cj.jpg",
+  "tags": [
+    "mediterranean",
+    "soup",
+    "healthy",
+    "vegan"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "lentils",
+        "fr": "lentilles",
+        "de": "Linsen",
+        "es": "lentejas"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "carrots",
+        "fr": "carottes",
+        "de": "Karotten",
+        "es": "zanahorias"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "onion",
+        "fr": "oignon",
+        "de": "Zwiebel",
+        "es": "cebolla"
+      },
+      "quantity": 1,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "vegetable broth",
+        "fr": "bouillon de légumes",
+        "de": "Gemüsebrühe",
+        "es": "caldo de verduras"
+      },
+      "quantity": 1,
+      "unit": "l"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Sauté onion and carrots.",
+        "fr": "Faire revenir l'oignon et les carottes.",
+        "de": "Zwiebel und Karotten anbraten.",
+        "es": "Sofreír la cebolla y las zanahorias."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add lentils and vegetable broth.",
+        "fr": "Ajouter les lentilles et le bouillon de légumes.",
+        "de": "Linsen und Gemüsebrühe hinzufügen.",
+        "es": "Añadir las lentejas y el caldo de verduras."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Simmer until lentils are tender.",
+        "fr": "Laisser mijoter jusqu'à ce que les lentilles soient tendres.",
+        "de": "Köcheln lassen, bis die Linsen zart sind.",
+        "es": "Cocinar a fuego lento hasta que las lentejas estén tiernas."
+      }
+    }
+  ]
+}

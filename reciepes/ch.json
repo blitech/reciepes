@@ -1,0 +1,88 @@
+{
+  "id": "ch",
+  "title": {
+    "en": "Chicken Teriyaki",
+    "fr": "Poulet Teriyaki",
+    "de": "Hähnchen-Teriyaki",
+    "es": "Pollo Teriyaki"
+  },
+  "time": 30,
+  "image": "https://blitech.github.io/reciepes/images/ch.jpg",
+  "tags": [
+    "japanese",
+    "chicken",
+    "sweet",
+    "savory"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "chicken",
+        "fr": "poulet",
+        "de": "Hähnchen",
+        "es": "pollo"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "soy sauce",
+        "fr": "sauce soja",
+        "de": "Sojasauce",
+        "es": "salsa de soja"
+      },
+      "quantity": 4,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "mirin",
+        "fr": "mirin",
+        "de": "Mirin",
+        "es": "mirin"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    },
+    {
+      "name": {
+        "en": "sugar",
+        "fr": "sucre",
+        "de": "Zucker",
+        "es": "azúcar"
+      },
+      "quantity": 1,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Mix soy sauce, mirin, and sugar to make sauce.",
+        "fr": "Mélanger la sauce soja, le mirin et le sucre pour préparer la sauce.",
+        "de": "Sojasauce, Mirin und Zucker für die Sauce mischen.",
+        "es": "Mezclar salsa de soja, mirin y azúcar para hacer la salsa."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Cook chicken in a pan.",
+        "fr": "Cuire le poulet dans une poêle.",
+        "de": "Hähnchen in einer Pfanne braten.",
+        "es": "Cocinar el pollo en una sartén."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Pour sauce over chicken and simmer until glazed.",
+        "fr": "Verser la sauce sur le poulet et laisser mijoter jusqu'à ce qu'il soit glacé.",
+        "de": "Sauce über das Hähnchen gießen und köcheln lassen, bis es glasiert ist.",
+        "es": "Verter la salsa sobre el pollo y cocinar a fuego lento hasta que esté glaseado."
+      }
+    }
+  ]
+}

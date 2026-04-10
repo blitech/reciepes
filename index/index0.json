@@ -1427,5 +1427,59 @@
       "coconut milk",
       "sugar"
     ]
+  },
+  {
+    "id": "ch",
+    "t": "Chicken Teriyaki",
+    "img": "https://blitech.github.io/reciepes/images/ch.jpg",
+    "m": 30,
+    "tg": [
+      "japanese",
+      "chicken",
+      "sweet",
+      "savory"
+    ],
+    "ig": [
+      "chicken",
+      "soy sauce",
+      "mirin",
+      "sugar"
+    ]
+  },
+  {
+    "id": "ci",
+    "t": "Eggplant Parmesan",
+    "img": "https://blitech.github.io/reciepes/images/ci.jpg",
+    "m": 60,
+    "tg": [
+      "italian",
+      "vegetarian",
+      "casserole",
+      "classic"
+    ],
+    "ig": [
+      "eggplant",
+      "tomato sauce",
+      "parmesan",
+      "mozzarella"
+    ]
+  },
+  {
+    "id": "cj",
+    "t": "Lentil Soup",
+    "img": "https://blitech.github.io/reciepes/images/cj.jpg",
+    "m": 40,
+    "tg": [
+      "mediterranean",
+      "soup",
+      "healthy",
+      "vegan"
+    ],
+    "ig": [
+      "lentils",
+      "carrots",
+      "onion",
+      "vegetable broth"
+    ]
   }
 ]

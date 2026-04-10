@@ -1,0 +1,88 @@
+{
+  "id": "ci",
+  "title": {
+    "en": "Eggplant Parmesan",
+    "fr": "Aubergine à la Parmigiana",
+    "de": "Auberginen-Parmigiana",
+    "es": "Berenjena a la Parmigiana"
+  },
+  "time": 60,
+  "image": "https://blitech.github.io/reciepes/images/ci.jpg",
+  "tags": [
+    "italian",
+    "vegetarian",
+    "casserole",
+    "classic"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "eggplant",
+        "fr": "aubergine",
+        "de": "Aubergine",
+        "es": "berenjena"
+      },
+      "quantity": 2,
+      "unit": ""
+    },
+    {
+      "name": {
+        "en": "tomato sauce",
+        "fr": "sauce tomate",
+        "de": "Tomatensauce",
+        "es": "salsa de tomate"
+      },
+      "quantity": 500,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "parmesan",
+        "fr": "parmesan",
+        "de": "Parmesan",
+        "es": "parmesano"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "mozzarella",
+        "fr": "mozzarella",
+        "de": "Mozzarella",
+        "es": "mozzarella"
+      },
+      "quantity": 200,
+      "unit": "g"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Slice and fry eggplant.",
+        "fr": "Couper et faire frire l'aubergine.",
+        "de": "Aubergine in Scheiben schneiden und anbraten.",
+        "es": "Cortar y freír la berenjena."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Layer eggplant with tomato sauce, parmesan, and mozzarella.",
+        "fr": "Superposer l'aubergine avec la sauce tomate, le parmesan et la mozzarella.",
+        "de": "Aubergine mit Tomatensauce, Parmesan und Mozzarella schichten.",
+        "es": "Disponer en capas la berenjena con salsa de tomate, parmesano y mozzarella."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Bake in oven until bubbly.",
+        "fr": "Cuire au four jusqu'à ce que ce soit bouillonnant.",
+        "de": "Im Ofen backen, bis es blubbert.",
+        "es": "Hornear hasta que esté burbujeante."
+      }
+    }
+  ]
+}
