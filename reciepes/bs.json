@@ -1,0 +1,98 @@
+{
+  "id": "bs",
+  "title": {
+    "en": "Chicken Tikka Masala",
+    "fr": "Poulet Tikka Masala",
+    "de": "Hähnchen Tikka Masala",
+    "es": "Pollo Tikka Masala"
+  },
+  "time": 60,
+  "image": "https://blitech.github.io/reciepes/images/bs.jpg",
+  "tags": [
+    "indian",
+    "spicy",
+    "creamy",
+    "chicken"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "chicken",
+        "fr": "poulet",
+        "de": "Hähnchen",
+        "es": "pollo"
+      },
+      "quantity": 800,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "yogurt",
+        "fr": "yaourt",
+        "de": "Joghurt",
+        "es": "yogur"
+      },
+      "quantity": 150,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "tomato puree",
+        "fr": "purée de tomates",
+        "de": "Tomatenmark",
+        "es": "puré de tomate"
+      },
+      "quantity": 400,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "heavy cream",
+        "fr": "crème liquide",
+        "de": "Sahne",
+        "es": "nata"
+      },
+      "quantity": 200,
+      "unit": "ml"
+    },
+    {
+      "name": {
+        "en": "garam masala",
+        "fr": "garam masala",
+        "de": "Garam Masala",
+        "es": "garam masala"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Marinate chicken in yogurt and spices for 1 hour.",
+        "fr": "Mariner le poulet dans le yaourt et les épices pendant 1 heure.",
+        "de": "Hähnchen 1 Stunde lang in Joghurt und Gewürzen marinieren.",
+        "es": "Marinar el pollo en yogur y especias durante 1 hora."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Grill or sauté the chicken until browned.",
+        "fr": "Griller ou faire sauter le poulet jusqu'à ce qu'il soit doré.",
+        "de": "Das Hähnchen grillen oder anbraten, bis es braun ist.",
+        "es": "Asar o saltear el pollo hasta que se dore."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Simmer with tomato puree and heavy cream.",
+        "fr": "Laisser mijoter avec la purée de tomates et la crème liquide.",
+        "de": "Mit Tomatenmark und Sahne köcheln lassen.",
+        "es": "Cocinar a fuego lento con el puré de tomate y la nata."
+      }
+    }
+  ]
+}

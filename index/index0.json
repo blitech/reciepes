@@ -1162,5 +1162,56 @@
       "egg yolk",
       "sugar"
     ]
+  },
+  {
+    "id": "bs",
+    "t": "Chicken Tikka Masala",
+    "img": "https://blitech.github.io/reciepes/images/bs.jpg",
+    "m": 60,
+    "tg": [
+      "indian",
+      "spicy",
+      "creamy",
+      "chicken"
+    ],
+    "ig": [
+      "chicken",
+      "yogurt",
+      "tomato puree"
+    ]
+  },
+  {
+    "id": "bt",
+    "t": "Caesar Salad",
+    "img": "https://blitech.github.io/reciepes/images/bt.jpg",
+    "m": 20,
+    "tg": [
+      "american",
+      "salad",
+      "fresh",
+      "quick"
+    ],
+    "ig": [
+      "lettuce",
+      "croutons",
+      "parmesan"
+    ]
+  },
+  {
+    "id": "bu",
+    "t": "Minestrone",
+    "img": "https://blitech.github.io/reciepes/images/bu.jpg",
+    "m": 50,
+    "tg": [
+      "italian",
+      "soup",
+      "vegetable",
+      "healthy"
+    ],
+    "ig": [
+      "vegetables",
+      "pasta",
+      "beans"
+    ]
   }
 ]

@@ -1,0 +1,88 @@
+{
+  "id": "bu",
+  "title": {
+    "en": "Minestrone",
+    "fr": "Minestrone",
+    "de": "Minestrone",
+    "es": "Minestrone"
+  },
+  "time": 50,
+  "image": "https://blitech.github.io/reciepes/images/bu.jpg",
+  "tags": [
+    "italian",
+    "soup",
+    "vegetable",
+    "healthy"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "vegetables",
+        "fr": "légumes",
+        "de": "Gemüse",
+        "es": "verduras"
+      },
+      "quantity": 500,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "pasta",
+        "fr": "pâtes",
+        "de": "Nudeln",
+        "es": "pasta"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "beans",
+        "fr": "haricots",
+        "de": "Bohnen",
+        "es": "frijoles"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "tomato puree",
+        "fr": "purée de tomates",
+        "de": "Tomatenmark",
+        "es": "puré de tomate"
+      },
+      "quantity": 2,
+      "unit": "tbsp"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Chop vegetables and sauté in olive oil.",
+        "fr": "Couper les légumes et les faire revenir dans l'huile d'olive.",
+        "de": "Gemüse hacken und in Olivenöl anbraten.",
+        "es": "Picar las verduras y saltearlas en aceite de oliva."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Add water, tomato puree and beans, simmer for 20 minutes.",
+        "fr": "Ajouter de l'eau, de la purée de tomates et des haricots, laisser mijoter 20 minutes.",
+        "de": "Wasser, Tomatenmark und Bohnen hinzufügen, 20 Minuten köcheln lassen.",
+        "es": "Añadir agua, puré de tomate y frijoles, cocinar a fuego lento 20 minutos."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Add pasta and cook until tender.",
+        "fr": "Ajouter les pâtes et cuire jusqu'à ce qu'elles soient tendres.",
+        "de": "Nudeln hinzufügen und kochen, bis sie weich sind.",
+        "es": "Añadir la pasta y cocinar hasta que esté tierna."
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "id": "bt",
+  "title": {
+    "en": "Caesar Salad",
+    "fr": "Salade César",
+    "de": "Caesar Salad",
+    "es": "Ensalada César"
+  },
+  "time": 20,
+  "image": "https://blitech.github.io/reciepes/images/bt.jpg",
+  "tags": [
+    "american",
+    "salad",
+    "fresh",
+    "quick"
+  ],
+  "ingredients": [
+    {
+      "name": {
+        "en": "lettuce",
+        "fr": "laitue",
+        "de": "Kopfsalat",
+        "es": "lechuga"
+      },
+      "quantity": 1,
+      "unit": "head"
+    },
+    {
+      "name": {
+        "en": "croutons",
+        "fr": "croûtons",
+        "de": "Croutons",
+        "es": "crutones"
+      },
+      "quantity": 100,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "parmesan",
+        "fr": "parmesan",
+        "de": "Parmesan",
+        "es": "parmesano"
+      },
+      "quantity": 50,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "chicken breast",
+        "fr": "blanc de poulet",
+        "de": "Hähnchenbrust",
+        "es": "pechuga de pollo"
+      },
+      "quantity": 200,
+      "unit": "g"
+    },
+    {
+      "name": {
+        "en": "mayonnaise",
+        "fr": "mayonnaise",
+        "de": "Mayonnaise",
+        "es": "mayonesa"
+      },
+      "quantity": 100,
+      "unit": "ml"
+    }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": {
+        "en": "Chop the lettuce and grill the chicken breast.",
+        "fr": "Couper la laitue et griller le blanc de poulet.",
+        "de": "Kopfsalat hacken und Hähnchenbrust grillen.",
+        "es": "Picar la lechuga y asar la pechuga de pollo."
+      }
+    },
+    {
+      "order": 2,
+      "text": {
+        "en": "Mix mayonnaise, parmesan and a bit of garlic for the dressing.",
+        "fr": "Mélanger la mayonnaise, le parmesan et un peu d'ail pour la sauce.",
+        "de": "Mayonnaise, Parmesan und etwas Knoblauch für das Dressing mischen.",
+        "es": "Mezclar mayonesa, parmesano y un poco de ajo para el aderezo."
+      }
+    },
+    {
+      "order": 3,
+      "text": {
+        "en": "Toss lettuce with dressing, top with chicken, croutons and parmesan.",
+        "fr": "Mélanger la laitue avec la sauce, garnir de poulet, de croûtons et de parmesan.",
+        "de": "Kopfsalat mit Dressing vermengen, mit Hähnchen, Croutons und Parmesan belegen.",
+        "es": "Mezclar la lechuga con el aderezo, cubrir con pollo, crutones y parmesano."
+      }
+    }
+  ]
+}
